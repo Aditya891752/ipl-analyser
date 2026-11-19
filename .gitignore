@@ -1,0 +1,10 @@
+# Power BI
+*.tmp
+~*
+*.pbix.backup
+*.pbit.backup
+
+# OS
+Thumbs.db
+.DS_Store
+.vscode/

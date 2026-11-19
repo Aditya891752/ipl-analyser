@@ -1,0 +1,357 @@
+MatchID,Season,Venue,Team1,Team2,TossWinner,TossDecision,Team1Score,Team2Score,Winner,Loser,MarginValue,MarginType,ManOfMatch
+1,2019,Narendra Modi Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,147,214,Mumbai Indians,Chennai Super Kings,9,wickets,Rohit Sharma
+2,2019,Narendra Modi Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,142,168,Punjab Kings,Kolkata Knight Riders,8,wickets,Arshdeep Singh
+3,2019,Wankhede Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,210,140,Chennai Super Kings,Punjab Kings,70,runs,Ravindra Jadeja
+4,2019,Sawai Mansingh Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,197,197,Chennai Super Kings,Royal Challengers Bangalore,4,wickets,Ravindra Jadeja
+5,2019,Rajiv Gandhi Intl Cricket Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,154,144,Mumbai Indians,Kolkata Knight Riders,10,runs,Ishan Kishan
+6,2019,M. Chinnaswamy Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,209,130,Kolkata Knight Riders,Rajasthan Royals,79,runs,Pat Cummins
+7,2019,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,217,201,Delhi Capitals,Royal Challengers Bangalore,16,runs,Axar Patel
+8,2019,Wankhede Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,182,205,Kolkata Knight Riders,Royal Challengers Bangalore,5,wickets,Andre Russell
+9,2019,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,209,160,Kolkata Knight Riders,Royal Challengers Bangalore,49,runs,Shreyas Iyer
+10,2019,Arun Jaitley Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,181,151,Punjab Kings,Sunrisers Hyderabad,30,runs,Liam Livingstone
+11,2019,Arun Jaitley Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,182,162,Royal Challengers Bangalore,Sunrisers Hyderabad,20,runs,Dinesh Karthik
+12,2019,Rajiv Gandhi Intl Cricket Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,171,163,Delhi Capitals,Kolkata Knight Riders,8,runs,Anrich Nortje
+13,2019,Punjab Cricket Assoc Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,194,202,Delhi Capitals,Sunrisers Hyderabad,1,wickets,Axar Patel
+14,2019,Sawai Mansingh Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,132,131,Kolkata Knight Riders,Sunrisers Hyderabad,1,runs,Sunil Narine
+15,2019,Wankhede Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,field,191,176,Chennai Super Kings,Punjab Kings,15,runs,Devon Conway
+16,2019,Narendra Modi Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,139,207,Chennai Super Kings,Mumbai Indians,5,wickets,Ruturaj Gaikwad
+17,2019,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,172,161,Rajasthan Royals,Mumbai Indians,11,runs,Sanju Samson
+18,2019,Eden Gardens,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,195,210,Sunrisers Hyderabad,Chennai Super Kings,7,wickets,T Natarajan
+19,2019,Eden Gardens,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,186,132,Rajasthan Royals,Mumbai Indians,54,runs,Ravichandran Ashwin
+20,2019,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,211,152,Kolkata Knight Riders,Rajasthan Royals,59,runs,Pat Cummins
+21,2019,M. Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,186,124,Royal Challengers Bangalore,Sunrisers Hyderabad,62,runs,Dinesh Karthik
+22,2019,M. Chinnaswamy Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,213,172,Kolkata Knight Riders,Sunrisers Hyderabad,41,runs,Shreyas Iyer
+23,2019,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,159,162,Punjab Kings,Chennai Super Kings,1,wickets,Liam Livingstone
+24,2019,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,178,196,Mumbai Indians,Royal Challengers Bangalore,5,wickets,Ishan Kishan
+25,2019,Narendra Modi Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,203,184,Delhi Capitals,Rajasthan Royals,19,runs,Rishabh Pant
+26,2019,M. Chinnaswamy Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,214,174,Mumbai Indians,Sunrisers Hyderabad,40,runs,Jasprit Bumrah
+27,2019,M. Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,171,141,Punjab Kings,Royal Challengers Bangalore,30,runs,Matthew Short
+28,2019,M. Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,210,158,Royal Challengers Bangalore,Kolkata Knight Riders,52,runs,Glenn Maxwell
+29,2019,M. Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,162,212,Royal Challengers Bangalore,Chennai Super Kings,3,wickets,Dinesh Karthik
+30,2019,Arun Jaitley Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,187,149,Sunrisers Hyderabad,Rajasthan Royals,38,runs,Aiden Markram
+31,2019,Eden Gardens,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,166,180,Punjab Kings,Sunrisers Hyderabad,8,wickets,Liam Livingstone
+32,2019,Narendra Modi Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,138,164,Royal Challengers Bangalore,Punjab Kings,2,wickets,Faf du Plessis
+33,2019,Sawai Mansingh Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,140,213,Kolkata Knight Riders,Royal Challengers Bangalore,2,wickets,Pat Cummins
+34,2019,M. Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,193,186,Delhi Capitals,Chennai Super Kings,7,runs,Anrich Nortje
+35,2019,Sawai Mansingh Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,203,129,Delhi Capitals,Kolkata Knight Riders,74,runs,Rishabh Pant
+36,2019,Narendra Modi Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,209,201,Mumbai Indians,Sunrisers Hyderabad,8,runs,Rohit Sharma
+37,2019,Eden Gardens,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,193,159,Kolkata Knight Riders,Punjab Kings,34,runs,Pat Cummins
+38,2019,MA Chidambaram Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,135,124,Royal Challengers Bangalore,Chennai Super Kings,11,runs,Faf du Plessis
+39,2019,M. Chinnaswamy Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,186,160,Mumbai Indians,Delhi Capitals,26,runs,Jasprit Bumrah
+40,2019,Narendra Modi Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,186,203,Mumbai Indians,Delhi Capitals,8,wickets,Suryakumar Yadav
+41,2019,Narendra Modi Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,168,192,Sunrisers Hyderabad,Royal Challengers Bangalore,2,wickets,Aiden Markram
+42,2019,Rajiv Gandhi Intl Cricket Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,215,135,Delhi Capitals,Sunrisers Hyderabad,80,runs,Anrich Nortje
+43,2019,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,202,127,Mumbai Indians,Kolkata Knight Riders,75,runs,Ishan Kishan
+44,2019,Punjab Cricket Assoc Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,bat,188,164,Punjab Kings,Delhi Capitals,24,runs,Liam Livingstone
+45,2019,Punjab Cricket Assoc Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,168,168,Rajasthan Royals,Sunrisers Hyderabad,9,wickets,Jos Buttler
+46,2019,MA Chidambaram Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,178,179,Chennai Super Kings,Punjab Kings,6,wickets,Deepak Chahar
+47,2019,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,220,139,Mumbai Indians,Kolkata Knight Riders,81,runs,Rohit Sharma
+48,2019,Punjab Cricket Assoc Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,137,201,Kolkata Knight Riders,Chennai Super Kings,3,wickets,Shreyas Iyer
+49,2019,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,139,163,Mumbai Indians,Sunrisers Hyderabad,7,wickets,Ishan Kishan
+50,2019,Narendra Modi Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,140,212,Mumbai Indians,Punjab Kings,4,wickets,Ishan Kishan
+51,2019,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,176,134,Kolkata Knight Riders,Royal Challengers Bangalore,42,runs,Venkatesh Iyer
+52,2019,Punjab Cricket Assoc Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,142,153,Punjab Kings,Sunrisers Hyderabad,9,wickets,Liam Livingstone
+53,2019,Arun Jaitley Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,172,191,Sunrisers Hyderabad,Royal Challengers Bangalore,8,wickets,Washington Sundar
+54,2019,M. Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,144,143,Royal Challengers Bangalore,Rajasthan Royals,1,runs,Glenn Maxwell
+55,2019,M. Chinnaswamy Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,199,125,Chennai Super Kings,Delhi Capitals,74,runs,Ravindra Jadeja
+56,2019,Eden Gardens,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,178,177,Punjab Kings,Kolkata Knight Riders,1,runs,Shikhar Dhawan
+57,2019,Narendra Modi Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,162,130,Royal Challengers Bangalore,Punjab Kings,32,runs,Glenn Maxwell
+58,2019,Sawai Mansingh Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,bat,142,137,Punjab Kings,Delhi Capitals,5,runs,Shikhar Dhawan
+59,2019,Wankhede Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,194,156,Delhi Capitals,Chennai Super Kings,38,runs,Mitchell Marsh
+60,2019,Punjab Cricket Assoc Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,163,211,Punjab Kings,Sunrisers Hyderabad,2,wickets,Matthew Short
+61,2020,MA Chidambaram Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,177,145,Sunrisers Hyderabad,Mumbai Indians,32,runs,T Natarajan
+62,2020,Eden Gardens,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,163,160,Punjab Kings,Sunrisers Hyderabad,3,runs,Sam Curran
+63,2020,M. Chinnaswamy Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,131,127,Chennai Super Kings,Kolkata Knight Riders,4,runs,Ruturaj Gaikwad
+64,2020,Punjab Cricket Assoc Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,155,202,Royal Challengers Bangalore,Chennai Super Kings,4,wickets,Dinesh Karthik
+65,2020,Wankhede Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,202,144,Sunrisers Hyderabad,Delhi Capitals,58,runs,Washington Sundar
+66,2020,Narendra Modi Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,130,209,Royal Challengers Bangalore,Punjab Kings,7,wickets,Dinesh Karthik
+67,2020,Rajiv Gandhi Intl Cricket Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,139,163,Mumbai Indians,Delhi Capitals,7,wickets,Hardik Pandya
+68,2020,M. Chinnaswamy Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,field,190,182,Rajasthan Royals,Punjab Kings,8,runs,Yashasvi Jaiswal
+69,2020,Wankhede Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,217,175,Kolkata Knight Riders,Chennai Super Kings,42,runs,Andre Russell
+70,2020,Rajiv Gandhi Intl Cricket Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,165,182,Mumbai Indians,Sunrisers Hyderabad,4,wickets,Rohit Sharma
+71,2020,Sawai Mansingh Stadium,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,150,153,Punjab Kings,Royal Challengers Bangalore,5,wickets,Shikhar Dhawan
+72,2020,Narendra Modi Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,163,203,Royal Challengers Bangalore,Chennai Super Kings,4,wickets,Glenn Maxwell
+73,2020,Narendra Modi Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,177,153,Kolkata Knight Riders,Sunrisers Hyderabad,24,runs,Venkatesh Iyer
+74,2020,Sawai Mansingh Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,134,188,Kolkata Knight Riders,Punjab Kings,6,wickets,Andre Russell
+75,2020,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,136,208,Delhi Capitals,Mumbai Indians,7,wickets,David Warner
+76,2020,MA Chidambaram Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,162,202,Mumbai Indians,Royal Challengers Bangalore,8,wickets,Hardik Pandya
+77,2020,Punjab Cricket Assoc Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,217,213,Rajasthan Royals,Chennai Super Kings,4,runs,Jos Buttler
+78,2020,Arun Jaitley Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,186,193,Rajasthan Royals,Punjab Kings,2,wickets,Trent Boult
+79,2020,Arun Jaitley Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,180,147,Delhi Capitals,Rajasthan Royals,33,runs,Anrich Nortje
+80,2020,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,216,136,Kolkata Knight Riders,Chennai Super Kings,80,runs,Andre Russell
+81,2020,Wankhede Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,155,199,Delhi Capitals,Sunrisers Hyderabad,4,wickets,Anrich Nortje
+82,2020,Rajiv Gandhi Intl Cricket Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,214,162,Punjab Kings,Mumbai Indians,52,runs,Arshdeep Singh
+83,2020,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,133,178,Delhi Capitals,Kolkata Knight Riders,1,wickets,Axar Patel
+84,2020,MA Chidambaram Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,135,120,Sunrisers Hyderabad,Mumbai Indians,15,runs,Aiden Markram
+85,2020,Rajiv Gandhi Intl Cricket Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,130,160,Punjab Kings,Sunrisers Hyderabad,4,wickets,Liam Livingstone
+86,2020,MA Chidambaram Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,208,207,Punjab Kings,Royal Challengers Bangalore,1,runs,Liam Livingstone
+87,2020,Rajiv Gandhi Intl Cricket Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,207,120,Sunrisers Hyderabad,Punjab Kings,87,runs,Aiden Markram
+88,2020,Punjab Cricket Assoc Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,209,204,Royal Challengers Bangalore,Chennai Super Kings,5,runs,Dinesh Karthik
+89,2020,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,162,181,Delhi Capitals,Sunrisers Hyderabad,2,wickets,Rishabh Pant
+90,2020,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,200,198,Chennai Super Kings,Rajasthan Royals,2,runs,MS Dhoni
+91,2020,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,174,155,Chennai Super Kings,Mumbai Indians,19,runs,Ruturaj Gaikwad
+92,2020,Rajiv Gandhi Intl Cricket Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,161,156,Sunrisers Hyderabad,Kolkata Knight Riders,5,runs,Kane Williamson
+93,2020,Punjab Cricket Assoc Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,194,164,Mumbai Indians,Delhi Capitals,30,runs,Jasprit Bumrah
+94,2020,Wankhede Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,193,137,Royal Challengers Bangalore,Kolkata Knight Riders,56,runs,Dinesh Karthik
+95,2020,Punjab Cricket Assoc Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,150,163,Kolkata Knight Riders,Sunrisers Hyderabad,6,wickets,Andre Russell
+96,2020,Rajiv Gandhi Intl Cricket Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,189,189,Rajasthan Royals,Mumbai Indians,9,wickets,Yashasvi Jaiswal
+97,2020,Arun Jaitley Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,213,215,Kolkata Knight Riders,Chennai Super Kings,5,wickets,Venkatesh Iyer
+98,2020,Arun Jaitley Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,131,135,Chennai Super Kings,Rajasthan Royals,7,wickets,Ruturaj Gaikwad
+99,2020,Rajiv Gandhi Intl Cricket Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,175,202,Mumbai Indians,Rajasthan Royals,9,wickets,Hardik Pandya
+100,2020,Arun Jaitley Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,214,188,Sunrisers Hyderabad,Punjab Kings,26,runs,Washington Sundar
+101,2020,Narendra Modi Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,168,129,Mumbai Indians,Punjab Kings,39,runs,Hardik Pandya
+102,2020,Wankhede Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,196,137,Punjab Kings,Mumbai Indians,59,runs,Arshdeep Singh
+103,2020,Punjab Cricket Assoc Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,197,125,Mumbai Indians,Sunrisers Hyderabad,72,runs,Suryakumar Yadav
+104,2020,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,184,166,Sunrisers Hyderabad,Rajasthan Royals,18,runs,T Natarajan
+105,2020,Wankhede Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,219,199,Delhi Capitals,Chennai Super Kings,20,runs,Axar Patel
+106,2020,Eden Gardens,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,214,137,Delhi Capitals,Chennai Super Kings,77,runs,David Warner
+107,2020,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,206,149,Royal Challengers Bangalore,Chennai Super Kings,57,runs,Faf du Plessis
+108,2020,Wankhede Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,154,157,Sunrisers Hyderabad,Punjab Kings,7,wickets,Washington Sundar
+109,2020,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,152,211,Rajasthan Royals,Royal Challengers Bangalore,7,wickets,Sanju Samson
+110,2020,MA Chidambaram Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,204,166,Delhi Capitals,Rajasthan Royals,38,runs,David Warner
+111,2020,Sawai Mansingh Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,208,173,Chennai Super Kings,Mumbai Indians,35,runs,Ravindra Jadeja
+112,2020,Narendra Modi Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,178,200,Rajasthan Royals,Chennai Super Kings,3,wickets,Ravichandran Ashwin
+113,2020,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,189,125,Mumbai Indians,Royal Challengers Bangalore,64,runs,Rohit Sharma
+114,2020,Sawai Mansingh Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,172,145,Punjab Kings,Chennai Super Kings,27,runs,Matthew Short
+115,2020,Punjab Cricket Assoc Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,bat,200,140,Punjab Kings,Delhi Capitals,60,runs,Sam Curran
+116,2020,Rajiv Gandhi Intl Cricket Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,185,211,Sunrisers Hyderabad,Kolkata Knight Riders,2,wickets,T Natarajan
+117,2021,Punjab Cricket Assoc Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,209,143,Royal Challengers Bangalore,Sunrisers Hyderabad,66,runs,Mohammed Siraj
+118,2021,Rajiv Gandhi Intl Cricket Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,151,124,Sunrisers Hyderabad,Kolkata Knight Riders,27,runs,Aiden Markram
+119,2021,Punjab Cricket Assoc Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,211,141,Punjab Kings,Rajasthan Royals,70,runs,Liam Livingstone
+120,2021,Eden Gardens,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,216,121,Sunrisers Hyderabad,Rajasthan Royals,95,runs,Kane Williamson
+121,2021,Sawai Mansingh Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,155,198,Chennai Super Kings,Delhi Capitals,3,wickets,Ravindra Jadeja
+122,2021,M. Chinnaswamy Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,140,178,Sunrisers Hyderabad,Mumbai Indians,4,wickets,T Natarajan
+123,2021,Arun Jaitley Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,148,182,Sunrisers Hyderabad,Royal Challengers Bangalore,8,wickets,Kane Williamson
+124,2021,Sawai Mansingh Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,130,142,Mumbai Indians,Royal Challengers Bangalore,5,wickets,Rohit Sharma
+125,2021,Narendra Modi Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,135,133,Kolkata Knight Riders,Rajasthan Royals,2,runs,Shreyas Iyer
+126,2021,Eden Gardens,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,210,165,Punjab Kings,Royal Challengers Bangalore,45,runs,Arshdeep Singh
+127,2021,Punjab Cricket Assoc Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,187,183,Punjab Kings,Delhi Capitals,4,runs,Liam Livingstone
+128,2021,Wankhede Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,152,202,Kolkata Knight Riders,Sunrisers Hyderabad,2,wickets,Venkatesh Iyer
+129,2021,MA Chidambaram Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,174,173,Delhi Capitals,Kolkata Knight Riders,1,runs,Anrich Nortje
+130,2021,Eden Gardens,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,177,143,Sunrisers Hyderabad,Delhi Capitals,34,runs,Bhuvneshwar Kumar
+131,2021,Narendra Modi Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,140,188,Punjab Kings,Kolkata Knight Riders,2,wickets,Sam Curran
+132,2021,MA Chidambaram Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,155,143,Punjab Kings,Chennai Super Kings,12,runs,Sam Curran
+133,2021,Wankhede Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,183,201,Chennai Super Kings,Sunrisers Hyderabad,1,wickets,Devon Conway
+134,2021,Narendra Modi Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,186,196,Royal Challengers Bangalore,Rajasthan Royals,6,wickets,Dinesh Karthik
+135,2021,MA Chidambaram Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,142,194,Chennai Super Kings,Sunrisers Hyderabad,9,wickets,MS Dhoni
+136,2021,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,154,128,Kolkata Knight Riders,Delhi Capitals,26,runs,Pat Cummins
+137,2021,Wankhede Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,216,123,Chennai Super Kings,Sunrisers Hyderabad,93,runs,Ruturaj Gaikwad
+138,2021,Eden Gardens,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,163,183,Delhi Capitals,Rajasthan Royals,7,wickets,Mitchell Marsh
+139,2021,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,218,206,Sunrisers Hyderabad,Delhi Capitals,12,runs,Bhuvneshwar Kumar
+140,2021,MA Chidambaram Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,157,204,Sunrisers Hyderabad,Mumbai Indians,5,wickets,Washington Sundar
+141,2021,Narendra Modi Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,192,122,Delhi Capitals,Punjab Kings,70,runs,David Warner
+142,2021,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,177,159,Kolkata Knight Riders,Royal Challengers Bangalore,18,runs,Shreyas Iyer
+143,2021,Wankhede Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,210,176,Sunrisers Hyderabad,Kolkata Knight Riders,34,runs,Bhuvneshwar Kumar
+144,2021,Sawai Mansingh Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,158,211,Rajasthan Royals,Punjab Kings,4,wickets,Jos Buttler
+145,2021,MA Chidambaram Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,180,205,Royal Challengers Bangalore,Mumbai Indians,3,wickets,Glenn Maxwell
+146,2021,Wankhede Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,220,191,Chennai Super Kings,Kolkata Knight Riders,29,runs,Ravindra Jadeja
+147,2021,Sawai Mansingh Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,157,126,Sunrisers Hyderabad,Mumbai Indians,31,runs,T Natarajan
+148,2021,Arun Jaitley Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,197,200,Sunrisers Hyderabad,Rajasthan Royals,2,wickets,Aiden Markram
+149,2021,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,216,133,Royal Challengers Bangalore,Chennai Super Kings,83,runs,Mohammed Siraj
+150,2021,Arun Jaitley Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,202,170,Rajasthan Royals,Delhi Capitals,32,runs,Sanju Samson
+151,2021,Rajiv Gandhi Intl Cricket Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,209,146,Punjab Kings,Rajasthan Royals,63,runs,Arshdeep Singh
+152,2021,M. Chinnaswamy Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,201,125,Rajasthan Royals,Punjab Kings,76,runs,Ravichandran Ashwin
+153,2021,Sawai Mansingh Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,196,128,Sunrisers Hyderabad,Mumbai Indians,68,runs,Kane Williamson
+154,2021,MA Chidambaram Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,211,140,Kolkata Knight Riders,Mumbai Indians,71,runs,Shreyas Iyer
+155,2021,Rajiv Gandhi Intl Cricket Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,163,194,Mumbai Indians,Rajasthan Royals,7,wickets,Jasprit Bumrah
+156,2021,Rajiv Gandhi Intl Cricket Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,183,181,Chennai Super Kings,Delhi Capitals,2,runs,Deepak Chahar
+157,2021,Arun Jaitley Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,140,188,Royal Challengers Bangalore,Mumbai Indians,6,wickets,Dinesh Karthik
+158,2021,MA Chidambaram Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,164,127,Rajasthan Royals,Delhi Capitals,37,runs,Yashasvi Jaiswal
+159,2021,MA Chidambaram Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,141,170,Chennai Super Kings,Mumbai Indians,3,wickets,MS Dhoni
+160,2021,Sawai Mansingh Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,field,178,196,Punjab Kings,Mumbai Indians,7,wickets,Arshdeep Singh
+161,2021,Wankhede Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,130,174,Punjab Kings,Kolkata Knight Riders,6,wickets,Shikhar Dhawan
+162,2021,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,142,200,Delhi Capitals,Sunrisers Hyderabad,2,wickets,Anrich Nortje
+163,2021,Punjab Cricket Assoc Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,153,151,Delhi Capitals,Royal Challengers Bangalore,2,runs,Rishabh Pant
+164,2021,Sawai Mansingh Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,158,120,Royal Challengers Bangalore,Mumbai Indians,38,runs,Faf du Plessis
+165,2021,Rajiv Gandhi Intl Cricket Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,138,135,Kolkata Knight Riders,Royal Challengers Bangalore,3,runs,Andre Russell
+166,2021,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,178,193,Rajasthan Royals,Kolkata Knight Riders,6,wickets,Jos Buttler
+167,2021,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,168,156,Kolkata Knight Riders,Sunrisers Hyderabad,12,runs,Sunil Narine
+168,2021,Rajiv Gandhi Intl Cricket Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,156,170,Chennai Super Kings,Royal Challengers Bangalore,9,wickets,MS Dhoni
+169,2021,Arun Jaitley Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,169,175,Rajasthan Royals,Punjab Kings,3,wickets,Trent Boult
+170,2021,M. Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,182,190,Sunrisers Hyderabad,Delhi Capitals,6,wickets,Kane Williamson
+171,2021,Sawai Mansingh Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,157,211,Chennai Super Kings,Delhi Capitals,9,wickets,MS Dhoni
+172,2021,M. Chinnaswamy Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,143,165,Kolkata Knight Riders,Punjab Kings,3,wickets,Sunil Narine
+173,2021,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,137,137,Sunrisers Hyderabad,Kolkata Knight Riders,8,wickets,T Natarajan
+174,2021,M. Chinnaswamy Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,169,141,Kolkata Knight Riders,Delhi Capitals,28,runs,Andre Russell
+175,2021,Punjab Cricket Assoc Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,179,182,Kolkata Knight Riders,Rajasthan Royals,2,wickets,Sunil Narine
+176,2021,MA Chidambaram Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,182,213,Rajasthan Royals,Delhi Capitals,2,wickets,Sanju Samson
+177,2022,Punjab Cricket Assoc Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,138,163,Mumbai Indians,Delhi Capitals,4,wickets,Rohit Sharma
+178,2022,Arun Jaitley Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,132,201,Sunrisers Hyderabad,Punjab Kings,1,wickets,T Natarajan
+179,2022,Sawai Mansingh Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,158,193,Delhi Capitals,Royal Challengers Bangalore,2,wickets,Mitchell Marsh
+180,2022,Wankhede Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,194,208,Chennai Super Kings,Delhi Capitals,5,wickets,MS Dhoni
+181,2022,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,156,147,Rajasthan Royals,Sunrisers Hyderabad,9,runs,Jos Buttler
+182,2022,Sawai Mansingh Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,205,193,Chennai Super Kings,Mumbai Indians,12,runs,Deepak Chahar
+183,2022,Narendra Modi Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,184,204,Delhi Capitals,Chennai Super Kings,4,wickets,David Warner
+184,2022,MA Chidambaram Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,149,160,Delhi Capitals,Sunrisers Hyderabad,7,wickets,Anrich Nortje
+185,2022,MA Chidambaram Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,148,168,Sunrisers Hyderabad,Mumbai Indians,5,wickets,Aiden Markram
+186,2022,MA Chidambaram Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,214,187,Punjab Kings,Sunrisers Hyderabad,27,runs,Matthew Short
+187,2022,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,155,130,Sunrisers Hyderabad,Mumbai Indians,25,runs,Aiden Markram
+188,2022,Punjab Cricket Assoc Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,144,133,Royal Challengers Bangalore,Rajasthan Royals,11,runs,Virat Kohli
+189,2022,Wankhede Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,field,197,159,Chennai Super Kings,Punjab Kings,38,runs,Ruturaj Gaikwad
+190,2022,M. Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,135,195,Mumbai Indians,Punjab Kings,4,wickets,Hardik Pandya
+191,2022,Narendra Modi Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,130,140,Kolkata Knight Riders,Punjab Kings,4,wickets,Venkatesh Iyer
+192,2022,Wankhede Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,213,152,Royal Challengers Bangalore,Rajasthan Royals,61,runs,Dinesh Karthik
+193,2022,Punjab Cricket Assoc Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,131,202,Kolkata Knight Riders,Chennai Super Kings,3,wickets,Shreyas Iyer
+194,2022,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,143,156,Kolkata Knight Riders,Chennai Super Kings,2,wickets,Sunil Narine
+195,2022,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,147,203,Kolkata Knight Riders,Rajasthan Royals,7,wickets,Andre Russell
+196,2022,Eden Gardens,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,176,138,Rajasthan Royals,Punjab Kings,38,runs,Sanju Samson
+197,2022,Rajiv Gandhi Intl Cricket Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,151,126,Rajasthan Royals,Kolkata Knight Riders,25,runs,Yashasvi Jaiswal
+198,2022,MA Chidambaram Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,133,195,Kolkata Knight Riders,Sunrisers Hyderabad,8,wickets,Pat Cummins
+199,2022,Rajiv Gandhi Intl Cricket Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,139,142,Rajasthan Royals,Delhi Capitals,5,wickets,Trent Boult
+200,2022,Punjab Cricket Assoc Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,172,128,Punjab Kings,Rajasthan Royals,44,runs,Arshdeep Singh
+201,2022,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,198,208,Royal Challengers Bangalore,Kolkata Knight Riders,7,wickets,Faf du Plessis
+202,2022,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,175,165,Rajasthan Royals,Sunrisers Hyderabad,10,runs,Ravichandran Ashwin
+203,2022,Rajiv Gandhi Intl Cricket Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,164,204,Mumbai Indians,Punjab Kings,5,wickets,Suryakumar Yadav
+204,2022,MA Chidambaram Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,133,215,Delhi Capitals,Mumbai Indians,8,wickets,Rishabh Pant
+205,2022,Narendra Modi Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,214,192,Royal Challengers Bangalore,Chennai Super Kings,22,runs,Dinesh Karthik
+206,2022,Narendra Modi Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,192,175,Punjab Kings,Mumbai Indians,17,runs,Sam Curran
+207,2022,Arun Jaitley Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,201,155,Punjab Kings,Royal Challengers Bangalore,46,runs,Matthew Short
+208,2022,Rajiv Gandhi Intl Cricket Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,180,158,Chennai Super Kings,Delhi Capitals,22,runs,Ravindra Jadeja
+209,2022,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,191,148,Rajasthan Royals,Sunrisers Hyderabad,43,runs,Sanju Samson
+210,2022,Sawai Mansingh Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,133,180,Mumbai Indians,Kolkata Knight Riders,8,wickets,Ishan Kishan
+211,2022,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,174,201,Kolkata Knight Riders,Delhi Capitals,5,wickets,Sunil Narine
+212,2022,Rajiv Gandhi Intl Cricket Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,175,158,Rajasthan Royals,Royal Challengers Bangalore,17,runs,Yashasvi Jaiswal
+213,2022,MA Chidambaram Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,185,178,Kolkata Knight Riders,Mumbai Indians,7,runs,Venkatesh Iyer
+214,2022,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,142,153,Punjab Kings,Kolkata Knight Riders,5,wickets,Arshdeep Singh
+215,2022,MA Chidambaram Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,180,136,Royal Challengers Bangalore,Delhi Capitals,44,runs,Mohammed Siraj
+216,2022,M. Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,191,143,Punjab Kings,Mumbai Indians,48,runs,Liam Livingstone
+217,2022,Rajiv Gandhi Intl Cricket Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,220,187,Mumbai Indians,Chennai Super Kings,33,runs,Jasprit Bumrah
+218,2022,Narendra Modi Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,139,176,Delhi Capitals,Mumbai Indians,1,wickets,Axar Patel
+219,2022,MA Chidambaram Stadium,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,145,183,Punjab Kings,Royal Challengers Bangalore,1,wickets,Liam Livingstone
+220,2022,Narendra Modi Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,134,183,Chennai Super Kings,Rajasthan Royals,4,wickets,Deepak Chahar
+221,2022,Arun Jaitley Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,137,136,Mumbai Indians,Punjab Kings,1,runs,Jasprit Bumrah
+222,2022,Eden Gardens,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,219,176,Chennai Super Kings,Royal Challengers Bangalore,43,runs,Ravindra Jadeja
+223,2022,MA Chidambaram Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,178,179,Kolkata Knight Riders,Rajasthan Royals,3,wickets,Andre Russell
+224,2022,Arun Jaitley Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,209,203,Rajasthan Royals,Chennai Super Kings,6,runs,Sanju Samson
+225,2022,Wankhede Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,170,185,Delhi Capitals,Royal Challengers Bangalore,6,wickets,Mitchell Marsh
+226,2022,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,198,151,Kolkata Knight Riders,Rajasthan Royals,47,runs,Pat Cummins
+227,2022,Wankhede Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,187,172,Chennai Super Kings,Sunrisers Hyderabad,15,runs,Ravindra Jadeja
+228,2022,Eden Gardens,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,207,133,Rajasthan Royals,Chennai Super Kings,74,runs,Jos Buttler
+229,2022,Sawai Mansingh Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,134,175,Royal Challengers Bangalore,Sunrisers Hyderabad,9,wickets,Virat Kohli
+230,2022,Sawai Mansingh Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,158,134,Sunrisers Hyderabad,Delhi Capitals,24,runs,T Natarajan
+231,2022,M. Chinnaswamy Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,207,189,Kolkata Knight Riders,Punjab Kings,18,runs,Shreyas Iyer
+232,2022,M. Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,131,215,Mumbai Indians,Chennai Super Kings,3,wickets,Ishan Kishan
+233,2022,Eden Gardens,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,201,141,Delhi Capitals,Royal Challengers Bangalore,60,runs,Rishabh Pant
+234,2022,M. Chinnaswamy Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,193,141,Kolkata Knight Riders,Rajasthan Royals,52,runs,Venkatesh Iyer
+235,2022,Sawai Mansingh Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,174,201,Delhi Capitals,Mumbai Indians,4,wickets,Mitchell Marsh
+236,2022,Narendra Modi Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,201,170,Rajasthan Royals,Royal Challengers Bangalore,31,runs,Trent Boult
+237,2023,Narendra Modi Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,212,181,Mumbai Indians,Delhi Capitals,31,runs,Jasprit Bumrah
+238,2023,Eden Gardens,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,165,197,Mumbai Indians,Delhi Capitals,9,wickets,Hardik Pandya
+239,2023,Arun Jaitley Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,152,157,Chennai Super Kings,Punjab Kings,8,wickets,Devon Conway
+240,2023,Punjab Cricket Assoc Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,173,202,Chennai Super Kings,Mumbai Indians,3,wickets,MS Dhoni
+241,2023,Wankhede Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,152,158,Kolkata Knight Riders,Royal Challengers Bangalore,2,wickets,Sunil Narine
+242,2023,Wankhede Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,212,149,Sunrisers Hyderabad,Delhi Capitals,63,runs,Bhuvneshwar Kumar
+243,2023,Rajiv Gandhi Intl Cricket Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,198,166,Rajasthan Royals,Delhi Capitals,32,runs,Sanju Samson
+244,2023,MA Chidambaram Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,148,201,Mumbai Indians,Royal Challengers Bangalore,7,wickets,Jasprit Bumrah
+245,2023,Punjab Cricket Assoc Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,164,120,Mumbai Indians,Delhi Capitals,44,runs,Jasprit Bumrah
+246,2023,Rajiv Gandhi Intl Cricket Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,133,139,Royal Challengers Bangalore,Delhi Capitals,3,wickets,Dinesh Karthik
+247,2023,MA Chidambaram Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,213,142,Delhi Capitals,Mumbai Indians,71,runs,David Warner
+248,2023,Sawai Mansingh Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,134,207,Chennai Super Kings,Royal Challengers Bangalore,9,wickets,Ravindra Jadeja
+249,2023,Eden Gardens,Mumbai Indians,Punjab Kings,Mumbai Indians,field,133,148,Punjab Kings,Mumbai Indians,6,wickets,Arshdeep Singh
+250,2023,M. Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,193,178,Royal Challengers Bangalore,Rajasthan Royals,15,runs,Dinesh Karthik
+251,2023,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,144,176,Punjab Kings,Sunrisers Hyderabad,8,wickets,Shikhar Dhawan
+252,2023,Narendra Modi Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,173,201,Sunrisers Hyderabad,Punjab Kings,3,wickets,Aiden Markram
+253,2023,Punjab Cricket Assoc Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,175,202,Mumbai Indians,Punjab Kings,8,wickets,Hardik Pandya
+254,2023,Eden Gardens,Punjab Kings,Rajasthan Royals,Punjab Kings,field,203,145,Punjab Kings,Rajasthan Royals,58,runs,Matthew Short
+255,2023,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,201,134,Sunrisers Hyderabad,Rajasthan Royals,67,runs,Aiden Markram
+256,2023,Eden Gardens,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,153,132,Kolkata Knight Riders,Punjab Kings,21,runs,Shreyas Iyer
+257,2023,Arun Jaitley Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,194,166,Sunrisers Hyderabad,Kolkata Knight Riders,28,runs,Washington Sundar
+258,2023,M. Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,193,146,Royal Challengers Bangalore,Rajasthan Royals,47,runs,Glenn Maxwell
+259,2023,MA Chidambaram Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,158,204,Chennai Super Kings,Royal Challengers Bangalore,2,wickets,MS Dhoni
+260,2023,Narendra Modi Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,153,152,Chennai Super Kings,Sunrisers Hyderabad,1,runs,Devon Conway
+261,2023,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,211,201,Royal Challengers Bangalore,Rajasthan Royals,10,runs,Dinesh Karthik
+262,2023,Punjab Cricket Assoc Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,156,176,Chennai Super Kings,Delhi Capitals,5,wickets,Ruturaj Gaikwad
+263,2023,Narendra Modi Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,field,183,205,Punjab Kings,Delhi Capitals,6,wickets,Arshdeep Singh
+264,2023,Rajiv Gandhi Intl Cricket Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,182,123,Royal Challengers Bangalore,Mumbai Indians,59,runs,Mohammed Siraj
+265,2023,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,194,209,Mumbai Indians,Sunrisers Hyderabad,5,wickets,Ishan Kishan
+266,2023,MA Chidambaram Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,153,186,Delhi Capitals,Punjab Kings,7,wickets,Mitchell Marsh
+267,2023,Rajiv Gandhi Intl Cricket Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,202,152,Chennai Super Kings,Sunrisers Hyderabad,50,runs,MS Dhoni
+268,2023,Rajiv Gandhi Intl Cricket Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,169,165,Royal Challengers Bangalore,Punjab Kings,4,runs,Faf du Plessis
+269,2023,Sawai Mansingh Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,198,135,Royal Challengers Bangalore,Punjab Kings,63,runs,Glenn Maxwell
+270,2023,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,178,130,Kolkata Knight Riders,Royal Challengers Bangalore,48,runs,Pat Cummins
+271,2023,Wankhede Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,152,169,Royal Challengers Bangalore,Chennai Super Kings,6,wickets,Faf du Plessis
+272,2023,Eden Gardens,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,153,188,Mumbai Indians,Chennai Super Kings,3,wickets,Suryakumar Yadav
+273,2023,Arun Jaitley Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,178,139,Sunrisers Hyderabad,Kolkata Knight Riders,39,runs,T Natarajan
+274,2023,Punjab Cricket Assoc Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,217,182,Delhi Capitals,Sunrisers Hyderabad,35,runs,Mitchell Marsh
+275,2023,MA Chidambaram Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,212,159,Sunrisers Hyderabad,Kolkata Knight Riders,53,runs,Bhuvneshwar Kumar
+276,2023,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,155,215,Punjab Kings,Sunrisers Hyderabad,4,wickets,Liam Livingstone
+277,2023,Rajiv Gandhi Intl Cricket Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,147,199,Mumbai Indians,Sunrisers Hyderabad,7,wickets,Suryakumar Yadav
+278,2023,Narendra Modi Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,176,185,Mumbai Indians,Punjab Kings,7,wickets,Jasprit Bumrah
+279,2023,Arun Jaitley Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,140,169,Rajasthan Royals,Punjab Kings,9,wickets,Yashasvi Jaiswal
+280,2023,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,209,175,Mumbai Indians,Rajasthan Royals,34,runs,Rohit Sharma
+281,2023,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,132,170,Chennai Super Kings,Royal Challengers Bangalore,3,wickets,Ravindra Jadeja
+282,2023,Sawai Mansingh Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,187,167,Sunrisers Hyderabad,Delhi Capitals,20,runs,Washington Sundar
+283,2023,Sawai Mansingh Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,170,182,Royal Challengers Bangalore,Sunrisers Hyderabad,9,wickets,Glenn Maxwell
+284,2023,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,200,181,Sunrisers Hyderabad,Mumbai Indians,19,runs,T Natarajan
+285,2023,Narendra Modi Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,137,202,Punjab Kings,Chennai Super Kings,1,wickets,Matthew Short
+286,2023,Rajiv Gandhi Intl Cricket Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,145,203,Chennai Super Kings,Sunrisers Hyderabad,8,wickets,Devon Conway
+287,2023,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,130,158,Delhi Capitals,Mumbai Indians,7,wickets,Anrich Nortje
+288,2023,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,214,128,Rajasthan Royals,Kolkata Knight Riders,86,runs,Yashasvi Jaiswal
+289,2023,Rajiv Gandhi Intl Cricket Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,199,207,Rajasthan Royals,Royal Challengers Bangalore,1,wickets,Jos Buttler
+290,2023,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,160,171,Kolkata Knight Riders,Chennai Super Kings,4,wickets,Sunil Narine
+291,2023,Punjab Cricket Assoc Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,141,180,Mumbai Indians,Rajasthan Royals,9,wickets,Suryakumar Yadav
+292,2023,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,179,215,Rajasthan Royals,Kolkata Knight Riders,7,wickets,Jos Buttler
+293,2023,Narendra Modi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,214,143,Sunrisers Hyderabad,Delhi Capitals,71,runs,Aiden Markram
+294,2023,Narendra Modi Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,185,125,Kolkata Knight Riders,Punjab Kings,60,runs,Sunil Narine
+295,2023,Sawai Mansingh Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,field,218,195,Delhi Capitals,Punjab Kings,23,runs,Mitchell Marsh
+296,2023,Narendra Modi Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,206,201,Chennai Super Kings,Sunrisers Hyderabad,5,runs,Devon Conway
+297,2024,M. Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,135,204,Chennai Super Kings,Delhi Capitals,1,wickets,Deepak Chahar
+298,2024,Arun Jaitley Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,182,211,Chennai Super Kings,Rajasthan Royals,8,wickets,Ravindra Jadeja
+299,2024,Rajiv Gandhi Intl Cricket Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,132,182,Kolkata Knight Riders,Mumbai Indians,8,wickets,Pat Cummins
+300,2024,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,138,132,Royal Challengers Bangalore,Chennai Super Kings,6,runs,Glenn Maxwell
+301,2024,MA Chidambaram Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,162,187,Sunrisers Hyderabad,Rajasthan Royals,3,wickets,Washington Sundar
+302,2024,Punjab Cricket Assoc Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,175,185,Kolkata Knight Riders,Rajasthan Royals,8,wickets,Venkatesh Iyer
+303,2024,Arun Jaitley Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,165,170,Chennai Super Kings,Royal Challengers Bangalore,1,wickets,Ruturaj Gaikwad
+304,2024,Wankhede Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,164,162,Kolkata Knight Riders,Chennai Super Kings,2,runs,Venkatesh Iyer
+305,2024,Punjab Cricket Assoc Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,161,198,Rajasthan Royals,Kolkata Knight Riders,6,wickets,Jos Buttler
+306,2024,Narendra Modi Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,189,197,Punjab Kings,Chennai Super Kings,3,wickets,Arshdeep Singh
+307,2024,MA Chidambaram Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,190,203,Mumbai Indians,Punjab Kings,6,wickets,Rohit Sharma
+308,2024,Rajiv Gandhi Intl Cricket Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,143,181,Punjab Kings,Sunrisers Hyderabad,4,wickets,Matthew Short
+309,2024,Punjab Cricket Assoc Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,165,188,Mumbai Indians,Punjab Kings,7,wickets,Ishan Kishan
+310,2024,M. Chinnaswamy Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,144,177,Chennai Super Kings,Mumbai Indians,2,wickets,Devon Conway
+311,2024,Sawai Mansingh Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,171,202,Punjab Kings,Kolkata Knight Riders,4,wickets,Arshdeep Singh
+312,2024,MA Chidambaram Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,193,159,Punjab Kings,Mumbai Indians,34,runs,Arshdeep Singh
+313,2024,Rajiv Gandhi Intl Cricket Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,163,140,Rajasthan Royals,Punjab Kings,23,runs,Ravichandran Ashwin
+314,2024,Narendra Modi Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,212,194,Kolkata Knight Riders,Sunrisers Hyderabad,18,runs,Shreyas Iyer
+315,2024,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,150,127,Mumbai Indians,Royal Challengers Bangalore,23,runs,Rohit Sharma
+316,2024,M. Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,166,152,Punjab Kings,Mumbai Indians,14,runs,Liam Livingstone
+317,2024,Wankhede Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,182,188,Rajasthan Royals,Kolkata Knight Riders,2,wickets,Sanju Samson
+318,2024,Eden Gardens,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,210,193,Rajasthan Royals,Delhi Capitals,17,runs,Sanju Samson
+319,2024,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,184,142,Sunrisers Hyderabad,Kolkata Knight Riders,42,runs,Aiden Markram
+320,2024,Punjab Cricket Assoc Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,147,148,Mumbai Indians,Royal Challengers Bangalore,9,wickets,Rohit Sharma
+321,2024,Eden Gardens,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,206,205,Delhi Capitals,Royal Challengers Bangalore,1,runs,Mitchell Marsh
+322,2024,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,182,146,Mumbai Indians,Delhi Capitals,36,runs,Hardik Pandya
+323,2024,Narendra Modi Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,161,173,Kolkata Knight Riders,Delhi Capitals,6,wickets,Andre Russell
+324,2024,Wankhede Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,167,207,Kolkata Knight Riders,Royal Challengers Bangalore,5,wickets,Shreyas Iyer
+325,2024,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,131,143,Kolkata Knight Riders,Chennai Super Kings,1,wickets,Andre Russell
+326,2024,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,139,150,Punjab Kings,Royal Challengers Bangalore,5,wickets,Sam Curran
+327,2024,Rajiv Gandhi Intl Cricket Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,195,190,Delhi Capitals,Royal Challengers Bangalore,5,runs,Rishabh Pant
+328,2024,Eden Gardens,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,162,194,Royal Challengers Bangalore,Delhi Capitals,7,wickets,Faf du Plessis
+329,2024,Arun Jaitley Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,196,197,Chennai Super Kings,Rajasthan Royals,6,wickets,Ruturaj Gaikwad
+330,2024,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,164,171,Punjab Kings,Sunrisers Hyderabad,3,wickets,Matthew Short
+331,2024,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,212,172,Rajasthan Royals,Kolkata Knight Riders,40,runs,Jos Buttler
+332,2024,Eden Gardens,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,181,133,Sunrisers Hyderabad,Rajasthan Royals,48,runs,Washington Sundar
+333,2024,Narendra Modi Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,190,188,Rajasthan Royals,Chennai Super Kings,2,runs,Sanju Samson
+334,2024,Punjab Cricket Assoc Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,176,120,Rajasthan Royals,Chennai Super Kings,56,runs,Trent Boult
+335,2024,Wankhede Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,206,211,Punjab Kings,Sunrisers Hyderabad,9,wickets,Arshdeep Singh
+336,2024,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,212,188,Sunrisers Hyderabad,Delhi Capitals,24,runs,T Natarajan
+337,2024,Arun Jaitley Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,173,171,Punjab Kings,Rajasthan Royals,2,runs,Liam Livingstone
+338,2024,Wankhede Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,204,150,Rajasthan Royals,Chennai Super Kings,54,runs,Yashasvi Jaiswal
+339,2024,Eden Gardens,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,164,166,Delhi Capitals,Mumbai Indians,4,wickets,Rishabh Pant
+340,2024,Eden Gardens,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,135,139,Mumbai Indians,Sunrisers Hyderabad,6,wickets,Suryakumar Yadav
+341,2024,Arun Jaitley Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,152,210,Royal Challengers Bangalore,Sunrisers Hyderabad,2,wickets,Dinesh Karthik
+342,2024,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,214,190,Sunrisers Hyderabad,Chennai Super Kings,24,runs,Bhuvneshwar Kumar
+343,2024,MA Chidambaram Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,183,135,Kolkata Knight Riders,Royal Challengers Bangalore,48,runs,Pat Cummins
+344,2024,Arun Jaitley Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,135,153,Delhi Capitals,Mumbai Indians,8,wickets,Mitchell Marsh
+345,2024,Narendra Modi Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,208,145,Kolkata Knight Riders,Rajasthan Royals,63,runs,Shreyas Iyer
+346,2024,Eden Gardens,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,196,133,Mumbai Indians,Sunrisers Hyderabad,63,runs,Hardik Pandya
+347,2024,Narendra Modi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,133,153,Kolkata Knight Riders,Sunrisers Hyderabad,3,wickets,Shreyas Iyer
+348,2024,Narendra Modi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,186,195,Kolkata Knight Riders,Sunrisers Hyderabad,6,wickets,Sunil Narine
+349,2024,Wankhede Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,143,151,Delhi Capitals,Kolkata Knight Riders,8,wickets,David Warner
+350,2024,M. Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,219,180,Chennai Super Kings,Royal Challengers Bangalore,39,runs,MS Dhoni
+351,2024,M. Chinnaswamy Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,205,176,Kolkata Knight Riders,Sunrisers Hyderabad,29,runs,Shreyas Iyer
+352,2024,Wankhede Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,199,130,Royal Challengers Bangalore,Sunrisers Hyderabad,69,runs,Faf du Plessis
+353,2024,M. Chinnaswamy Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,141,202,Rajasthan Royals,Kolkata Knight Riders,3,wickets,Sanju Samson
+354,2024,Punjab Cricket Assoc Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,bat,163,198,Punjab Kings,Delhi Capitals,1,wickets,Sam Curran
+355,2024,Arun Jaitley Stadium,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,159,147,Royal Challengers Bangalore,Punjab Kings,12,runs,Mohammed Siraj
+356,2024,MA Chidambaram Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,164,130,Rajasthan Royals,Punjab Kings,34,runs,Trent Boult

@@ -1,0 +1,1761 @@
+MatchID,Season,Team,Opposition,Batter,Runs,Balls,Fours,Sixes,Dismissed,StrikeRate
+1,2019,Chennai Super Kings,Mumbai Indians,MS Dhoni,11,23,1,0,0,47.83
+1,2019,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,27,27,4,2,0,100.0
+1,2019,Chennai Super Kings,Mumbai Indians,Devon Conway,25,34,5,2,1,73.53
+1,2019,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,28,28,4,1,1,100.0
+1,2019,Chennai Super Kings,Mumbai Indians,Deepak Chahar,0,13,0,0,1,0.0
+2,2019,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,46,46,5,2,0,100.0
+2,2019,Kolkata Knight Riders,Punjab Kings,Andre Russell,34,34,4,1,1,100.0
+2,2019,Kolkata Knight Riders,Punjab Kings,Sunil Narine,15,15,3,1,0,100.0
+2,2019,Kolkata Knight Riders,Punjab Kings,Pat Cummins,40,55,3,2,1,72.73
+2,2019,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,0,4,0,0,1,0.0
+3,2019,Chennai Super Kings,Punjab Kings,MS Dhoni,76,76,12,6,1,100.0
+3,2019,Chennai Super Kings,Punjab Kings,Ruturaj Gaikwad,59,62,4,4,1,95.16
+3,2019,Chennai Super Kings,Punjab Kings,Devon Conway,1,4,0,0,0,25.0
+3,2019,Chennai Super Kings,Punjab Kings,Ravindra Jadeja,55,55,7,0,1,100.0
+3,2019,Chennai Super Kings,Punjab Kings,Deepak Chahar,8,20,0,0,1,40.0
+4,2019,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,69,82,11,5,0,84.15
+4,2019,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,39,44,5,3,1,88.64
+4,2019,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,57,57,3,1,0,100.0
+4,2019,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,1,8,0,0,0,12.5
+4,2019,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,3,8,0,0,1,37.5
+5,2019,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,57,57,6,1,0,100.0
+5,2019,Mumbai Indians,Kolkata Knight Riders,Hardik Pandya,31,31,3,0,0,100.0
+5,2019,Mumbai Indians,Kolkata Knight Riders,Suryakumar Yadav,1,3,0,0,1,33.33
+5,2019,Mumbai Indians,Kolkata Knight Riders,Jasprit Bumrah,61,61,6,0,0,100.0
+5,2019,Mumbai Indians,Kolkata Knight Riders,Ishan Kishan,0,7,0,0,0,0.0
+6,2019,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,74,74,8,5,1,100.0
+6,2019,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,26,34,5,1,0,76.47
+6,2019,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,50,50,10,5,0,100.0
+6,2019,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,20,34,0,0,1,58.82
+6,2019,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,36,36,1,1,1,100.0
+7,2019,Delhi Capitals,Royal Challengers Bangalore,David Warner,64,64,4,6,0,100.0
+7,2019,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,54,54,0,0,1,100.0
+7,2019,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,16,28,2,0,1,57.14
+7,2019,Delhi Capitals,Royal Challengers Bangalore,Anrich Nortje,70,80,6,0,0,87.5
+7,2019,Delhi Capitals,Royal Challengers Bangalore,Mitchell Marsh,11,11,2,0,1,100.0
+8,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,20,35,0,1,1,57.14
+8,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Faf du Plessis,60,60,3,6,1,100.0
+8,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Glenn Maxwell,44,44,3,1,0,100.0
+8,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Mohammed Siraj,12,18,1,1,1,66.67
+8,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Dinesh Karthik,17,19,3,1,1,89.47
+9,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,38,51,4,3,1,74.51
+9,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,37,37,3,3,1,100.0
+9,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,48,48,9,4,1,100.0
+9,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Pat Cummins,70,70,4,4,0,100.0
+9,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Venkatesh Iyer,10,19,1,1,1,52.63
+10,2019,Punjab Kings,Sunrisers Hyderabad,Shikhar Dhawan,0,15,0,0,0,0.0
+10,2019,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,66,66,0,4,0,100.0
+10,2019,Punjab Kings,Sunrisers Hyderabad,Arshdeep Singh,15,21,1,1,1,71.43
+10,2019,Punjab Kings,Sunrisers Hyderabad,Sam Curran,71,73,5,7,1,97.26
+10,2019,Punjab Kings,Sunrisers Hyderabad,Matthew Short,23,27,3,2,1,85.19
+11,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,59,59,0,1,1,100.0
+11,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,49,61,0,4,1,80.33
+11,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Glenn Maxwell,0,6,0,0,1,0.0
+11,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Mohammed Siraj,53,60,8,4,1,88.33
+11,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Dinesh Karthik,15,15,2,1,1,100.0
+12,2019,Delhi Capitals,Kolkata Knight Riders,David Warner,35,43,4,0,1,81.4
+12,2019,Delhi Capitals,Kolkata Knight Riders,Rishabh Pant,69,69,5,1,1,100.0
+12,2019,Delhi Capitals,Kolkata Knight Riders,Axar Patel,5,5,0,0,1,100.0
+12,2019,Delhi Capitals,Kolkata Knight Riders,Anrich Nortje,39,39,3,1,1,100.0
+12,2019,Delhi Capitals,Kolkata Knight Riders,Mitchell Marsh,3,7,0,0,1,42.86
+13,2019,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,53,57,1,3,1,92.98
+13,2019,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,58,58,6,1,1,100.0
+13,2019,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,34,47,3,3,1,72.34
+13,2019,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,37,37,5,1,1,100.0
+13,2019,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,1,9,0,0,1,11.11
+14,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Shreyas Iyer,28,28,5,0,1,100.0
+14,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,74,74,7,5,1,100.0
+14,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Sunil Narine,23,28,2,1,1,82.14
+14,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,4,11,0,0,0,36.36
+14,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,1,11,0,0,0,9.09
+15,2019,Chennai Super Kings,Punjab Kings,MS Dhoni,23,23,2,1,0,100.0
+15,2019,Chennai Super Kings,Punjab Kings,Ruturaj Gaikwad,8,16,1,0,1,50.0
+15,2019,Chennai Super Kings,Punjab Kings,Devon Conway,6,7,0,0,0,85.71
+15,2019,Chennai Super Kings,Punjab Kings,Ravindra Jadeja,31,31,4,3,1,100.0
+15,2019,Chennai Super Kings,Punjab Kings,Deepak Chahar,79,79,12,7,1,100.0
+16,2019,Mumbai Indians,Chennai Super Kings,Rohit Sharma,80,80,6,6,0,100.0
+16,2019,Mumbai Indians,Chennai Super Kings,Hardik Pandya,14,27,0,1,1,51.85
+16,2019,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,4,4,0,0,1,100.0
+16,2019,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,36,36,7,0,1,100.0
+16,2019,Mumbai Indians,Chennai Super Kings,Ishan Kishan,2,13,0,0,1,15.38
+17,2019,Rajasthan Royals,Mumbai Indians,Sanju Samson,20,20,3,2,1,100.0
+17,2019,Rajasthan Royals,Mumbai Indians,Jos Buttler,51,60,0,3,0,85.0
+17,2019,Rajasthan Royals,Mumbai Indians,Yashasvi Jaiswal,32,36,0,3,1,88.89
+17,2019,Rajasthan Royals,Mumbai Indians,Trent Boult,0,11,0,0,0,0.0
+17,2019,Rajasthan Royals,Mumbai Indians,Ravichandran Ashwin,66,66,9,6,1,100.0
+18,2019,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,61,61,3,3,1,100.0
+18,2019,Chennai Super Kings,Sunrisers Hyderabad,Ruturaj Gaikwad,49,49,9,4,1,100.0
+18,2019,Chennai Super Kings,Sunrisers Hyderabad,Devon Conway,17,17,2,1,1,100.0
+18,2019,Chennai Super Kings,Sunrisers Hyderabad,Ravindra Jadeja,64,64,0,2,1,100.0
+18,2019,Chennai Super Kings,Sunrisers Hyderabad,Deepak Chahar,4,17,0,0,1,23.53
+19,2019,Rajasthan Royals,Mumbai Indians,Sanju Samson,58,58,11,1,1,100.0
+19,2019,Rajasthan Royals,Mumbai Indians,Jos Buttler,19,19,3,1,1,100.0
+19,2019,Rajasthan Royals,Mumbai Indians,Yashasvi Jaiswal,50,50,5,5,1,100.0
+19,2019,Rajasthan Royals,Mumbai Indians,Trent Boult,24,24,3,2,0,100.0
+19,2019,Rajasthan Royals,Mumbai Indians,Ravichandran Ashwin,4,9,0,0,1,44.44
+20,2019,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,32,32,6,3,1,100.0
+20,2019,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,69,69,1,3,1,100.0
+20,2019,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,75,75,13,4,1,100.0
+20,2019,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,19,19,3,1,0,100.0
+20,2019,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,12,24,1,1,1,50.0
+21,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,46,46,1,2,1,100.0
+21,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,53,53,3,1,1,100.0
+21,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Glenn Maxwell,46,56,8,2,1,82.14
+21,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Mohammed Siraj,16,23,2,1,1,69.57
+21,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Dinesh Karthik,14,14,0,0,1,100.0
+22,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Shreyas Iyer,17,17,0,1,1,100.0
+22,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,14,14,0,0,1,100.0
+22,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Sunil Narine,47,57,6,4,1,82.46
+22,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,19,22,0,1,1,86.36
+22,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,35,35,5,1,1,100.0
+23,2019,Chennai Super Kings,Punjab Kings,MS Dhoni,35,35,2,2,1,100.0
+23,2019,Chennai Super Kings,Punjab Kings,Ruturaj Gaikwad,14,28,0,0,0,50.0
+23,2019,Chennai Super Kings,Punjab Kings,Devon Conway,30,33,2,0,0,90.91
+23,2019,Chennai Super Kings,Punjab Kings,Ravindra Jadeja,6,7,1,0,1,85.71
+23,2019,Chennai Super Kings,Punjab Kings,Deepak Chahar,60,60,12,2,1,100.0
+24,2019,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,58,61,9,3,0,95.08
+24,2019,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,14,27,2,0,1,51.85
+24,2019,Royal Challengers Bangalore,Mumbai Indians,Glenn Maxwell,29,29,2,1,1,100.0
+24,2019,Royal Challengers Bangalore,Mumbai Indians,Mohammed Siraj,12,16,1,1,1,75.0
+24,2019,Royal Challengers Bangalore,Mumbai Indians,Dinesh Karthik,47,47,7,0,0,100.0
+25,2019,Delhi Capitals,Rajasthan Royals,David Warner,19,30,3,0,1,63.33
+25,2019,Delhi Capitals,Rajasthan Royals,Rishabh Pant,44,57,5,0,1,77.19
+25,2019,Delhi Capitals,Rajasthan Royals,Axar Patel,73,73,12,6,1,100.0
+25,2019,Delhi Capitals,Rajasthan Royals,Anrich Nortje,3,9,0,0,0,33.33
+25,2019,Delhi Capitals,Rajasthan Royals,Mitchell Marsh,39,40,5,0,0,97.5
+26,2019,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,77,77,13,4,0,100.0
+26,2019,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,65,65,5,3,0,100.0
+26,2019,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,62,64,10,2,0,96.88
+26,2019,Mumbai Indians,Sunrisers Hyderabad,Jasprit Bumrah,6,6,0,0,1,100.0
+26,2019,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,1,5,0,0,1,20.0
+27,2019,Punjab Kings,Royal Challengers Bangalore,Shikhar Dhawan,58,73,5,0,1,79.45
+27,2019,Punjab Kings,Royal Challengers Bangalore,Liam Livingstone,13,13,1,1,1,100.0
+27,2019,Punjab Kings,Royal Challengers Bangalore,Arshdeep Singh,50,50,5,1,1,100.0
+27,2019,Punjab Kings,Royal Challengers Bangalore,Sam Curran,10,10,2,0,1,100.0
+27,2019,Punjab Kings,Royal Challengers Bangalore,Matthew Short,12,17,1,0,0,70.59
+28,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,75,75,11,1,1,100.0
+28,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Faf du Plessis,57,57,0,2,1,100.0
+28,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Glenn Maxwell,9,24,0,0,1,37.5
+28,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Mohammed Siraj,5,16,0,0,1,31.25
+28,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Dinesh Karthik,64,64,0,3,0,100.0
+29,2019,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,42,42,2,2,1,100.0
+29,2019,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,50,50,9,5,1,100.0
+29,2019,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,39,54,6,2,1,72.22
+29,2019,Chennai Super Kings,Royal Challengers Bangalore,Ravindra Jadeja,5,15,1,0,1,33.33
+29,2019,Chennai Super Kings,Royal Challengers Bangalore,Deepak Chahar,5,8,1,0,0,62.5
+30,2019,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,30,30,6,3,1,100.0
+30,2019,Sunrisers Hyderabad,Rajasthan Royals,Bhuvneshwar Kumar,24,24,4,1,1,100.0
+30,2019,Sunrisers Hyderabad,Rajasthan Royals,T Natarajan,36,42,6,1,1,85.71
+30,2019,Sunrisers Hyderabad,Rajasthan Royals,Washington Sundar,77,77,8,0,1,100.0
+30,2019,Sunrisers Hyderabad,Rajasthan Royals,Aiden Markram,11,22,0,0,0,50.0
+31,2019,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,57,67,0,0,0,85.07
+31,2019,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,27,39,1,2,1,69.23
+31,2019,Sunrisers Hyderabad,Punjab Kings,T Natarajan,77,77,13,1,1,100.0
+31,2019,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,1,10,0,0,0,10.0
+31,2019,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,4,16,0,0,1,25.0
+32,2019,Punjab Kings,Royal Challengers Bangalore,Shikhar Dhawan,74,84,12,5,0,88.1
+32,2019,Punjab Kings,Royal Challengers Bangalore,Liam Livingstone,45,56,5,1,1,80.36
+32,2019,Punjab Kings,Royal Challengers Bangalore,Arshdeep Singh,14,29,1,0,1,48.28
+32,2019,Punjab Kings,Royal Challengers Bangalore,Sam Curran,0,12,0,0,0,0.0
+32,2019,Punjab Kings,Royal Challengers Bangalore,Matthew Short,0,13,0,0,1,0.0
+33,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,55,65,2,4,0,84.62
+33,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Faf du Plessis,13,13,1,1,1,100.0
+33,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Glenn Maxwell,54,54,7,2,1,100.0
+33,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Mohammed Siraj,11,24,1,1,1,45.83
+33,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Dinesh Karthik,0,2,0,0,1,0.0
+34,2019,Delhi Capitals,Chennai Super Kings,David Warner,71,71,4,4,1,100.0
+34,2019,Delhi Capitals,Chennai Super Kings,Rishabh Pant,27,32,2,2,1,84.38
+34,2019,Delhi Capitals,Chennai Super Kings,Axar Patel,62,62,1,1,1,100.0
+34,2019,Delhi Capitals,Chennai Super Kings,Anrich Nortje,28,28,5,1,1,100.0
+34,2019,Delhi Capitals,Chennai Super Kings,Mitchell Marsh,5,12,1,0,1,41.67
+35,2019,Delhi Capitals,Kolkata Knight Riders,David Warner,40,40,7,3,1,100.0
+35,2019,Delhi Capitals,Kolkata Knight Riders,Rishabh Pant,44,44,8,4,0,100.0
+35,2019,Delhi Capitals,Kolkata Knight Riders,Axar Patel,16,21,0,0,1,76.19
+35,2019,Delhi Capitals,Kolkata Knight Riders,Anrich Nortje,38,38,2,2,1,100.0
+35,2019,Delhi Capitals,Kolkata Knight Riders,Mitchell Marsh,28,28,4,1,1,100.0
+36,2019,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,63,71,8,2,1,88.73
+36,2019,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,38,49,3,3,0,77.55
+36,2019,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,9,9,0,0,1,100.0
+36,2019,Mumbai Indians,Sunrisers Hyderabad,Jasprit Bumrah,59,59,5,4,0,100.0
+36,2019,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,20,33,2,1,0,60.61
+37,2019,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,2,3,0,0,1,66.67
+37,2019,Kolkata Knight Riders,Punjab Kings,Andre Russell,27,31,2,0,0,87.1
+37,2019,Kolkata Knight Riders,Punjab Kings,Sunil Narine,63,69,10,5,1,91.3
+37,2019,Kolkata Knight Riders,Punjab Kings,Pat Cummins,68,68,13,0,1,100.0
+37,2019,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,16,31,2,1,1,51.61
+38,2019,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,42,51,8,3,0,82.35
+38,2019,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,65,65,5,4,1,100.0
+38,2019,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,12,25,2,1,1,48.0
+38,2019,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,16,24,3,1,1,66.67
+39,2019,Mumbai Indians,Delhi Capitals,Rohit Sharma,19,22,1,1,1,86.36
+39,2019,Mumbai Indians,Delhi Capitals,Hardik Pandya,78,78,1,2,1,100.0
+39,2019,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,71,71,10,7,1,100.0
+39,2019,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,10,10,1,1,1,100.0
+39,2019,Mumbai Indians,Delhi Capitals,Ishan Kishan,4,17,0,0,0,23.53
+40,2019,Delhi Capitals,Mumbai Indians,David Warner,27,27,4,1,1,100.0
+40,2019,Delhi Capitals,Mumbai Indians,Rishabh Pant,34,34,0,1,0,100.0
+40,2019,Delhi Capitals,Mumbai Indians,Axar Patel,67,67,10,1,0,100.0
+40,2019,Delhi Capitals,Mumbai Indians,Anrich Nortje,26,26,5,1,0,100.0
+40,2019,Delhi Capitals,Mumbai Indians,Mitchell Marsh,8,8,0,0,1,100.0
+41,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,42,42,7,4,1,100.0
+41,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,17,24,3,1,0,70.83
+41,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Glenn Maxwell,14,17,0,1,1,82.35
+41,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Mohammed Siraj,23,23,2,1,1,100.0
+41,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Dinesh Karthik,24,24,4,2,1,100.0
+42,2019,Delhi Capitals,Sunrisers Hyderabad,David Warner,39,39,6,2,1,100.0
+42,2019,Delhi Capitals,Sunrisers Hyderabad,Rishabh Pant,37,41,3,1,1,90.24
+42,2019,Delhi Capitals,Sunrisers Hyderabad,Axar Patel,61,61,7,5,1,100.0
+42,2019,Delhi Capitals,Sunrisers Hyderabad,Anrich Nortje,47,49,8,3,1,95.92
+42,2019,Delhi Capitals,Sunrisers Hyderabad,Mitchell Marsh,13,13,2,0,1,100.0
+43,2019,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,59,72,4,5,0,81.94
+43,2019,Mumbai Indians,Kolkata Knight Riders,Hardik Pandya,32,32,5,1,1,100.0
+43,2019,Mumbai Indians,Kolkata Knight Riders,Suryakumar Yadav,5,15,1,0,1,33.33
+43,2019,Mumbai Indians,Kolkata Knight Riders,Jasprit Bumrah,7,7,1,0,0,100.0
+43,2019,Mumbai Indians,Kolkata Knight Riders,Ishan Kishan,23,35,1,2,1,65.71
+44,2019,Punjab Kings,Delhi Capitals,Shikhar Dhawan,35,35,1,0,1,100.0
+44,2019,Punjab Kings,Delhi Capitals,Liam Livingstone,53,65,0,1,0,81.54
+44,2019,Punjab Kings,Delhi Capitals,Arshdeep Singh,12,25,0,1,1,48.0
+44,2019,Punjab Kings,Delhi Capitals,Sam Curran,6,10,0,0,1,60.0
+44,2019,Punjab Kings,Delhi Capitals,Matthew Short,69,69,12,6,1,100.0
+45,2019,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,60,60,3,2,1,100.0
+45,2019,Sunrisers Hyderabad,Rajasthan Royals,Bhuvneshwar Kumar,18,23,0,1,1,78.26
+45,2019,Sunrisers Hyderabad,Rajasthan Royals,T Natarajan,71,71,2,6,0,100.0
+45,2019,Sunrisers Hyderabad,Rajasthan Royals,Washington Sundar,6,13,0,0,1,46.15
+45,2019,Sunrisers Hyderabad,Rajasthan Royals,Aiden Markram,1,7,0,0,1,14.29
+46,2019,Punjab Kings,Chennai Super Kings,Shikhar Dhawan,39,39,5,3,1,100.0
+46,2019,Punjab Kings,Chennai Super Kings,Liam Livingstone,60,60,3,2,1,100.0
+46,2019,Punjab Kings,Chennai Super Kings,Arshdeep Singh,5,20,0,0,0,25.0
+46,2019,Punjab Kings,Chennai Super Kings,Sam Curran,70,72,9,6,0,97.22
+46,2019,Punjab Kings,Chennai Super Kings,Matthew Short,1,11,0,0,1,9.09
+47,2019,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,27,29,3,1,0,93.1
+47,2019,Mumbai Indians,Kolkata Knight Riders,Hardik Pandya,78,78,15,0,0,100.0
+47,2019,Mumbai Indians,Kolkata Knight Riders,Suryakumar Yadav,70,70,0,0,1,100.0
+47,2019,Mumbai Indians,Kolkata Knight Riders,Jasprit Bumrah,17,25,2,0,1,68.0
+47,2019,Mumbai Indians,Kolkata Knight Riders,Ishan Kishan,22,32,3,0,0,68.75
+48,2019,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,10,20,1,1,1,50.0
+48,2019,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,12,22,0,0,0,54.55
+48,2019,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,72,72,4,0,1,100.0
+48,2019,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,43,43,8,4,1,100.0
+49,2019,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,41,41,4,3,1,100.0
+49,2019,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,45,57,6,3,0,78.95
+49,2019,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,37,42,1,2,1,88.1
+49,2019,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,2,3,0,0,1,66.67
+49,2019,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,12,26,0,1,1,46.15
+50,2019,Punjab Kings,Mumbai Indians,Shikhar Dhawan,73,73,2,6,0,100.0
+50,2019,Punjab Kings,Mumbai Indians,Liam Livingstone,34,36,2,3,0,94.44
+50,2019,Punjab Kings,Mumbai Indians,Arshdeep Singh,10,18,1,1,0,55.56
+50,2019,Punjab Kings,Mumbai Indians,Sam Curran,2,12,0,0,1,16.67
+50,2019,Punjab Kings,Mumbai Indians,Matthew Short,15,26,1,1,0,57.69
+51,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,25,30,4,0,1,83.33
+51,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,70,70,11,7,1,100.0
+51,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,26,27,2,2,0,96.3
+51,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Pat Cummins,54,54,10,3,0,100.0
+51,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Venkatesh Iyer,1,8,0,0,1,12.5
+52,2019,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,66,68,9,5,1,97.06
+52,2019,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,57,57,6,3,1,100.0
+52,2019,Sunrisers Hyderabad,Punjab Kings,T Natarajan,18,31,1,1,1,58.06
+52,2019,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,1,4,0,0,1,25.0
+53,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,29,39,3,2,0,74.36
+53,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,55,55,0,5,1,100.0
+53,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Glenn Maxwell,25,26,4,1,1,96.15
+53,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Mohammed Siraj,27,27,2,2,1,100.0
+53,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Dinesh Karthik,4,5,0,0,1,80.0
+54,2019,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,18,25,3,1,1,72.0
+54,2019,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,73,73,6,2,1,100.0
+54,2019,Royal Challengers Bangalore,Rajasthan Royals,Glenn Maxwell,34,34,4,1,1,100.0
+54,2019,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,4,7,0,0,1,57.14
+54,2019,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,11,11,1,0,0,100.0
+55,2019,Chennai Super Kings,Delhi Capitals,MS Dhoni,69,69,6,0,1,100.0
+55,2019,Chennai Super Kings,Delhi Capitals,Ruturaj Gaikwad,31,34,6,0,1,91.18
+55,2019,Chennai Super Kings,Delhi Capitals,Devon Conway,44,44,7,0,1,100.0
+55,2019,Chennai Super Kings,Delhi Capitals,Ravindra Jadeja,15,15,2,1,0,100.0
+55,2019,Chennai Super Kings,Delhi Capitals,Deepak Chahar,8,10,0,0,1,80.0
+56,2019,Punjab Kings,Kolkata Knight Riders,Shikhar Dhawan,11,17,2,1,1,64.71
+56,2019,Punjab Kings,Kolkata Knight Riders,Liam Livingstone,47,52,7,2,1,90.38
+56,2019,Punjab Kings,Kolkata Knight Riders,Arshdeep Singh,11,19,2,1,1,57.89
+56,2019,Punjab Kings,Kolkata Knight Riders,Sam Curran,68,68,3,3,1,100.0
+56,2019,Punjab Kings,Kolkata Knight Riders,Matthew Short,31,32,2,2,1,96.88
+57,2019,Royal Challengers Bangalore,Punjab Kings,Virat Kohli,21,21,3,2,1,100.0
+57,2019,Royal Challengers Bangalore,Punjab Kings,Faf du Plessis,29,29,5,0,1,100.0
+57,2019,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,0,4,0,0,0,0.0
+57,2019,Royal Challengers Bangalore,Punjab Kings,Mohammed Siraj,28,30,5,1,0,93.33
+57,2019,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,43,43,6,1,1,100.0
+58,2019,Punjab Kings,Delhi Capitals,Shikhar Dhawan,75,83,12,5,1,90.36
+58,2019,Punjab Kings,Delhi Capitals,Liam Livingstone,40,40,3,2,1,100.0
+58,2019,Punjab Kings,Delhi Capitals,Arshdeep Singh,7,20,1,0,1,35.0
+58,2019,Punjab Kings,Delhi Capitals,Sam Curran,9,10,0,0,0,90.0
+58,2019,Punjab Kings,Delhi Capitals,Matthew Short,0,13,0,0,1,0.0
+59,2019,Delhi Capitals,Chennai Super Kings,David Warner,53,53,6,0,1,100.0
+59,2019,Delhi Capitals,Chennai Super Kings,Rishabh Pant,68,73,2,2,0,93.15
+59,2019,Delhi Capitals,Chennai Super Kings,Axar Patel,10,21,0,0,1,47.62
+59,2019,Delhi Capitals,Chennai Super Kings,Anrich Nortje,50,62,10,5,1,80.65
+59,2019,Delhi Capitals,Chennai Super Kings,Mitchell Marsh,1,10,0,0,0,10.0
+60,2019,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,63,63,8,2,0,100.0
+60,2019,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,72,72,5,2,0,100.0
+60,2019,Sunrisers Hyderabad,Punjab Kings,T Natarajan,3,4,0,0,0,75.0
+60,2019,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,0,4,0,0,1,0.0
+60,2019,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,4,7,0,0,0,57.14
+61,2020,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,72,86,4,3,1,83.72
+61,2020,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,75,75,6,3,0,100.0
+61,2020,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,29,29,0,0,1,100.0
+61,2020,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,0,6,0,0,1,0.0
+61,2020,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,1,4,0,0,1,25.0
+62,2020,Punjab Kings,Sunrisers Hyderabad,Shikhar Dhawan,41,41,7,2,0,100.0
+62,2020,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,25,25,4,0,0,100.0
+62,2020,Punjab Kings,Sunrisers Hyderabad,Arshdeep Singh,21,24,3,1,1,87.5
+62,2020,Punjab Kings,Sunrisers Hyderabad,Sam Curran,68,68,12,1,1,100.0
+62,2020,Punjab Kings,Sunrisers Hyderabad,Matthew Short,7,11,0,0,0,63.64
+63,2020,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,16,16,3,1,1,100.0
+63,2020,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,10,23,2,1,1,43.48
+63,2020,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,9,9,0,0,1,100.0
+63,2020,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,56,56,1,2,0,100.0
+63,2020,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,29,29,1,2,1,100.0
+64,2020,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,80,91,0,6,1,87.91
+64,2020,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,45,52,8,3,1,86.54
+64,2020,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,18,25,2,1,0,72.0
+64,2020,Chennai Super Kings,Royal Challengers Bangalore,Ravindra Jadeja,0,6,0,0,1,0.0
+64,2020,Chennai Super Kings,Royal Challengers Bangalore,Deepak Chahar,12,14,0,1,1,85.71
+65,2020,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,69,69,2,3,0,100.0
+65,2020,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,7,10,0,0,1,70.0
+65,2020,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,0,6,0,0,1,0.0
+65,2020,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,22,36,2,0,0,61.11
+65,2020,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,75,82,4,1,1,91.46
+66,2020,Punjab Kings,Royal Challengers Bangalore,Shikhar Dhawan,72,72,2,5,1,100.0
+66,2020,Punjab Kings,Royal Challengers Bangalore,Liam Livingstone,39,39,1,3,0,100.0
+66,2020,Punjab Kings,Royal Challengers Bangalore,Arshdeep Singh,2,8,0,0,0,25.0
+66,2020,Punjab Kings,Royal Challengers Bangalore,Sam Curran,2,11,0,0,0,18.18
+66,2020,Punjab Kings,Royal Challengers Bangalore,Matthew Short,7,7,1,0,1,100.0
+67,2020,Delhi Capitals,Mumbai Indians,David Warner,20,33,0,2,1,60.61
+67,2020,Delhi Capitals,Mumbai Indians,Rishabh Pant,11,15,2,1,1,73.33
+67,2020,Delhi Capitals,Mumbai Indians,Axar Patel,55,68,2,4,1,80.88
+67,2020,Delhi Capitals,Mumbai Indians,Anrich Nortje,10,10,0,1,0,100.0
+67,2020,Delhi Capitals,Mumbai Indians,Mitchell Marsh,12,19,2,1,1,63.16
+68,2020,Rajasthan Royals,Punjab Kings,Sanju Samson,11,25,2,1,0,44.0
+68,2020,Rajasthan Royals,Punjab Kings,Jos Buttler,48,48,2,3,0,100.0
+68,2020,Rajasthan Royals,Punjab Kings,Yashasvi Jaiswal,56,57,4,1,1,98.25
+68,2020,Rajasthan Royals,Punjab Kings,Trent Boult,72,72,2,1,0,100.0
+68,2020,Rajasthan Royals,Punjab Kings,Ravichandran Ashwin,2,14,0,0,1,14.29
+69,2020,Kolkata Knight Riders,Chennai Super Kings,Shreyas Iyer,80,80,8,5,1,100.0
+69,2020,Kolkata Knight Riders,Chennai Super Kings,Andre Russell,8,8,1,0,1,100.0
+69,2020,Kolkata Knight Riders,Chennai Super Kings,Sunil Narine,35,50,7,0,1,70.0
+69,2020,Kolkata Knight Riders,Chennai Super Kings,Pat Cummins,79,79,13,1,1,100.0
+69,2020,Kolkata Knight Riders,Chennai Super Kings,Venkatesh Iyer,4,5,0,0,1,80.0
+70,2020,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,17,17,3,1,0,100.0
+70,2020,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,53,64,10,0,0,82.81
+70,2020,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,27,42,3,2,1,64.29
+70,2020,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,66,66,13,0,1,100.0
+70,2020,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,0,2,0,0,0,0.0
+71,2020,Royal Challengers Bangalore,Punjab Kings,Virat Kohli,3,13,0,0,1,23.08
+71,2020,Royal Challengers Bangalore,Punjab Kings,Faf du Plessis,27,40,1,2,0,67.5
+71,2020,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,26,26,5,1,1,100.0
+71,2020,Royal Challengers Bangalore,Punjab Kings,Mohammed Siraj,1,16,0,0,1,6.25
+71,2020,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,1,8,0,0,1,12.5
+72,2020,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,19,25,1,0,1,76.0
+72,2020,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,76,76,10,2,1,100.0
+72,2020,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,63,63,4,3,1,100.0
+72,2020,Chennai Super Kings,Royal Challengers Bangalore,Ravindra Jadeja,5,5,0,0,1,100.0
+73,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Shreyas Iyer,37,47,1,3,0,78.72
+73,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,74,74,9,1,1,100.0
+73,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunil Narine,24,28,0,2,1,85.71
+73,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,19,22,0,0,0,86.36
+73,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,6,13,1,0,0,46.15
+74,2020,Punjab Kings,Kolkata Knight Riders,Shikhar Dhawan,1,11,0,0,1,9.09
+74,2020,Punjab Kings,Kolkata Knight Riders,Liam Livingstone,80,86,7,3,1,93.02
+74,2020,Punjab Kings,Kolkata Knight Riders,Arshdeep Singh,22,22,1,0,1,100.0
+74,2020,Punjab Kings,Kolkata Knight Riders,Sam Curran,19,19,0,0,0,100.0
+74,2020,Punjab Kings,Kolkata Knight Riders,Matthew Short,4,16,0,0,1,25.0
+75,2020,Mumbai Indians,Delhi Capitals,Rohit Sharma,56,56,1,4,0,100.0
+75,2020,Mumbai Indians,Delhi Capitals,Hardik Pandya,19,19,0,1,1,100.0
+75,2020,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,6,19,1,0,1,31.58
+75,2020,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,6,19,0,0,0,31.58
+75,2020,Mumbai Indians,Delhi Capitals,Ishan Kishan,6,18,0,0,1,33.33
+76,2020,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,37,37,7,0,0,100.0
+76,2020,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,22,22,2,1,1,100.0
+76,2020,Royal Challengers Bangalore,Mumbai Indians,Glenn Maxwell,40,47,1,0,1,85.11
+76,2020,Royal Challengers Bangalore,Mumbai Indians,Mohammed Siraj,5,5,0,0,1,100.0
+76,2020,Royal Challengers Bangalore,Mumbai Indians,Dinesh Karthik,57,57,9,2,1,100.0
+77,2020,Rajasthan Royals,Chennai Super Kings,Sanju Samson,61,61,1,3,1,100.0
+77,2020,Rajasthan Royals,Chennai Super Kings,Jos Buttler,8,12,1,0,1,66.67
+77,2020,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,67,82,11,4,1,81.71
+77,2020,Rajasthan Royals,Chennai Super Kings,Trent Boult,28,35,2,2,1,80.0
+77,2020,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,44,44,6,1,1,100.0
+78,2020,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,63,63,5,0,1,100.0
+78,2020,Punjab Kings,Rajasthan Royals,Liam Livingstone,2,4,0,0,0,50.0
+78,2020,Punjab Kings,Rajasthan Royals,Arshdeep Singh,70,70,13,1,1,100.0
+78,2020,Punjab Kings,Rajasthan Royals,Sam Curran,39,39,3,3,1,100.0
+78,2020,Punjab Kings,Rajasthan Royals,Matthew Short,5,5,0,0,1,100.0
+79,2020,Delhi Capitals,Rajasthan Royals,David Warner,24,34,2,0,1,70.59
+79,2020,Delhi Capitals,Rajasthan Royals,Rishabh Pant,5,20,0,0,1,25.0
+79,2020,Delhi Capitals,Rajasthan Royals,Axar Patel,75,75,4,7,0,100.0
+79,2020,Delhi Capitals,Rajasthan Royals,Anrich Nortje,6,20,1,0,1,30.0
+79,2020,Delhi Capitals,Rajasthan Royals,Mitchell Marsh,22,33,4,0,1,66.67
+80,2020,Kolkata Knight Riders,Chennai Super Kings,Shreyas Iyer,64,66,11,5,1,96.97
+80,2020,Kolkata Knight Riders,Chennai Super Kings,Andre Russell,14,18,2,1,1,77.78
+80,2020,Kolkata Knight Riders,Chennai Super Kings,Sunil Narine,53,60,4,3,1,88.33
+80,2020,Kolkata Knight Riders,Chennai Super Kings,Pat Cummins,66,66,0,3,0,100.0
+80,2020,Kolkata Knight Riders,Chennai Super Kings,Venkatesh Iyer,1,7,0,0,1,14.29
+81,2020,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,47,60,8,4,0,78.33
+81,2020,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,24,24,3,0,1,100.0
+81,2020,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,9,9,0,0,1,100.0
+81,2020,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,54,54,8,2,0,100.0
+81,2020,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,18,18,0,1,1,100.0
+82,2020,Punjab Kings,Mumbai Indians,Shikhar Dhawan,46,46,3,4,1,100.0
+82,2020,Punjab Kings,Mumbai Indians,Liam Livingstone,71,83,10,0,0,85.54
+82,2020,Punjab Kings,Mumbai Indians,Arshdeep Singh,44,50,3,4,1,88.0
+82,2020,Punjab Kings,Mumbai Indians,Sam Curran,15,15,2,1,1,100.0
+82,2020,Punjab Kings,Mumbai Indians,Matthew Short,7,15,1,0,0,46.67
+83,2020,Kolkata Knight Riders,Delhi Capitals,Shreyas Iyer,11,11,0,0,1,100.0
+83,2020,Kolkata Knight Riders,Delhi Capitals,Andre Russell,71,71,9,3,1,100.0
+83,2020,Kolkata Knight Riders,Delhi Capitals,Sunil Narine,26,26,3,2,1,100.0
+83,2020,Kolkata Knight Riders,Delhi Capitals,Pat Cummins,10,10,1,0,1,100.0
+83,2020,Kolkata Knight Riders,Delhi Capitals,Venkatesh Iyer,2,2,0,0,1,100.0
+84,2020,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,76,76,2,4,0,100.0
+84,2020,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,47,47,3,3,1,100.0
+84,2020,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,8,8,0,0,0,100.0
+84,2020,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,2,7,0,0,1,28.57
+84,2020,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,2,2,0,0,0,100.0
+85,2020,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,55,55,5,1,1,100.0
+85,2020,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,42,51,7,3,1,82.35
+85,2020,Sunrisers Hyderabad,Punjab Kings,T Natarajan,19,24,0,0,1,79.17
+85,2020,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,1,9,0,0,0,11.11
+85,2020,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,10,10,2,0,1,100.0
+86,2020,Punjab Kings,Royal Challengers Bangalore,Shikhar Dhawan,65,65,7,1,0,100.0
+86,2020,Punjab Kings,Royal Challengers Bangalore,Liam Livingstone,72,78,13,2,1,92.31
+86,2020,Punjab Kings,Royal Challengers Bangalore,Arshdeep Singh,61,61,0,1,1,100.0
+86,2020,Punjab Kings,Royal Challengers Bangalore,Sam Curran,3,3,0,0,0,100.0
+86,2020,Punjab Kings,Royal Challengers Bangalore,Matthew Short,3,17,0,0,1,17.65
+87,2020,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,17,22,1,0,0,77.27
+87,2020,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,35,35,2,1,0,100.0
+87,2020,Sunrisers Hyderabad,Punjab Kings,T Natarajan,77,83,3,3,1,92.77
+87,2020,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,42,42,7,3,1,100.0
+87,2020,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,10,25,1,0,0,40.0
+88,2020,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,33,33,5,2,1,100.0
+88,2020,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,76,76,2,3,1,100.0
+88,2020,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,16,16,0,0,1,100.0
+88,2020,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,64,75,6,6,0,85.33
+88,2020,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,3,6,0,0,1,50.0
+89,2020,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,36,44,4,1,0,81.82
+89,2020,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,0,10,0,0,1,0.0
+89,2020,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,26,35,2,1,1,74.29
+89,2020,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,19,22,2,1,1,86.36
+89,2020,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,54,63,5,4,0,85.71
+90,2020,Chennai Super Kings,Rajasthan Royals,MS Dhoni,20,22,0,0,1,90.91
+90,2020,Chennai Super Kings,Rajasthan Royals,Ruturaj Gaikwad,60,68,6,0,0,88.24
+90,2020,Chennai Super Kings,Rajasthan Royals,Devon Conway,28,28,0,2,0,100.0
+90,2020,Chennai Super Kings,Rajasthan Royals,Ravindra Jadeja,49,49,9,4,0,100.0
+90,2020,Chennai Super Kings,Rajasthan Royals,Deepak Chahar,38,38,2,3,1,100.0
+91,2020,Chennai Super Kings,Mumbai Indians,MS Dhoni,77,77,14,6,1,100.0
+91,2020,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,33,33,3,0,1,100.0
+91,2020,Chennai Super Kings,Mumbai Indians,Devon Conway,64,64,5,0,1,100.0
+92,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,51,51,1,4,1,100.0
+92,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,60,60,5,1,1,100.0
+92,2020,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,17,17,1,1,1,100.0
+92,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,15,30,1,1,0,50.0
+92,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,6,10,1,0,1,60.0
+93,2020,Mumbai Indians,Delhi Capitals,Rohit Sharma,22,25,0,2,1,88.0
+93,2020,Mumbai Indians,Delhi Capitals,Hardik Pandya,40,40,0,1,1,100.0
+93,2020,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,12,16,1,1,0,75.0
+93,2020,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,33,33,2,3,1,100.0
+93,2020,Mumbai Indians,Delhi Capitals,Ishan Kishan,43,44,2,3,1,97.73
+94,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,68,80,5,6,1,85.0
+94,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Faf du Plessis,32,32,3,0,1,100.0
+94,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Glenn Maxwell,7,9,1,0,1,77.78
+94,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Mohammed Siraj,12,20,2,1,0,60.0
+94,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Dinesh Karthik,46,58,8,2,1,79.31
+95,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,40,40,4,4,1,100.0
+95,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,34,45,6,2,1,75.56
+95,2020,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,66,66,6,1,0,100.0
+95,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,0,3,0,0,1,0.0
+95,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,1,7,0,0,0,14.29
+96,2020,Mumbai Indians,Rajasthan Royals,Rohit Sharma,56,56,11,4,0,100.0
+96,2020,Mumbai Indians,Rajasthan Royals,Hardik Pandya,76,76,13,4,1,100.0
+96,2020,Mumbai Indians,Rajasthan Royals,Suryakumar Yadav,30,32,1,0,1,93.75
+96,2020,Mumbai Indians,Rajasthan Royals,Jasprit Bumrah,11,18,1,0,1,61.11
+96,2020,Mumbai Indians,Rajasthan Royals,Ishan Kishan,0,9,0,0,0,0.0
+97,2020,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,52,52,1,1,0,100.0
+97,2020,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,14,27,1,1,0,51.85
+97,2020,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,79,79,6,5,0,100.0
+97,2020,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,6,20,0,0,1,30.0
+97,2020,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,18,18,1,1,1,100.0
+98,2020,Rajasthan Royals,Chennai Super Kings,Sanju Samson,56,56,11,0,0,100.0
+98,2020,Rajasthan Royals,Chennai Super Kings,Jos Buttler,12,22,2,0,1,54.55
+98,2020,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,39,39,2,0,1,100.0
+98,2020,Rajasthan Royals,Chennai Super Kings,Trent Boult,17,24,0,1,1,70.83
+98,2020,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,4,8,0,0,1,50.0
+99,2020,Rajasthan Royals,Mumbai Indians,Sanju Samson,13,13,1,0,1,100.0
+99,2020,Rajasthan Royals,Mumbai Indians,Jos Buttler,71,85,10,5,1,83.53
+99,2020,Rajasthan Royals,Mumbai Indians,Yashasvi Jaiswal,56,56,0,5,1,100.0
+99,2020,Rajasthan Royals,Mumbai Indians,Trent Boult,8,12,0,0,1,66.67
+99,2020,Rajasthan Royals,Mumbai Indians,Ravichandran Ashwin,17,17,3,0,1,100.0
+100,2020,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,24,28,3,2,0,85.71
+100,2020,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,36,38,6,2,0,94.74
+100,2020,Sunrisers Hyderabad,Punjab Kings,T Natarajan,66,75,1,0,1,88.0
+100,2020,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,16,16,0,0,0,100.0
+100,2020,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,24,24,0,2,1,100.0
+101,2020,Mumbai Indians,Punjab Kings,Rohit Sharma,66,66,1,5,0,100.0
+101,2020,Mumbai Indians,Punjab Kings,Hardik Pandya,49,49,3,4,1,100.0
+101,2020,Mumbai Indians,Punjab Kings,Suryakumar Yadav,36,36,6,0,1,100.0
+101,2020,Mumbai Indians,Punjab Kings,Jasprit Bumrah,11,26,1,1,1,42.31
+101,2020,Mumbai Indians,Punjab Kings,Ishan Kishan,1,6,0,0,1,16.67
+102,2020,Punjab Kings,Mumbai Indians,Shikhar Dhawan,0,5,0,0,1,0.0
+102,2020,Punjab Kings,Mumbai Indians,Liam Livingstone,2,9,0,0,0,22.22
+102,2020,Punjab Kings,Mumbai Indians,Arshdeep Singh,45,45,2,2,1,100.0
+102,2020,Punjab Kings,Mumbai Indians,Sam Curran,74,74,3,4,1,100.0
+102,2020,Punjab Kings,Mumbai Indians,Matthew Short,11,23,1,0,1,47.83
+103,2020,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,69,70,2,2,1,98.57
+103,2020,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,28,28,0,2,1,100.0
+103,2020,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,50,53,9,4,1,94.34
+103,2020,Mumbai Indians,Sunrisers Hyderabad,Jasprit Bumrah,14,20,1,1,0,70.0
+103,2020,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,21,21,3,2,1,100.0
+104,2020,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,24,24,2,2,1,100.0
+104,2020,Sunrisers Hyderabad,Rajasthan Royals,Bhuvneshwar Kumar,39,39,5,3,1,100.0
+104,2020,Sunrisers Hyderabad,Rajasthan Royals,T Natarajan,56,56,3,1,1,100.0
+104,2020,Sunrisers Hyderabad,Rajasthan Royals,Washington Sundar,19,33,0,0,1,57.58
+104,2020,Sunrisers Hyderabad,Rajasthan Royals,Aiden Markram,15,26,1,1,0,57.69
+105,2020,Delhi Capitals,Chennai Super Kings,David Warner,6,17,0,0,1,35.29
+105,2020,Delhi Capitals,Chennai Super Kings,Rishabh Pant,34,40,6,0,0,85.0
+105,2020,Delhi Capitals,Chennai Super Kings,Axar Patel,49,49,6,4,1,100.0
+105,2020,Delhi Capitals,Chennai Super Kings,Anrich Nortje,12,16,1,0,0,75.0
+105,2020,Delhi Capitals,Chennai Super Kings,Mitchell Marsh,64,64,8,5,0,100.0
+106,2020,Delhi Capitals,Chennai Super Kings,David Warner,48,57,9,1,1,84.21
+106,2020,Delhi Capitals,Chennai Super Kings,Rishabh Pant,73,73,6,4,1,100.0
+106,2020,Delhi Capitals,Chennai Super Kings,Axar Patel,42,49,8,1,0,85.71
+106,2020,Delhi Capitals,Chennai Super Kings,Anrich Nortje,8,22,0,0,1,36.36
+106,2020,Delhi Capitals,Chennai Super Kings,Mitchell Marsh,33,33,3,1,1,100.0
+107,2020,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,3,12,0,0,0,25.0
+107,2020,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,77,77,11,2,1,100.0
+107,2020,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,62,62,2,1,0,100.0
+107,2020,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,4,15,0,0,1,26.67
+107,2020,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,14,28,0,0,0,50.0
+108,2020,Punjab Kings,Sunrisers Hyderabad,Shikhar Dhawan,38,38,7,1,1,100.0
+108,2020,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,78,78,4,7,1,100.0
+108,2020,Punjab Kings,Sunrisers Hyderabad,Arshdeep Singh,28,28,5,2,0,100.0
+108,2020,Punjab Kings,Sunrisers Hyderabad,Sam Curran,9,21,0,0,1,42.86
+108,2020,Punjab Kings,Sunrisers Hyderabad,Matthew Short,1,1,0,0,1,100.0
+109,2020,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,39,39,7,2,1,100.0
+109,2020,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,15,15,1,0,1,100.0
+109,2020,Royal Challengers Bangalore,Rajasthan Royals,Glenn Maxwell,32,32,3,3,1,100.0
+109,2020,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,0,10,0,0,0,0.0
+109,2020,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,60,60,6,3,0,100.0
+110,2020,Delhi Capitals,Rajasthan Royals,David Warner,11,14,1,1,1,78.57
+110,2020,Delhi Capitals,Rajasthan Royals,Rishabh Pant,8,17,0,0,1,47.06
+110,2020,Delhi Capitals,Rajasthan Royals,Axar Patel,15,29,2,1,1,51.72
+110,2020,Delhi Capitals,Rajasthan Royals,Anrich Nortje,67,67,11,1,1,100.0
+110,2020,Delhi Capitals,Rajasthan Royals,Mitchell Marsh,13,24,2,0,1,54.17
+111,2020,Chennai Super Kings,Mumbai Indians,MS Dhoni,5,12,1,0,0,41.67
+111,2020,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,25,34,2,1,1,73.53
+111,2020,Chennai Super Kings,Mumbai Indians,Devon Conway,39,39,5,0,0,100.0
+111,2020,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,42,42,6,4,1,100.0
+111,2020,Chennai Super Kings,Mumbai Indians,Deepak Chahar,3,6,0,0,1,50.0
+112,2020,Chennai Super Kings,Rajasthan Royals,MS Dhoni,73,74,6,2,1,98.65
+112,2020,Chennai Super Kings,Rajasthan Royals,Ruturaj Gaikwad,39,39,0,2,1,100.0
+112,2020,Chennai Super Kings,Rajasthan Royals,Devon Conway,63,63,5,3,1,100.0
+112,2020,Chennai Super Kings,Rajasthan Royals,Ravindra Jadeja,2,7,0,0,0,28.57
+112,2020,Chennai Super Kings,Rajasthan Royals,Deepak Chahar,0,13,0,0,1,0.0
+113,2020,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,66,75,11,2,0,88.0
+113,2020,Mumbai Indians,Royal Challengers Bangalore,Hardik Pandya,39,39,5,1,0,100.0
+113,2020,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,35,37,7,0,0,94.59
+113,2020,Mumbai Indians,Royal Challengers Bangalore,Jasprit Bumrah,10,13,0,0,1,76.92
+113,2020,Mumbai Indians,Royal Challengers Bangalore,Ishan Kishan,35,49,1,1,1,71.43
+114,2020,Punjab Kings,Chennai Super Kings,Shikhar Dhawan,10,19,2,0,0,52.63
+114,2020,Punjab Kings,Chennai Super Kings,Liam Livingstone,59,59,7,2,1,100.0
+114,2020,Punjab Kings,Chennai Super Kings,Arshdeep Singh,59,59,3,1,0,100.0
+114,2020,Punjab Kings,Chennai Super Kings,Sam Curran,39,39,5,3,0,100.0
+114,2020,Punjab Kings,Chennai Super Kings,Matthew Short,5,12,1,0,1,41.67
+115,2020,Punjab Kings,Delhi Capitals,Shikhar Dhawan,49,49,5,1,1,100.0
+115,2020,Punjab Kings,Delhi Capitals,Liam Livingstone,75,75,13,5,1,100.0
+115,2020,Punjab Kings,Delhi Capitals,Arshdeep Singh,30,30,5,0,1,100.0
+115,2020,Punjab Kings,Delhi Capitals,Sam Curran,45,58,7,0,1,77.59
+115,2020,Punjab Kings,Delhi Capitals,Matthew Short,1,11,0,0,0,9.09
+116,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Shreyas Iyer,74,74,9,6,1,100.0
+116,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,37,37,5,0,0,100.0
+116,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunil Narine,71,71,1,4,1,100.0
+116,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,1,14,0,0,1,7.14
+116,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,1,13,0,0,1,7.69
+117,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,65,65,8,6,1,100.0
+117,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,45,45,2,3,1,100.0
+117,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Glenn Maxwell,73,73,13,3,1,100.0
+117,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Mohammed Siraj,8,17,1,0,1,47.06
+117,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Dinesh Karthik,18,24,2,0,1,75.0
+118,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,38,38,0,3,1,100.0
+118,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,73,73,10,4,1,100.0
+118,2021,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,39,39,4,3,0,100.0
+118,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,0,14,0,0,0,0.0
+118,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,1,9,0,0,1,11.11
+119,2021,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,73,82,13,5,0,89.02
+119,2021,Punjab Kings,Rajasthan Royals,Liam Livingstone,33,33,0,1,1,100.0
+119,2021,Punjab Kings,Rajasthan Royals,Arshdeep Singh,60,60,7,5,1,100.0
+119,2021,Punjab Kings,Rajasthan Royals,Sam Curran,34,34,3,3,1,100.0
+119,2021,Punjab Kings,Rajasthan Royals,Matthew Short,2,17,0,0,0,11.76
+120,2021,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,1,14,0,0,1,7.14
+120,2021,Sunrisers Hyderabad,Rajasthan Royals,Bhuvneshwar Kumar,44,44,4,2,0,100.0
+120,2021,Sunrisers Hyderabad,Rajasthan Royals,T Natarajan,3,3,0,0,1,100.0
+120,2021,Sunrisers Hyderabad,Rajasthan Royals,Washington Sundar,15,29,0,0,1,51.72
+120,2021,Sunrisers Hyderabad,Rajasthan Royals,Aiden Markram,16,20,1,0,1,80.0
+121,2021,Delhi Capitals,Chennai Super Kings,David Warner,62,62,2,4,1,100.0
+121,2021,Delhi Capitals,Chennai Super Kings,Rishabh Pant,27,32,5,0,1,84.38
+121,2021,Delhi Capitals,Chennai Super Kings,Axar Patel,33,33,0,0,0,100.0
+121,2021,Delhi Capitals,Chennai Super Kings,Anrich Nortje,16,22,0,1,0,72.73
+121,2021,Delhi Capitals,Chennai Super Kings,Mitchell Marsh,0,15,0,0,0,0.0
+122,2021,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,22,28,0,1,1,78.57
+122,2021,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,38,43,1,2,1,88.37
+122,2021,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,80,80,6,2,0,100.0
+123,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,79,79,7,2,0,100.0
+123,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,6,12,0,0,1,50.0
+123,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Glenn Maxwell,8,8,0,0,1,100.0
+123,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Mohammed Siraj,39,39,1,1,1,100.0
+123,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Dinesh Karthik,12,16,0,0,1,75.0
+124,2021,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,53,56,2,1,0,94.64
+124,2021,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,34,45,3,1,1,75.56
+124,2021,Royal Challengers Bangalore,Mumbai Indians,Glenn Maxwell,39,39,2,3,1,100.0
+124,2021,Royal Challengers Bangalore,Mumbai Indians,Mohammed Siraj,0,11,0,0,1,0.0
+124,2021,Royal Challengers Bangalore,Mumbai Indians,Dinesh Karthik,4,9,0,0,1,44.44
+125,2021,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,68,68,2,6,0,100.0
+125,2021,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,65,65,1,1,1,100.0
+125,2021,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,2,11,0,0,1,18.18
+126,2021,Punjab Kings,Royal Challengers Bangalore,Shikhar Dhawan,25,25,1,0,1,100.0
+126,2021,Punjab Kings,Royal Challengers Bangalore,Liam Livingstone,7,11,0,0,1,63.64
+126,2021,Punjab Kings,Royal Challengers Bangalore,Arshdeep Singh,58,58,2,2,0,100.0
+126,2021,Punjab Kings,Royal Challengers Bangalore,Sam Curran,37,37,2,1,0,100.0
+126,2021,Punjab Kings,Royal Challengers Bangalore,Matthew Short,66,66,13,1,1,100.0
+127,2021,Punjab Kings,Delhi Capitals,Shikhar Dhawan,10,22,0,1,1,45.45
+127,2021,Punjab Kings,Delhi Capitals,Liam Livingstone,16,19,2,0,1,84.21
+127,2021,Punjab Kings,Delhi Capitals,Arshdeep Singh,11,11,1,1,0,100.0
+127,2021,Punjab Kings,Delhi Capitals,Sam Curran,58,65,11,4,0,89.23
+127,2021,Punjab Kings,Delhi Capitals,Matthew Short,58,58,2,5,1,100.0
+128,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,71,80,12,3,0,88.75
+128,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,42,42,8,0,1,100.0
+128,2021,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,37,37,3,2,1,100.0
+128,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,1,14,0,0,0,7.14
+128,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,1,15,0,0,1,6.67
+129,2021,Delhi Capitals,Kolkata Knight Riders,David Warner,2,10,0,0,0,20.0
+129,2021,Delhi Capitals,Kolkata Knight Riders,Rishabh Pant,29,40,4,2,1,72.5
+129,2021,Delhi Capitals,Kolkata Knight Riders,Axar Patel,74,74,10,5,1,100.0
+129,2021,Delhi Capitals,Kolkata Knight Riders,Anrich Nortje,67,68,7,3,1,98.53
+129,2021,Delhi Capitals,Kolkata Knight Riders,Mitchell Marsh,0,15,0,0,1,0.0
+130,2021,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,71,80,0,5,1,88.75
+130,2021,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,18,20,3,0,1,90.0
+130,2021,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,15,15,3,1,1,100.0
+130,2021,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,58,58,2,0,1,100.0
+130,2021,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,10,25,2,1,1,40.0
+131,2021,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,65,65,3,3,1,100.0
+131,2021,Kolkata Knight Riders,Punjab Kings,Andre Russell,65,65,10,2,1,100.0
+131,2021,Kolkata Knight Riders,Punjab Kings,Sunil Narine,6,14,1,0,0,42.86
+131,2021,Kolkata Knight Riders,Punjab Kings,Pat Cummins,2,12,0,0,1,16.67
+131,2021,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,0,4,0,0,1,0.0
+132,2021,Punjab Kings,Chennai Super Kings,Shikhar Dhawan,37,49,0,2,1,75.51
+132,2021,Punjab Kings,Chennai Super Kings,Liam Livingstone,38,50,7,1,0,76.0
+132,2021,Punjab Kings,Chennai Super Kings,Arshdeep Singh,0,3,0,0,1,0.0
+132,2021,Punjab Kings,Chennai Super Kings,Sam Curran,60,60,10,5,1,100.0
+132,2021,Punjab Kings,Chennai Super Kings,Matthew Short,13,13,1,0,0,100.0
+133,2021,Sunrisers Hyderabad,Chennai Super Kings,Kane Williamson,37,37,1,1,1,100.0
+133,2021,Sunrisers Hyderabad,Chennai Super Kings,Bhuvneshwar Kumar,23,35,0,2,1,65.71
+133,2021,Sunrisers Hyderabad,Chennai Super Kings,T Natarajan,69,69,13,2,1,100.0
+133,2021,Sunrisers Hyderabad,Chennai Super Kings,Washington Sundar,43,43,4,2,0,100.0
+133,2021,Sunrisers Hyderabad,Chennai Super Kings,Aiden Markram,9,15,0,0,0,60.0
+134,2021,Rajasthan Royals,Royal Challengers Bangalore,Sanju Samson,22,33,2,0,1,66.67
+134,2021,Rajasthan Royals,Royal Challengers Bangalore,Jos Buttler,15,15,1,0,1,100.0
+134,2021,Rajasthan Royals,Royal Challengers Bangalore,Yashasvi Jaiswal,39,39,3,1,1,100.0
+134,2021,Rajasthan Royals,Royal Challengers Bangalore,Trent Boult,54,54,1,0,1,100.0
+134,2021,Rajasthan Royals,Royal Challengers Bangalore,Ravichandran Ashwin,48,51,0,1,0,94.12
+135,2021,Sunrisers Hyderabad,Chennai Super Kings,Kane Williamson,27,35,1,1,0,77.14
+135,2021,Sunrisers Hyderabad,Chennai Super Kings,Bhuvneshwar Kumar,68,68,11,0,1,100.0
+135,2021,Sunrisers Hyderabad,Chennai Super Kings,T Natarajan,32,46,2,1,1,69.57
+135,2021,Sunrisers Hyderabad,Chennai Super Kings,Washington Sundar,3,6,0,0,1,50.0
+135,2021,Sunrisers Hyderabad,Chennai Super Kings,Aiden Markram,8,11,1,0,1,72.73
+136,2021,Kolkata Knight Riders,Delhi Capitals,Shreyas Iyer,47,47,0,3,1,100.0
+136,2021,Kolkata Knight Riders,Delhi Capitals,Andre Russell,50,53,8,5,1,94.34
+136,2021,Kolkata Knight Riders,Delhi Capitals,Sunil Narine,7,7,1,0,1,100.0
+136,2021,Kolkata Knight Riders,Delhi Capitals,Pat Cummins,6,8,0,0,1,75.0
+136,2021,Kolkata Knight Riders,Delhi Capitals,Venkatesh Iyer,21,21,4,1,0,100.0
+137,2021,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,48,62,5,1,1,77.42
+137,2021,Chennai Super Kings,Sunrisers Hyderabad,Ruturaj Gaikwad,79,79,2,7,1,100.0
+137,2021,Chennai Super Kings,Sunrisers Hyderabad,Devon Conway,25,25,5,1,1,100.0
+137,2021,Chennai Super Kings,Sunrisers Hyderabad,Ravindra Jadeja,33,37,6,0,1,89.19
+137,2021,Chennai Super Kings,Sunrisers Hyderabad,Deepak Chahar,2,14,0,0,1,14.29
+138,2021,Rajasthan Royals,Delhi Capitals,Sanju Samson,78,82,11,4,1,95.12
+138,2021,Rajasthan Royals,Delhi Capitals,Jos Buttler,3,3,0,0,1,100.0
+138,2021,Rajasthan Royals,Delhi Capitals,Yashasvi Jaiswal,74,74,12,5,1,100.0
+138,2021,Rajasthan Royals,Delhi Capitals,Trent Boult,6,14,1,0,1,42.86
+138,2021,Rajasthan Royals,Delhi Capitals,Ravichandran Ashwin,2,8,0,0,1,25.0
+139,2021,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,43,52,8,2,0,82.69
+139,2021,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,38,42,6,1,1,90.48
+139,2021,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,9,21,0,0,0,42.86
+139,2021,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,38,44,3,0,1,86.36
+139,2021,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,74,74,9,5,0,100.0
+140,2021,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,68,73,13,6,1,93.15
+140,2021,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,72,82,10,0,1,87.8
+140,2021,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,11,19,0,0,0,57.89
+140,2021,Mumbai Indians,Sunrisers Hyderabad,Jasprit Bumrah,5,11,1,0,1,45.45
+140,2021,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,0,11,0,0,0,0.0
+141,2021,Delhi Capitals,Punjab Kings,David Warner,10,15,2,1,1,66.67
+141,2021,Delhi Capitals,Punjab Kings,Rishabh Pant,52,52,10,5,1,100.0
+141,2021,Delhi Capitals,Punjab Kings,Axar Patel,50,50,3,0,1,100.0
+141,2021,Delhi Capitals,Punjab Kings,Anrich Nortje,64,64,8,5,1,100.0
+141,2021,Delhi Capitals,Punjab Kings,Mitchell Marsh,16,16,3,0,0,100.0
+142,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,77,77,1,3,0,100.0
+142,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,49,49,5,0,1,100.0
+142,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,15,21,3,0,1,71.43
+142,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Pat Cummins,25,25,2,0,1,100.0
+142,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Venkatesh Iyer,3,10,0,0,1,30.0
+143,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,0,7,0,0,1,0.0
+143,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,10,10,0,0,1,100.0
+143,2021,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,16,27,3,1,1,59.26
+143,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,17,17,1,1,1,100.0
+143,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,25,25,3,1,0,100.0
+144,2021,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,34,35,5,3,1,97.14
+144,2021,Punjab Kings,Rajasthan Royals,Liam Livingstone,55,55,9,1,1,100.0
+144,2021,Punjab Kings,Rajasthan Royals,Arshdeep Singh,36,36,6,1,1,100.0
+144,2021,Punjab Kings,Rajasthan Royals,Sam Curran,9,9,1,0,0,100.0
+144,2021,Punjab Kings,Rajasthan Royals,Matthew Short,14,14,1,1,0,100.0
+145,2021,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,71,71,9,2,0,100.0
+145,2021,Mumbai Indians,Royal Challengers Bangalore,Hardik Pandya,64,64,5,3,0,100.0
+145,2021,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,20,32,4,1,0,62.5
+145,2021,Mumbai Indians,Royal Challengers Bangalore,Jasprit Bumrah,3,11,0,0,1,27.27
+145,2021,Mumbai Indians,Royal Challengers Bangalore,Ishan Kishan,8,15,1,0,1,53.33
+146,2021,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,58,60,1,5,1,96.67
+146,2021,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,15,18,0,0,1,83.33
+146,2021,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,23,37,1,2,1,62.16
+146,2021,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,34,34,4,0,1,100.0
+146,2021,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,73,73,6,1,0,100.0
+147,2021,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,41,41,1,4,1,100.0
+147,2021,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,48,48,6,2,0,100.0
+147,2021,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,51,51,0,1,0,100.0
+147,2021,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,12,15,2,0,0,80.0
+147,2021,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,3,14,0,0,1,21.43
+148,2021,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,37,47,6,0,1,78.72
+148,2021,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,61,61,2,1,1,100.0
+148,2021,Rajasthan Royals,Sunrisers Hyderabad,Yashasvi Jaiswal,38,38,6,2,1,100.0
+148,2021,Rajasthan Royals,Sunrisers Hyderabad,Trent Boult,35,35,0,0,1,100.0
+148,2021,Rajasthan Royals,Sunrisers Hyderabad,Ravichandran Ashwin,13,13,1,1,1,100.0
+149,2021,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,68,68,0,3,0,100.0
+149,2021,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,21,30,3,1,1,70.0
+149,2021,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,77,84,15,4,1,91.67
+149,2021,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,39,42,6,2,0,92.86
+149,2021,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,2,2,0,0,1,100.0
+150,2021,Rajasthan Royals,Delhi Capitals,Sanju Samson,42,42,1,3,1,100.0
+150,2021,Rajasthan Royals,Delhi Capitals,Jos Buttler,63,78,9,4,1,80.77
+150,2021,Rajasthan Royals,Delhi Capitals,Yashasvi Jaiswal,37,37,7,3,1,100.0
+150,2021,Rajasthan Royals,Delhi Capitals,Trent Boult,37,49,3,0,1,75.51
+150,2021,Rajasthan Royals,Delhi Capitals,Ravichandran Ashwin,13,24,1,0,0,54.17
+151,2021,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,11,26,1,0,0,42.31
+151,2021,Punjab Kings,Rajasthan Royals,Liam Livingstone,20,29,3,0,1,68.97
+151,2021,Punjab Kings,Rajasthan Royals,Arshdeep Singh,63,63,3,1,1,100.0
+151,2021,Punjab Kings,Rajasthan Royals,Sam Curran,2,12,0,0,1,16.67
+151,2021,Punjab Kings,Rajasthan Royals,Matthew Short,22,37,4,0,1,59.46
+152,2021,Rajasthan Royals,Punjab Kings,Sanju Samson,13,13,2,0,1,100.0
+152,2021,Rajasthan Royals,Punjab Kings,Jos Buttler,46,46,4,3,1,100.0
+152,2021,Rajasthan Royals,Punjab Kings,Yashasvi Jaiswal,63,77,1,1,1,81.82
+152,2021,Rajasthan Royals,Punjab Kings,Trent Boult,42,42,1,1,1,100.0
+152,2021,Rajasthan Royals,Punjab Kings,Ravichandran Ashwin,26,37,0,0,1,70.27
+153,2021,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,43,43,6,1,1,100.0
+153,2021,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,50,50,10,5,0,100.0
+153,2021,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,73,73,10,4,1,100.0
+153,2021,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,28,35,5,2,1,80.0
+153,2021,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,2,11,0,0,1,18.18
+154,2021,Kolkata Knight Riders,Mumbai Indians,Shreyas Iyer,3,18,0,0,1,16.67
+154,2021,Kolkata Knight Riders,Mumbai Indians,Andre Russell,38,46,1,0,1,82.61
+154,2021,Kolkata Knight Riders,Mumbai Indians,Sunil Narine,33,48,2,0,0,68.75
+154,2021,Kolkata Knight Riders,Mumbai Indians,Pat Cummins,15,21,2,0,1,71.43
+154,2021,Kolkata Knight Riders,Mumbai Indians,Venkatesh Iyer,30,40,5,1,1,75.0
+155,2021,Rajasthan Royals,Mumbai Indians,Sanju Samson,56,59,11,3,1,94.92
+155,2021,Rajasthan Royals,Mumbai Indians,Jos Buttler,18,25,1,1,1,72.0
+155,2021,Rajasthan Royals,Mumbai Indians,Yashasvi Jaiswal,16,30,0,0,1,53.33
+155,2021,Rajasthan Royals,Mumbai Indians,Trent Boult,4,7,0,0,1,57.14
+155,2021,Rajasthan Royals,Mumbai Indians,Ravichandran Ashwin,52,52,1,2,1,100.0
+156,2021,Chennai Super Kings,Delhi Capitals,MS Dhoni,39,47,5,3,1,82.98
+156,2021,Chennai Super Kings,Delhi Capitals,Ruturaj Gaikwad,77,77,4,7,1,100.0
+156,2021,Chennai Super Kings,Delhi Capitals,Devon Conway,57,57,11,2,0,100.0
+156,2021,Chennai Super Kings,Delhi Capitals,Ravindra Jadeja,9,23,1,0,0,39.13
+156,2021,Chennai Super Kings,Delhi Capitals,Deepak Chahar,1,11,0,0,1,9.09
+157,2021,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,51,62,0,3,1,82.26
+157,2021,Mumbai Indians,Royal Challengers Bangalore,Hardik Pandya,2,11,0,0,1,18.18
+157,2021,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,67,67,6,2,0,100.0
+157,2021,Mumbai Indians,Royal Challengers Bangalore,Jasprit Bumrah,3,18,0,0,0,16.67
+157,2021,Mumbai Indians,Royal Challengers Bangalore,Ishan Kishan,8,8,0,0,1,100.0
+158,2021,Rajasthan Royals,Delhi Capitals,Sanju Samson,59,64,6,0,1,92.19
+158,2021,Rajasthan Royals,Delhi Capitals,Jos Buttler,52,66,3,0,0,78.79
+158,2021,Rajasthan Royals,Delhi Capitals,Yashasvi Jaiswal,37,37,3,1,1,100.0
+158,2021,Rajasthan Royals,Delhi Capitals,Trent Boult,13,20,0,0,1,65.0
+158,2021,Rajasthan Royals,Delhi Capitals,Ravichandran Ashwin,1,12,0,0,1,8.33
+159,2021,Mumbai Indians,Chennai Super Kings,Rohit Sharma,71,71,14,6,0,100.0
+159,2021,Mumbai Indians,Chennai Super Kings,Hardik Pandya,64,64,10,2,1,100.0
+159,2021,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,6,17,1,0,1,35.29
+160,2021,Mumbai Indians,Punjab Kings,Rohit Sharma,22,37,0,0,1,59.46
+160,2021,Mumbai Indians,Punjab Kings,Hardik Pandya,24,26,0,0,1,92.31
+160,2021,Mumbai Indians,Punjab Kings,Suryakumar Yadav,35,39,3,0,1,89.74
+160,2021,Mumbai Indians,Punjab Kings,Jasprit Bumrah,80,80,7,3,1,100.0
+160,2021,Mumbai Indians,Punjab Kings,Ishan Kishan,11,11,1,1,1,100.0
+161,2021,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,55,55,4,0,1,100.0
+161,2021,Kolkata Knight Riders,Punjab Kings,Andre Russell,59,60,5,4,1,98.33
+161,2021,Kolkata Knight Riders,Punjab Kings,Sunil Narine,7,7,1,0,1,100.0
+161,2021,Kolkata Knight Riders,Punjab Kings,Pat Cummins,5,5,1,0,1,100.0
+161,2021,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,4,4,0,0,1,100.0
+162,2021,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,10,10,0,1,1,100.0
+162,2021,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,8,8,0,0,0,100.0
+162,2021,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,78,79,13,1,0,98.73
+162,2021,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,3,18,0,0,1,16.67
+162,2021,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,25,25,4,1,0,100.0
+163,2021,Delhi Capitals,Royal Challengers Bangalore,David Warner,5,5,0,0,1,100.0
+163,2021,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,65,73,12,2,1,89.04
+163,2021,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,69,83,2,1,1,83.13
+163,2021,Delhi Capitals,Royal Challengers Bangalore,Anrich Nortje,9,14,1,0,1,64.29
+163,2021,Delhi Capitals,Royal Challengers Bangalore,Mitchell Marsh,4,6,0,0,1,66.67
+164,2021,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,29,29,4,0,0,100.0
+164,2021,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,42,45,3,3,0,93.33
+164,2021,Royal Challengers Bangalore,Mumbai Indians,Glenn Maxwell,0,6,0,0,1,0.0
+164,2021,Royal Challengers Bangalore,Mumbai Indians,Mohammed Siraj,71,71,2,4,1,100.0
+164,2021,Royal Challengers Bangalore,Mumbai Indians,Dinesh Karthik,11,11,0,0,0,100.0
+165,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,16,16,1,1,1,100.0
+165,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,40,47,3,0,1,85.11
+165,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,75,75,9,2,1,100.0
+165,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Pat Cummins,0,11,0,0,1,0.0
+165,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Venkatesh Iyer,7,9,0,0,1,77.78
+166,2021,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,32,32,1,0,0,100.0
+166,2021,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,66,66,3,4,0,100.0
+166,2021,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,65,71,5,3,1,91.55
+166,2021,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,13,19,1,1,1,68.42
+166,2021,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,1,1,0,0,0,100.0
+167,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Shreyas Iyer,51,51,9,5,0,100.0
+167,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,65,80,2,6,1,81.25
+167,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Sunil Narine,14,14,1,0,1,100.0
+167,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,35,46,7,2,1,76.09
+167,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,2,7,0,0,0,28.57
+168,2021,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,49,49,7,0,1,100.0
+168,2021,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,57,68,4,0,0,83.82
+168,2021,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,43,56,2,0,1,76.79
+168,2021,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,7,7,0,0,0,100.0
+169,2021,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,77,77,9,3,1,100.0
+169,2021,Punjab Kings,Rajasthan Royals,Liam Livingstone,58,58,3,0,1,100.0
+169,2021,Punjab Kings,Rajasthan Royals,Arshdeep Singh,28,28,3,2,1,100.0
+169,2021,Punjab Kings,Rajasthan Royals,Sam Curran,4,12,0,0,1,33.33
+169,2021,Punjab Kings,Rajasthan Royals,Matthew Short,0,12,0,0,1,0.0
+170,2021,Delhi Capitals,Sunrisers Hyderabad,David Warner,9,9,1,0,1,100.0
+170,2021,Delhi Capitals,Sunrisers Hyderabad,Rishabh Pant,32,32,4,0,1,100.0
+170,2021,Delhi Capitals,Sunrisers Hyderabad,Axar Patel,9,24,1,0,1,37.5
+170,2021,Delhi Capitals,Sunrisers Hyderabad,Anrich Nortje,51,51,6,0,0,100.0
+170,2021,Delhi Capitals,Sunrisers Hyderabad,Mitchell Marsh,14,29,0,1,1,48.28
+171,2021,Delhi Capitals,Chennai Super Kings,David Warner,27,27,5,0,1,100.0
+171,2021,Delhi Capitals,Chennai Super Kings,Rishabh Pant,66,74,10,5,1,89.19
+171,2021,Delhi Capitals,Chennai Super Kings,Axar Patel,13,18,2,1,1,72.22
+171,2021,Delhi Capitals,Chennai Super Kings,Anrich Nortje,38,38,0,3,1,100.0
+171,2021,Delhi Capitals,Chennai Super Kings,Mitchell Marsh,3,12,0,0,0,25.0
+172,2021,Punjab Kings,Kolkata Knight Riders,Shikhar Dhawan,1,13,0,0,1,7.69
+172,2021,Punjab Kings,Kolkata Knight Riders,Liam Livingstone,58,58,1,5,1,100.0
+172,2021,Punjab Kings,Kolkata Knight Riders,Arshdeep Singh,79,79,1,1,1,100.0
+172,2021,Punjab Kings,Kolkata Knight Riders,Sam Curran,3,10,0,0,1,30.0
+172,2021,Punjab Kings,Kolkata Knight Riders,Matthew Short,2,6,0,0,1,33.33
+173,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Shreyas Iyer,37,37,2,3,0,100.0
+173,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,4,9,0,0,0,44.44
+173,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Sunil Narine,40,40,8,3,1,100.0
+173,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,18,33,0,0,1,54.55
+173,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,21,21,1,0,1,100.0
+174,2021,Kolkata Knight Riders,Delhi Capitals,Shreyas Iyer,31,42,1,1,1,73.81
+174,2021,Kolkata Knight Riders,Delhi Capitals,Andre Russell,73,73,10,3,0,100.0
+174,2021,Kolkata Knight Riders,Delhi Capitals,Sunil Narine,61,61,5,3,1,100.0
+174,2021,Kolkata Knight Riders,Delhi Capitals,Pat Cummins,3,15,0,0,1,20.0
+174,2021,Kolkata Knight Riders,Delhi Capitals,Venkatesh Iyer,1,1,0,0,1,100.0
+175,2021,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,52,52,1,3,1,100.0
+175,2021,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,20,20,3,1,1,100.0
+175,2021,Rajasthan Royals,Kolkata Knight Riders,Yashasvi Jaiswal,44,54,7,2,1,81.48
+175,2021,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,49,51,3,1,1,96.08
+175,2021,Rajasthan Royals,Kolkata Knight Riders,Ravichandran Ashwin,14,18,2,0,1,77.78
+176,2021,Delhi Capitals,Rajasthan Royals,David Warner,73,85,12,5,1,85.88
+176,2021,Delhi Capitals,Rajasthan Royals,Rishabh Pant,34,34,5,3,1,100.0
+176,2021,Delhi Capitals,Rajasthan Royals,Axar Patel,0,3,0,0,0,0.0
+176,2021,Delhi Capitals,Rajasthan Royals,Anrich Nortje,53,59,6,5,0,89.83
+176,2021,Delhi Capitals,Rajasthan Royals,Mitchell Marsh,13,13,0,1,0,100.0
+177,2022,Delhi Capitals,Mumbai Indians,David Warner,61,61,10,6,0,100.0
+177,2022,Delhi Capitals,Mumbai Indians,Rishabh Pant,7,11,0,0,0,63.64
+177,2022,Delhi Capitals,Mumbai Indians,Axar Patel,66,66,6,4,1,100.0
+177,2022,Delhi Capitals,Mumbai Indians,Anrich Nortje,2,16,0,0,1,12.5
+177,2022,Delhi Capitals,Mumbai Indians,Mitchell Marsh,1,12,0,0,1,8.33
+178,2022,Punjab Kings,Sunrisers Hyderabad,Shikhar Dhawan,41,48,3,4,1,85.42
+178,2022,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,78,89,2,5,1,87.64
+178,2022,Punjab Kings,Sunrisers Hyderabad,Arshdeep Singh,7,7,1,0,1,100.0
+178,2022,Punjab Kings,Sunrisers Hyderabad,Sam Curran,5,6,0,0,1,83.33
+178,2022,Punjab Kings,Sunrisers Hyderabad,Matthew Short,0,5,0,0,1,0.0
+179,2022,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,43,45,6,4,1,95.56
+179,2022,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,55,55,3,2,0,100.0
+179,2022,Royal Challengers Bangalore,Delhi Capitals,Glenn Maxwell,5,5,0,0,1,100.0
+179,2022,Royal Challengers Bangalore,Delhi Capitals,Mohammed Siraj,12,12,2,1,0,100.0
+179,2022,Royal Challengers Bangalore,Delhi Capitals,Dinesh Karthik,20,22,4,2,0,90.91
+180,2022,Delhi Capitals,Chennai Super Kings,David Warner,73,73,10,3,1,100.0
+180,2022,Delhi Capitals,Chennai Super Kings,Rishabh Pant,48,48,5,1,1,100.0
+180,2022,Delhi Capitals,Chennai Super Kings,Axar Patel,26,40,5,0,1,65.0
+180,2022,Delhi Capitals,Chennai Super Kings,Anrich Nortje,3,6,0,0,0,50.0
+180,2022,Delhi Capitals,Chennai Super Kings,Mitchell Marsh,42,42,0,4,1,100.0
+181,2022,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,1,12,0,0,1,8.33
+181,2022,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,54,54,0,0,1,100.0
+181,2022,Rajasthan Royals,Sunrisers Hyderabad,Yashasvi Jaiswal,60,60,0,0,1,100.0
+181,2022,Rajasthan Royals,Sunrisers Hyderabad,Trent Boult,41,41,6,1,1,100.0
+182,2022,Chennai Super Kings,Mumbai Indians,MS Dhoni,61,61,11,5,0,100.0
+182,2022,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,75,75,12,7,1,100.0
+182,2022,Chennai Super Kings,Mumbai Indians,Devon Conway,55,55,9,1,0,100.0
+182,2022,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,1,6,0,0,1,16.67
+182,2022,Chennai Super Kings,Mumbai Indians,Deepak Chahar,13,23,2,1,0,56.52
+183,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,38,38,4,3,0,100.0
+183,2022,Chennai Super Kings,Delhi Capitals,Ruturaj Gaikwad,62,75,5,4,1,82.67
+183,2022,Chennai Super Kings,Delhi Capitals,Devon Conway,45,60,8,4,0,75.0
+183,2022,Chennai Super Kings,Delhi Capitals,Ravindra Jadeja,6,6,0,0,0,100.0
+183,2022,Chennai Super Kings,Delhi Capitals,Deepak Chahar,19,19,1,0,1,100.0
+184,2022,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,3,8,0,0,0,37.5
+184,2022,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,14,28,2,1,0,50.0
+184,2022,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,11,16,1,1,0,68.75
+184,2022,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,28,28,0,0,1,100.0
+184,2022,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,28,28,0,0,0,100.0
+185,2022,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,6,14,0,0,1,42.86
+185,2022,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,23,25,2,1,1,92.0
+185,2022,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,35,44,3,2,1,79.55
+185,2022,Mumbai Indians,Sunrisers Hyderabad,Jasprit Bumrah,11,14,1,1,1,78.57
+185,2022,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,10,10,2,0,1,100.0
+186,2022,Punjab Kings,Sunrisers Hyderabad,Shikhar Dhawan,5,16,0,0,0,31.25
+186,2022,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,46,46,8,2,1,100.0
+186,2022,Punjab Kings,Sunrisers Hyderabad,Arshdeep Singh,54,58,6,1,1,93.1
+186,2022,Punjab Kings,Sunrisers Hyderabad,Sam Curran,14,17,2,0,1,82.35
+186,2022,Punjab Kings,Sunrisers Hyderabad,Matthew Short,15,16,2,1,0,93.75
+187,2022,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,65,65,6,0,1,100.0
+187,2022,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,0,3,0,0,1,0.0
+187,2022,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,47,47,5,3,1,100.0
+187,2022,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,34,34,0,3,1,100.0
+187,2022,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,7,8,0,0,1,87.5
+188,2022,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,16,16,2,0,1,100.0
+188,2022,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,30,30,5,2,1,100.0
+188,2022,Royal Challengers Bangalore,Rajasthan Royals,Glenn Maxwell,76,85,0,6,1,89.41
+188,2022,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,9,19,0,0,0,47.37
+188,2022,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,2,17,0,0,0,11.76
+189,2022,Chennai Super Kings,Punjab Kings,MS Dhoni,28,28,3,1,0,100.0
+189,2022,Chennai Super Kings,Punjab Kings,Ruturaj Gaikwad,54,68,0,2,0,79.41
+189,2022,Chennai Super Kings,Punjab Kings,Devon Conway,46,46,5,3,0,100.0
+189,2022,Chennai Super Kings,Punjab Kings,Ravindra Jadeja,6,8,0,0,0,75.0
+189,2022,Chennai Super Kings,Punjab Kings,Deepak Chahar,41,41,4,3,0,100.0
+190,2022,Punjab Kings,Mumbai Indians,Shikhar Dhawan,57,57,1,4,1,100.0
+190,2022,Punjab Kings,Mumbai Indians,Liam Livingstone,38,49,3,1,0,77.55
+190,2022,Punjab Kings,Mumbai Indians,Arshdeep Singh,12,19,2,1,1,63.16
+190,2022,Punjab Kings,Mumbai Indians,Sam Curran,24,39,4,1,1,61.54
+190,2022,Punjab Kings,Mumbai Indians,Matthew Short,3,4,0,0,1,75.0
+191,2022,Punjab Kings,Kolkata Knight Riders,Shikhar Dhawan,75,81,0,7,1,92.59
+191,2022,Punjab Kings,Kolkata Knight Riders,Liam Livingstone,46,56,4,2,1,82.14
+191,2022,Punjab Kings,Kolkata Knight Riders,Arshdeep Singh,4,10,0,0,0,40.0
+191,2022,Punjab Kings,Kolkata Knight Riders,Sam Curran,4,9,0,0,1,44.44
+191,2022,Punjab Kings,Kolkata Knight Riders,Matthew Short,1,5,0,0,1,20.0
+192,2022,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,70,70,13,7,0,100.0
+192,2022,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,34,34,4,3,0,100.0
+192,2022,Royal Challengers Bangalore,Rajasthan Royals,Glenn Maxwell,29,37,5,1,1,78.38
+192,2022,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,61,61,7,1,1,100.0
+192,2022,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,5,8,1,0,1,62.5
+193,2022,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,31,31,2,1,1,100.0
+193,2022,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,76,76,0,1,1,100.0
+193,2022,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,10,10,0,0,1,100.0
+193,2022,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,9,18,0,0,1,50.0
+193,2022,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,1,8,0,0,1,12.5
+194,2022,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,78,78,3,5,1,100.0
+194,2022,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,10,10,2,0,0,100.0
+194,2022,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,33,37,4,1,1,89.19
+194,2022,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,4,11,0,0,1,36.36
+194,2022,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,8,19,1,0,1,42.11
+195,2022,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,53,61,7,4,1,86.89
+195,2022,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,68,68,13,1,1,100.0
+195,2022,Rajasthan Royals,Kolkata Knight Riders,Yashasvi Jaiswal,18,31,3,0,1,58.06
+195,2022,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,3,12,0,0,1,25.0
+195,2022,Rajasthan Royals,Kolkata Knight Riders,Ravichandran Ashwin,0,6,0,0,1,0.0
+196,2022,Rajasthan Royals,Punjab Kings,Sanju Samson,31,31,0,3,0,100.0
+196,2022,Rajasthan Royals,Punjab Kings,Jos Buttler,23,26,1,2,1,88.46
+196,2022,Rajasthan Royals,Punjab Kings,Yashasvi Jaiswal,38,49,6,2,1,77.55
+196,2022,Rajasthan Royals,Punjab Kings,Trent Boult,1,10,0,0,0,10.0
+196,2022,Rajasthan Royals,Punjab Kings,Ravichandran Ashwin,4,7,0,0,1,57.14
+197,2022,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,54,54,4,0,0,100.0
+197,2022,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,46,61,5,0,0,75.41
+197,2022,Rajasthan Royals,Kolkata Knight Riders,Yashasvi Jaiswal,10,22,0,0,0,45.45
+197,2022,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,0,13,0,0,1,0.0
+197,2022,Rajasthan Royals,Kolkata Knight Riders,Ravichandran Ashwin,40,40,3,2,0,100.0
+198,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,75,75,9,2,0,100.0
+198,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,29,29,5,0,1,100.0
+198,2022,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,7,9,0,0,1,77.78
+198,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,16,24,2,1,1,66.67
+198,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,2,10,0,0,0,20.0
+199,2022,Delhi Capitals,Rajasthan Royals,David Warner,60,60,12,3,1,100.0
+199,2022,Delhi Capitals,Rajasthan Royals,Rishabh Pant,17,17,3,0,1,100.0
+199,2022,Delhi Capitals,Rajasthan Royals,Axar Patel,18,21,3,0,1,85.71
+199,2022,Delhi Capitals,Rajasthan Royals,Anrich Nortje,32,36,2,0,1,88.89
+199,2022,Delhi Capitals,Rajasthan Royals,Mitchell Marsh,8,18,1,0,1,44.44
+200,2022,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,43,52,3,3,0,82.69
+200,2022,Punjab Kings,Rajasthan Royals,Liam Livingstone,58,58,8,1,1,100.0
+200,2022,Punjab Kings,Rajasthan Royals,Arshdeep Singh,18,29,1,1,1,62.07
+200,2022,Punjab Kings,Rajasthan Royals,Sam Curran,38,43,0,2,1,88.37
+200,2022,Punjab Kings,Rajasthan Royals,Matthew Short,15,15,0,0,1,100.0
+201,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,45,58,6,0,1,77.59
+201,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,76,76,2,2,1,100.0
+201,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,40,40,2,3,1,100.0
+201,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Pat Cummins,31,35,0,3,0,88.57
+201,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Venkatesh Iyer,5,5,1,0,1,100.0
+202,2022,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,54,60,5,0,1,90.0
+202,2022,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,58,58,5,1,1,100.0
+202,2022,Rajasthan Royals,Sunrisers Hyderabad,Yashasvi Jaiswal,20,27,3,1,0,74.07
+202,2022,Rajasthan Royals,Sunrisers Hyderabad,Trent Boult,42,48,4,4,1,87.5
+202,2022,Rajasthan Royals,Sunrisers Hyderabad,Ravichandran Ashwin,0,2,0,0,1,0.0
+203,2022,Punjab Kings,Mumbai Indians,Shikhar Dhawan,53,53,0,3,0,100.0
+203,2022,Punjab Kings,Mumbai Indians,Liam Livingstone,3,5,0,0,1,60.0
+203,2022,Punjab Kings,Mumbai Indians,Arshdeep Singh,73,73,3,6,0,100.0
+203,2022,Punjab Kings,Mumbai Indians,Sam Curran,25,38,0,2,1,65.79
+203,2022,Punjab Kings,Mumbai Indians,Matthew Short,10,17,2,0,1,58.82
+204,2022,Mumbai Indians,Delhi Capitals,Rohit Sharma,80,89,11,2,0,89.89
+204,2022,Mumbai Indians,Delhi Capitals,Hardik Pandya,14,16,0,0,1,87.5
+204,2022,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,24,36,2,2,0,66.67
+204,2022,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,2,5,0,0,0,40.0
+204,2022,Mumbai Indians,Delhi Capitals,Ishan Kishan,9,9,0,0,0,100.0
+205,2022,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,4,5,0,0,1,80.0
+205,2022,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,78,78,0,2,1,100.0
+205,2022,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,32,32,1,0,1,100.0
+205,2022,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,66,66,12,1,0,100.0
+205,2022,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,23,23,1,0,1,100.0
+206,2022,Punjab Kings,Mumbai Indians,Shikhar Dhawan,54,65,4,2,1,83.08
+206,2022,Punjab Kings,Mumbai Indians,Liam Livingstone,77,77,13,3,1,100.0
+206,2022,Punjab Kings,Mumbai Indians,Arshdeep Singh,23,31,0,1,0,74.19
+206,2022,Punjab Kings,Mumbai Indians,Sam Curran,2,17,0,0,0,11.76
+206,2022,Punjab Kings,Mumbai Indians,Matthew Short,33,38,3,0,0,86.84
+207,2022,Punjab Kings,Royal Challengers Bangalore,Shikhar Dhawan,9,22,1,0,1,40.91
+207,2022,Punjab Kings,Royal Challengers Bangalore,Liam Livingstone,40,40,3,0,1,100.0
+207,2022,Punjab Kings,Royal Challengers Bangalore,Arshdeep Singh,63,63,4,3,0,100.0
+207,2022,Punjab Kings,Royal Challengers Bangalore,Sam Curran,57,57,9,2,1,100.0
+207,2022,Punjab Kings,Royal Challengers Bangalore,Matthew Short,15,25,0,1,0,60.0
+208,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,63,72,1,6,1,87.5
+208,2022,Chennai Super Kings,Delhi Capitals,Ruturaj Gaikwad,79,79,0,3,0,100.0
+208,2022,Chennai Super Kings,Delhi Capitals,Devon Conway,0,3,0,0,1,0.0
+208,2022,Chennai Super Kings,Delhi Capitals,Ravindra Jadeja,27,27,1,0,0,100.0
+208,2022,Chennai Super Kings,Delhi Capitals,Deepak Chahar,5,19,0,0,0,26.32
+209,2022,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,33,34,5,0,1,97.06
+209,2022,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,31,31,5,0,0,100.0
+209,2022,Rajasthan Royals,Sunrisers Hyderabad,Yashasvi Jaiswal,63,63,3,0,1,100.0
+209,2022,Rajasthan Royals,Sunrisers Hyderabad,Trent Boult,59,59,3,3,0,100.0
+209,2022,Rajasthan Royals,Sunrisers Hyderabad,Ravichandran Ashwin,1,11,0,0,1,9.09
+210,2022,Kolkata Knight Riders,Mumbai Indians,Shreyas Iyer,45,45,1,4,0,100.0
+210,2022,Kolkata Knight Riders,Mumbai Indians,Andre Russell,55,55,2,3,1,100.0
+210,2022,Kolkata Knight Riders,Mumbai Indians,Sunil Narine,32,37,0,3,0,86.49
+210,2022,Kolkata Knight Riders,Mumbai Indians,Pat Cummins,0,1,0,0,0,0.0
+210,2022,Kolkata Knight Riders,Mumbai Indians,Venkatesh Iyer,0,7,0,0,1,0.0
+211,2022,Delhi Capitals,Kolkata Knight Riders,David Warner,0,2,0,0,1,0.0
+211,2022,Delhi Capitals,Kolkata Knight Riders,Rishabh Pant,30,30,2,0,0,100.0
+211,2022,Delhi Capitals,Kolkata Knight Riders,Axar Patel,42,50,2,0,1,84.0
+211,2022,Delhi Capitals,Kolkata Knight Riders,Anrich Nortje,54,54,0,1,1,100.0
+211,2022,Delhi Capitals,Kolkata Knight Riders,Mitchell Marsh,4,7,0,0,1,57.14
+212,2022,Rajasthan Royals,Royal Challengers Bangalore,Sanju Samson,66,75,13,6,1,88.0
+212,2022,Rajasthan Royals,Royal Challengers Bangalore,Jos Buttler,76,76,3,4,1,100.0
+212,2022,Rajasthan Royals,Royal Challengers Bangalore,Yashasvi Jaiswal,1,5,0,0,1,20.0
+212,2022,Rajasthan Royals,Royal Challengers Bangalore,Trent Boult,9,15,1,0,0,60.0
+212,2022,Rajasthan Royals,Royal Challengers Bangalore,Ravichandran Ashwin,23,33,3,1,0,69.7
+213,2022,Kolkata Knight Riders,Mumbai Indians,Shreyas Iyer,44,44,1,0,1,100.0
+213,2022,Kolkata Knight Riders,Mumbai Indians,Andre Russell,18,23,1,1,1,78.26
+213,2022,Kolkata Knight Riders,Mumbai Indians,Sunil Narine,20,20,3,1,0,100.0
+213,2022,Kolkata Knight Riders,Mumbai Indians,Pat Cummins,37,37,7,0,0,100.0
+213,2022,Kolkata Knight Riders,Mumbai Indians,Venkatesh Iyer,15,15,3,1,0,100.0
+214,2022,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,22,29,3,2,1,75.86
+214,2022,Kolkata Knight Riders,Punjab Kings,Andre Russell,74,74,10,3,0,100.0
+214,2022,Kolkata Knight Riders,Punjab Kings,Sunil Narine,26,30,1,1,1,86.67
+214,2022,Kolkata Knight Riders,Punjab Kings,Pat Cummins,9,22,1,0,1,40.91
+214,2022,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,6,6,0,0,1,100.0
+215,2022,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,0,8,0,0,0,0.0
+215,2022,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,34,34,2,0,1,100.0
+215,2022,Royal Challengers Bangalore,Delhi Capitals,Glenn Maxwell,72,72,11,5,1,100.0
+215,2022,Royal Challengers Bangalore,Delhi Capitals,Mohammed Siraj,15,30,0,0,1,50.0
+215,2022,Royal Challengers Bangalore,Delhi Capitals,Dinesh Karthik,35,48,2,1,1,72.92
+216,2022,Punjab Kings,Mumbai Indians,Shikhar Dhawan,69,69,13,4,1,100.0
+216,2022,Punjab Kings,Mumbai Indians,Liam Livingstone,78,78,13,2,1,100.0
+216,2022,Punjab Kings,Mumbai Indians,Arshdeep Singh,11,11,2,0,0,100.0
+216,2022,Punjab Kings,Mumbai Indians,Sam Curran,12,21,1,1,0,57.14
+216,2022,Punjab Kings,Mumbai Indians,Matthew Short,3,16,0,0,1,18.75
+217,2022,Mumbai Indians,Chennai Super Kings,Rohit Sharma,65,65,2,5,0,100.0
+217,2022,Mumbai Indians,Chennai Super Kings,Hardik Pandya,72,72,7,2,0,100.0
+217,2022,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,38,44,1,3,1,86.36
+217,2022,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,30,34,5,1,1,88.24
+217,2022,Mumbai Indians,Chennai Super Kings,Ishan Kishan,8,8,1,0,1,100.0
+218,2022,Mumbai Indians,Delhi Capitals,Rohit Sharma,22,22,0,2,1,100.0
+218,2022,Mumbai Indians,Delhi Capitals,Hardik Pandya,17,28,1,0,0,60.71
+218,2022,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,56,71,4,1,0,78.87
+218,2022,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,10,18,2,0,0,55.56
+218,2022,Mumbai Indians,Delhi Capitals,Ishan Kishan,1,4,0,0,1,25.0
+219,2022,Royal Challengers Bangalore,Punjab Kings,Virat Kohli,76,76,10,0,0,100.0
+219,2022,Royal Challengers Bangalore,Punjab Kings,Faf du Plessis,37,37,6,2,0,100.0
+219,2022,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,10,14,0,0,1,71.43
+219,2022,Royal Challengers Bangalore,Punjab Kings,Mohammed Siraj,19,25,2,1,1,76.0
+219,2022,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,0,10,0,0,1,0.0
+220,2022,Rajasthan Royals,Chennai Super Kings,Sanju Samson,44,49,7,2,1,89.8
+220,2022,Rajasthan Royals,Chennai Super Kings,Jos Buttler,29,29,0,0,1,100.0
+220,2022,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,51,51,8,4,1,100.0
+220,2022,Rajasthan Royals,Chennai Super Kings,Trent Boult,10,10,2,1,0,100.0
+221,2022,Mumbai Indians,Punjab Kings,Rohit Sharma,23,23,0,1,1,100.0
+221,2022,Mumbai Indians,Punjab Kings,Hardik Pandya,31,33,1,3,1,93.94
+221,2022,Mumbai Indians,Punjab Kings,Suryakumar Yadav,15,28,0,0,0,53.57
+221,2022,Mumbai Indians,Punjab Kings,Jasprit Bumrah,26,28,5,2,1,92.86
+221,2022,Mumbai Indians,Punjab Kings,Ishan Kishan,14,21,2,1,1,66.67
+222,2022,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,14,14,1,0,0,100.0
+222,2022,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,75,75,9,1,0,100.0
+222,2022,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,78,78,15,0,1,100.0
+222,2022,Chennai Super Kings,Royal Challengers Bangalore,Ravindra Jadeja,24,26,0,0,0,92.31
+222,2022,Chennai Super Kings,Royal Challengers Bangalore,Deepak Chahar,5,15,0,0,0,33.33
+223,2022,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,1,9,0,0,1,11.11
+223,2022,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,69,69,5,4,1,100.0
+223,2022,Rajasthan Royals,Kolkata Knight Riders,Yashasvi Jaiswal,78,78,11,4,1,100.0
+223,2022,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,25,32,4,0,0,78.12
+223,2022,Rajasthan Royals,Kolkata Knight Riders,Ravichandran Ashwin,4,12,0,0,1,33.33
+224,2022,Rajasthan Royals,Chennai Super Kings,Sanju Samson,29,29,5,0,0,100.0
+224,2022,Rajasthan Royals,Chennai Super Kings,Jos Buttler,64,64,9,2,0,100.0
+224,2022,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,29,29,5,1,1,100.0
+224,2022,Rajasthan Royals,Chennai Super Kings,Trent Boult,2,12,0,0,1,16.67
+224,2022,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,9,20,1,0,1,45.0
+225,2022,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,27,27,4,0,1,100.0
+225,2022,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,19,21,0,0,1,90.48
+225,2022,Royal Challengers Bangalore,Delhi Capitals,Glenn Maxwell,28,32,4,2,1,87.5
+225,2022,Royal Challengers Bangalore,Delhi Capitals,Mohammed Siraj,53,60,1,4,1,88.33
+225,2022,Royal Challengers Bangalore,Delhi Capitals,Dinesh Karthik,38,49,7,2,0,77.55
+226,2022,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,74,79,2,4,1,93.67
+226,2022,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,43,43,1,0,1,100.0
+226,2022,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,64,64,9,3,1,100.0
+226,2022,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,6,8,1,0,0,75.0
+226,2022,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,6,11,1,0,0,54.55
+227,2022,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,55,55,7,5,0,100.0
+227,2022,Chennai Super Kings,Sunrisers Hyderabad,Ruturaj Gaikwad,23,34,4,2,0,67.65
+227,2022,Chennai Super Kings,Sunrisers Hyderabad,Devon Conway,0,10,0,0,1,0.0
+227,2022,Chennai Super Kings,Sunrisers Hyderabad,Ravindra Jadeja,56,56,8,5,1,100.0
+227,2022,Chennai Super Kings,Sunrisers Hyderabad,Deepak Chahar,49,49,3,2,1,100.0
+228,2022,Rajasthan Royals,Chennai Super Kings,Sanju Samson,35,35,1,1,1,100.0
+228,2022,Rajasthan Royals,Chennai Super Kings,Jos Buttler,65,80,2,0,1,81.25
+228,2022,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,5,19,0,0,1,26.32
+228,2022,Rajasthan Royals,Chennai Super Kings,Trent Boult,3,12,0,0,1,25.0
+228,2022,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,73,73,11,7,1,100.0
+229,2022,Sunrisers Hyderabad,Royal Challengers Bangalore,Kane Williamson,40,40,8,0,1,100.0
+229,2022,Sunrisers Hyderabad,Royal Challengers Bangalore,Bhuvneshwar Kumar,80,80,7,2,1,100.0
+229,2022,Sunrisers Hyderabad,Royal Challengers Bangalore,T Natarajan,13,13,2,0,0,100.0
+229,2022,Sunrisers Hyderabad,Royal Challengers Bangalore,Washington Sundar,0,8,0,0,0,0.0
+229,2022,Sunrisers Hyderabad,Royal Challengers Bangalore,Aiden Markram,0,11,0,0,0,0.0
+230,2022,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,53,54,5,1,1,98.15
+230,2022,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,14,14,1,1,1,100.0
+230,2022,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,44,47,2,3,1,93.62
+230,2022,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,31,41,5,1,0,75.61
+230,2022,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,8,20,0,0,0,40.0
+231,2022,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,2,13,0,0,1,15.38
+231,2022,Kolkata Knight Riders,Punjab Kings,Andre Russell,70,70,10,0,1,100.0
+231,2022,Kolkata Knight Riders,Punjab Kings,Sunil Narine,46,57,3,1,1,80.7
+231,2022,Kolkata Knight Riders,Punjab Kings,Pat Cummins,50,50,4,1,1,100.0
+231,2022,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,21,23,1,2,1,91.3
+232,2022,Chennai Super Kings,Mumbai Indians,MS Dhoni,12,24,1,0,1,50.0
+232,2022,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,39,39,6,0,1,100.0
+232,2022,Chennai Super Kings,Mumbai Indians,Devon Conway,58,58,1,2,1,100.0
+232,2022,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,18,24,3,1,1,75.0
+232,2022,Chennai Super Kings,Mumbai Indians,Deepak Chahar,1,14,0,0,0,7.14
+233,2022,Delhi Capitals,Royal Challengers Bangalore,David Warner,62,68,3,0,0,91.18
+233,2022,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,78,92,15,3,0,84.78
+233,2022,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,31,31,3,2,1,100.0
+233,2022,Delhi Capitals,Royal Challengers Bangalore,Anrich Nortje,26,26,0,1,1,100.0
+233,2022,Delhi Capitals,Royal Challengers Bangalore,Mitchell Marsh,4,15,0,0,1,26.67
+234,2022,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,62,62,11,6,1,100.0
+234,2022,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,51,51,4,0,1,100.0
+234,2022,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,37,37,5,2,1,100.0
+234,2022,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,10,10,1,0,1,100.0
+234,2022,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,23,27,4,1,1,85.19
+235,2022,Mumbai Indians,Delhi Capitals,Rohit Sharma,44,44,3,2,0,100.0
+235,2022,Mumbai Indians,Delhi Capitals,Hardik Pandya,54,64,4,2,1,84.38
+235,2022,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,51,51,8,4,1,100.0
+235,2022,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,6,6,0,0,1,100.0
+235,2022,Mumbai Indians,Delhi Capitals,Ishan Kishan,8,9,1,0,0,88.89
+236,2022,Rajasthan Royals,Royal Challengers Bangalore,Sanju Samson,49,54,5,2,1,90.74
+236,2022,Rajasthan Royals,Royal Challengers Bangalore,Jos Buttler,40,53,1,4,1,75.47
+236,2022,Rajasthan Royals,Royal Challengers Bangalore,Yashasvi Jaiswal,21,30,2,2,0,70.0
+236,2022,Rajasthan Royals,Royal Challengers Bangalore,Trent Boult,55,62,7,3,1,88.71
+236,2022,Rajasthan Royals,Royal Challengers Bangalore,Ravichandran Ashwin,16,29,0,1,1,55.17
+237,2023,Mumbai Indians,Delhi Capitals,Rohit Sharma,5,10,1,0,1,50.0
+237,2023,Mumbai Indians,Delhi Capitals,Hardik Pandya,3,16,0,0,0,18.75
+237,2023,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,69,69,0,2,0,100.0
+237,2023,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,19,31,1,0,0,61.29
+237,2023,Mumbai Indians,Delhi Capitals,Ishan Kishan,15,15,3,0,1,100.0
+238,2023,Delhi Capitals,Mumbai Indians,David Warner,52,52,10,5,1,100.0
+238,2023,Delhi Capitals,Mumbai Indians,Rishabh Pant,0,5,0,0,0,0.0
+238,2023,Delhi Capitals,Mumbai Indians,Axar Patel,59,65,11,0,1,90.77
+238,2023,Delhi Capitals,Mumbai Indians,Anrich Nortje,29,29,0,0,0,100.0
+238,2023,Delhi Capitals,Mumbai Indians,Mitchell Marsh,2,6,0,0,1,33.33
+239,2023,Punjab Kings,Chennai Super Kings,Shikhar Dhawan,33,33,3,2,1,100.0
+239,2023,Punjab Kings,Chennai Super Kings,Liam Livingstone,44,55,7,1,0,80.0
+239,2023,Punjab Kings,Chennai Super Kings,Arshdeep Singh,74,74,2,3,1,100.0
+239,2023,Punjab Kings,Chennai Super Kings,Sam Curran,1,12,0,0,1,8.33
+240,2023,Mumbai Indians,Chennai Super Kings,Rohit Sharma,45,45,2,3,1,100.0
+240,2023,Mumbai Indians,Chennai Super Kings,Hardik Pandya,2,15,0,0,1,13.33
+240,2023,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,60,60,4,5,1,100.0
+240,2023,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,43,51,6,2,0,84.31
+240,2023,Mumbai Indians,Chennai Super Kings,Ishan Kishan,7,19,0,0,1,36.84
+241,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,23,23,1,1,0,100.0
+241,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Faf du Plessis,31,31,5,2,0,100.0
+241,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Glenn Maxwell,20,21,0,1,1,95.24
+241,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Mohammed Siraj,50,50,7,5,1,100.0
+241,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Dinesh Karthik,14,29,0,0,1,48.28
+242,2023,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,63,63,0,1,1,100.0
+242,2023,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,11,15,1,0,1,73.33
+242,2023,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,36,37,6,3,0,97.3
+242,2023,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,53,53,2,3,1,100.0
+242,2023,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,6,17,0,0,1,35.29
+243,2023,Rajasthan Royals,Delhi Capitals,Sanju Samson,22,24,4,1,1,91.67
+243,2023,Rajasthan Royals,Delhi Capitals,Jos Buttler,10,10,0,1,1,100.0
+243,2023,Rajasthan Royals,Delhi Capitals,Yashasvi Jaiswal,75,75,6,7,1,100.0
+243,2023,Rajasthan Royals,Delhi Capitals,Trent Boult,59,59,0,0,1,100.0
+243,2023,Rajasthan Royals,Delhi Capitals,Ravichandran Ashwin,29,29,0,2,1,100.0
+244,2023,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,35,39,7,1,1,89.74
+244,2023,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,67,69,7,0,0,97.1
+244,2023,Royal Challengers Bangalore,Mumbai Indians,Glenn Maxwell,23,23,1,2,1,100.0
+244,2023,Royal Challengers Bangalore,Mumbai Indians,Mohammed Siraj,20,35,0,1,1,57.14
+244,2023,Royal Challengers Bangalore,Mumbai Indians,Dinesh Karthik,0,6,0,0,1,0.0
+245,2023,Mumbai Indians,Delhi Capitals,Rohit Sharma,26,26,3,2,0,100.0
+245,2023,Mumbai Indians,Delhi Capitals,Hardik Pandya,34,46,4,2,0,73.91
+245,2023,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,28,28,5,1,0,100.0
+245,2023,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,36,47,6,2,1,76.6
+245,2023,Mumbai Indians,Delhi Capitals,Ishan Kishan,30,44,4,0,1,68.18
+246,2023,Delhi Capitals,Royal Challengers Bangalore,David Warner,79,79,13,6,1,100.0
+246,2023,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,1,10,0,0,1,10.0
+246,2023,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,34,34,3,0,0,100.0
+246,2023,Delhi Capitals,Royal Challengers Bangalore,Anrich Nortje,6,9,0,0,0,66.67
+246,2023,Delhi Capitals,Royal Challengers Bangalore,Mitchell Marsh,2,13,0,0,1,15.38
+247,2023,Delhi Capitals,Mumbai Indians,David Warner,49,61,6,3,1,80.33
+247,2023,Delhi Capitals,Mumbai Indians,Rishabh Pant,3,8,0,0,1,37.5
+247,2023,Delhi Capitals,Mumbai Indians,Axar Patel,52,52,5,4,0,100.0
+247,2023,Delhi Capitals,Mumbai Indians,Anrich Nortje,72,76,7,1,1,94.74
+247,2023,Delhi Capitals,Mumbai Indians,Mitchell Marsh,1,13,0,0,1,7.69
+248,2023,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,60,60,1,6,1,100.0
+248,2023,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,33,33,5,0,1,100.0
+248,2023,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,3,10,0,0,1,30.0
+248,2023,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,32,44,3,0,0,72.73
+248,2023,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,6,11,0,0,1,54.55
+249,2023,Mumbai Indians,Punjab Kings,Rohit Sharma,37,37,2,2,1,100.0
+249,2023,Mumbai Indians,Punjab Kings,Hardik Pandya,56,71,4,1,1,78.87
+249,2023,Mumbai Indians,Punjab Kings,Suryakumar Yadav,8,8,1,0,0,100.0
+249,2023,Mumbai Indians,Punjab Kings,Jasprit Bumrah,14,14,0,1,0,100.0
+249,2023,Mumbai Indians,Punjab Kings,Ishan Kishan,0,5,0,0,1,0.0
+250,2023,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,1,8,0,0,1,12.5
+250,2023,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,51,65,1,2,1,78.46
+250,2023,Royal Challengers Bangalore,Rajasthan Royals,Glenn Maxwell,34,34,6,0,1,100.0
+250,2023,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,66,66,3,2,1,100.0
+250,2023,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,11,25,0,0,1,44.0
+251,2023,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,25,25,4,2,0,100.0
+251,2023,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,62,62,9,0,1,100.0
+251,2023,Sunrisers Hyderabad,Punjab Kings,T Natarajan,55,55,11,3,1,100.0
+251,2023,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,0,10,0,0,0,0.0
+251,2023,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,1,9,0,0,1,11.11
+252,2023,Punjab Kings,Sunrisers Hyderabad,Shikhar Dhawan,24,36,0,0,0,66.67
+252,2023,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,64,64,5,6,1,100.0
+252,2023,Punjab Kings,Sunrisers Hyderabad,Arshdeep Singh,13,27,1,0,1,48.15
+252,2023,Punjab Kings,Sunrisers Hyderabad,Sam Curran,19,19,1,0,1,100.0
+252,2023,Punjab Kings,Sunrisers Hyderabad,Matthew Short,50,50,2,4,1,100.0
+253,2023,Punjab Kings,Mumbai Indians,Shikhar Dhawan,35,35,3,1,1,100.0
+253,2023,Punjab Kings,Mumbai Indians,Liam Livingstone,32,34,6,2,0,94.12
+253,2023,Punjab Kings,Mumbai Indians,Arshdeep Singh,54,54,5,4,1,100.0
+253,2023,Punjab Kings,Mumbai Indians,Sam Curran,12,12,2,1,1,100.0
+253,2023,Punjab Kings,Mumbai Indians,Matthew Short,6,6,0,0,1,100.0
+254,2023,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,11,19,0,1,1,57.89
+254,2023,Punjab Kings,Rajasthan Royals,Liam Livingstone,33,34,5,0,0,97.06
+254,2023,Punjab Kings,Rajasthan Royals,Arshdeep Singh,8,14,1,0,1,57.14
+254,2023,Punjab Kings,Rajasthan Royals,Sam Curran,27,27,2,1,0,100.0
+254,2023,Punjab Kings,Rajasthan Royals,Matthew Short,46,46,3,2,0,100.0
+255,2023,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,20,35,4,0,1,57.14
+255,2023,Sunrisers Hyderabad,Rajasthan Royals,Bhuvneshwar Kumar,59,68,10,1,1,86.76
+255,2023,Sunrisers Hyderabad,Rajasthan Royals,T Natarajan,55,55,7,3,1,100.0
+255,2023,Sunrisers Hyderabad,Rajasthan Royals,Washington Sundar,19,29,2,0,0,65.52
+255,2023,Sunrisers Hyderabad,Rajasthan Royals,Aiden Markram,36,39,7,3,1,92.31
+256,2023,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,68,72,13,0,1,94.44
+256,2023,Kolkata Knight Riders,Punjab Kings,Andre Russell,69,69,1,2,1,100.0
+256,2023,Kolkata Knight Riders,Punjab Kings,Sunil Narine,7,9,0,0,0,77.78
+256,2023,Kolkata Knight Riders,Punjab Kings,Pat Cummins,4,9,0,0,0,44.44
+256,2023,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,3,4,0,0,1,75.0
+257,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,32,32,3,0,0,100.0
+257,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,53,53,1,2,1,100.0
+257,2023,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,39,39,6,2,0,100.0
+257,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,10,25,2,1,1,40.0
+257,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,1,9,0,0,0,11.11
+258,2023,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,51,65,5,2,1,78.46
+258,2023,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,3,3,0,0,1,100.0
+258,2023,Royal Challengers Bangalore,Rajasthan Royals,Glenn Maxwell,4,6,0,0,1,66.67
+258,2023,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,76,84,5,2,0,90.48
+258,2023,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,22,22,0,1,1,100.0
+259,2023,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,51,51,9,0,0,100.0
+259,2023,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,32,32,5,2,1,100.0
+259,2023,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,59,71,9,4,1,83.1
+259,2023,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,8,8,1,0,1,100.0
+259,2023,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,2,2,0,0,1,100.0
+260,2023,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,62,66,7,5,0,93.94
+260,2023,Chennai Super Kings,Sunrisers Hyderabad,Ruturaj Gaikwad,43,54,4,0,1,79.63
+260,2023,Chennai Super Kings,Sunrisers Hyderabad,Devon Conway,27,33,0,2,0,81.82
+260,2023,Chennai Super Kings,Sunrisers Hyderabad,Ravindra Jadeja,7,17,0,0,1,41.18
+260,2023,Chennai Super Kings,Sunrisers Hyderabad,Deepak Chahar,4,6,0,0,1,66.67
+261,2023,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,28,40,5,0,1,70.0
+261,2023,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,78,78,6,4,0,100.0
+261,2023,Royal Challengers Bangalore,Rajasthan Royals,Glenn Maxwell,51,51,6,4,1,100.0
+261,2023,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,30,30,2,1,1,100.0
+261,2023,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,9,9,0,0,1,100.0
+262,2023,Delhi Capitals,Chennai Super Kings,David Warner,41,41,1,4,1,100.0
+262,2023,Delhi Capitals,Chennai Super Kings,Rishabh Pant,13,26,2,1,0,50.0
+262,2023,Delhi Capitals,Chennai Super Kings,Axar Patel,56,56,1,4,1,100.0
+262,2023,Delhi Capitals,Chennai Super Kings,Anrich Nortje,29,29,0,2,1,100.0
+262,2023,Delhi Capitals,Chennai Super Kings,Mitchell Marsh,8,8,1,0,0,100.0
+263,2023,Delhi Capitals,Punjab Kings,David Warner,10,10,0,1,0,100.0
+263,2023,Delhi Capitals,Punjab Kings,Rishabh Pant,63,63,9,3,1,100.0
+263,2023,Delhi Capitals,Punjab Kings,Axar Patel,13,28,1,1,1,46.43
+263,2023,Delhi Capitals,Punjab Kings,Anrich Nortje,48,48,9,0,1,100.0
+263,2023,Delhi Capitals,Punjab Kings,Mitchell Marsh,41,41,1,0,1,100.0
+264,2023,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,32,38,6,2,1,84.21
+264,2023,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,31,32,3,0,1,96.88
+264,2023,Royal Challengers Bangalore,Mumbai Indians,Glenn Maxwell,33,33,1,2,1,100.0
+264,2023,Royal Challengers Bangalore,Mumbai Indians,Mohammed Siraj,44,44,7,0,1,100.0
+264,2023,Royal Challengers Bangalore,Mumbai Indians,Dinesh Karthik,39,53,3,2,1,73.58
+265,2023,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,71,71,2,6,1,100.0
+265,2023,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,9,10,0,0,1,90.0
+265,2023,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,51,51,2,5,1,100.0
+265,2023,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,45,47,2,3,0,95.74
+265,2023,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,9,23,0,0,1,39.13
+266,2023,Punjab Kings,Delhi Capitals,Shikhar Dhawan,80,80,12,4,1,100.0
+266,2023,Punjab Kings,Delhi Capitals,Liam Livingstone,46,46,6,2,1,100.0
+266,2023,Punjab Kings,Delhi Capitals,Arshdeep Singh,7,13,1,0,1,53.85
+266,2023,Punjab Kings,Delhi Capitals,Sam Curran,4,12,0,0,0,33.33
+266,2023,Punjab Kings,Delhi Capitals,Matthew Short,16,30,3,1,0,53.33
+267,2023,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,76,76,13,2,1,100.0
+267,2023,Chennai Super Kings,Sunrisers Hyderabad,Ruturaj Gaikwad,27,34,3,1,1,79.41
+267,2023,Chennai Super Kings,Sunrisers Hyderabad,Devon Conway,38,40,3,3,0,95.0
+267,2023,Chennai Super Kings,Sunrisers Hyderabad,Ravindra Jadeja,34,37,6,0,1,91.89
+267,2023,Chennai Super Kings,Sunrisers Hyderabad,Deepak Chahar,1,12,0,0,1,8.33
+268,2023,Royal Challengers Bangalore,Punjab Kings,Virat Kohli,55,55,7,0,0,100.0
+268,2023,Royal Challengers Bangalore,Punjab Kings,Faf du Plessis,51,51,3,2,1,100.0
+268,2023,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,10,15,1,0,1,66.67
+268,2023,Royal Challengers Bangalore,Punjab Kings,Mohammed Siraj,1,2,0,0,0,50.0
+268,2023,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,0,9,0,0,1,0.0
+269,2023,Royal Challengers Bangalore,Punjab Kings,Virat Kohli,37,37,5,1,1,100.0
+269,2023,Royal Challengers Bangalore,Punjab Kings,Faf du Plessis,21,21,3,0,1,100.0
+269,2023,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,78,78,14,6,1,100.0
+269,2023,Royal Challengers Bangalore,Punjab Kings,Mohammed Siraj,60,60,10,4,0,100.0
+269,2023,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,0,6,0,0,1,0.0
+270,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,3,16,0,0,1,18.75
+270,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,78,78,9,7,1,100.0
+270,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,36,36,0,1,1,100.0
+270,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Pat Cummins,19,27,1,1,1,70.37
+270,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Venkatesh Iyer,34,34,0,2,1,100.0
+271,2023,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,51,51,2,1,1,100.0
+271,2023,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,79,81,8,6,1,97.53
+271,2023,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,22,31,2,0,1,70.97
+272,2023,Chennai Super Kings,Mumbai Indians,MS Dhoni,32,41,2,2,0,78.05
+272,2023,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,72,72,1,1,1,100.0
+272,2023,Chennai Super Kings,Mumbai Indians,Devon Conway,12,12,2,1,0,100.0
+272,2023,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,33,33,3,3,0,100.0
+272,2023,Chennai Super Kings,Mumbai Indians,Deepak Chahar,1,2,0,0,0,50.0
+273,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,64,64,3,1,1,100.0
+273,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,42,49,0,3,0,85.71
+273,2023,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,31,33,4,1,0,93.94
+273,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,20,20,0,2,0,100.0
+273,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,16,25,0,0,1,64.0
+274,2023,Delhi Capitals,Sunrisers Hyderabad,David Warner,32,38,5,3,1,84.21
+274,2023,Delhi Capitals,Sunrisers Hyderabad,Rishabh Pant,19,23,2,0,0,82.61
+274,2023,Delhi Capitals,Sunrisers Hyderabad,Axar Patel,22,23,2,0,1,95.65
+274,2023,Delhi Capitals,Sunrisers Hyderabad,Anrich Nortje,2,14,0,0,0,14.29
+274,2023,Delhi Capitals,Sunrisers Hyderabad,Mitchell Marsh,52,60,3,3,0,86.67
+275,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,50,50,7,0,1,100.0
+275,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,57,57,9,3,0,100.0
+275,2023,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,27,27,4,0,1,100.0
+275,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,66,66,2,3,0,100.0
+275,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,3,13,0,0,1,23.08
+276,2023,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,39,39,5,2,1,100.0
+276,2023,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,57,58,5,5,0,98.28
+276,2023,Sunrisers Hyderabad,Punjab Kings,T Natarajan,19,19,1,0,0,100.0
+276,2023,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,7,20,1,0,1,35.0
+276,2023,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,30,37,2,1,1,81.08
+277,2023,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,19,19,1,1,0,100.0
+277,2023,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,10,16,2,1,0,62.5
+277,2023,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,75,75,5,5,1,100.0
+277,2023,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,12,22,1,0,1,54.55
+277,2023,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,10,10,2,0,1,100.0
+278,2023,Punjab Kings,Mumbai Indians,Shikhar Dhawan,43,43,5,2,1,100.0
+278,2023,Punjab Kings,Mumbai Indians,Liam Livingstone,62,62,4,0,1,100.0
+278,2023,Punjab Kings,Mumbai Indians,Arshdeep Singh,10,15,2,0,0,66.67
+278,2023,Punjab Kings,Mumbai Indians,Sam Curran,8,8,0,0,0,100.0
+278,2023,Punjab Kings,Mumbai Indians,Matthew Short,4,6,0,0,1,66.67
+279,2023,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,24,27,1,2,1,88.89
+279,2023,Punjab Kings,Rajasthan Royals,Liam Livingstone,77,83,5,7,0,92.77
+279,2023,Punjab Kings,Rajasthan Royals,Arshdeep Singh,37,37,7,1,1,100.0
+279,2023,Punjab Kings,Rajasthan Royals,Sam Curran,0,3,0,0,0,0.0
+279,2023,Punjab Kings,Rajasthan Royals,Matthew Short,2,7,0,0,0,28.57
+280,2023,Mumbai Indians,Rajasthan Royals,Rohit Sharma,57,57,11,5,0,100.0
+280,2023,Mumbai Indians,Rajasthan Royals,Hardik Pandya,75,86,11,1,1,87.21
+280,2023,Mumbai Indians,Rajasthan Royals,Suryakumar Yadav,40,48,5,3,1,83.33
+280,2023,Mumbai Indians,Rajasthan Royals,Jasprit Bumrah,19,33,3,1,1,57.58
+280,2023,Mumbai Indians,Rajasthan Royals,Ishan Kishan,6,10,0,0,1,60.0
+281,2023,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,34,38,1,0,1,89.47
+281,2023,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,20,20,4,1,0,100.0
+281,2023,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,62,69,11,3,1,89.86
+281,2023,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,5,17,0,0,1,29.41
+281,2023,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,1,11,0,0,0,9.09
+282,2023,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,31,31,2,1,1,100.0
+282,2023,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,40,50,4,4,1,80.0
+282,2023,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,42,42,2,2,1,100.0
+282,2023,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,73,73,11,3,1,100.0
+282,2023,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,0,8,0,0,1,0.0
+283,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Kane Williamson,25,38,5,0,1,65.79
+283,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Bhuvneshwar Kumar,76,76,3,4,1,100.0
+283,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,T Natarajan,24,28,4,1,0,85.71
+283,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Washington Sundar,24,25,0,1,0,96.0
+283,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Aiden Markram,4,11,0,0,1,36.36
+284,2023,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,18,19,3,0,1,94.74
+284,2023,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,41,45,2,2,1,91.11
+284,2023,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,4,11,0,0,1,36.36
+284,2023,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,7,7,1,0,1,100.0
+284,2023,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,17,17,0,0,1,100.0
+285,2023,Chennai Super Kings,Punjab Kings,MS Dhoni,6,10,1,0,0,60.0
+285,2023,Chennai Super Kings,Punjab Kings,Ruturaj Gaikwad,29,44,1,0,1,65.91
+285,2023,Chennai Super Kings,Punjab Kings,Devon Conway,41,44,6,0,1,93.18
+285,2023,Chennai Super Kings,Punjab Kings,Ravindra Jadeja,18,24,0,1,1,75.0
+285,2023,Chennai Super Kings,Punjab Kings,Deepak Chahar,2,7,0,0,0,28.57
+286,2023,Sunrisers Hyderabad,Chennai Super Kings,Kane Williamson,3,15,0,0,0,20.0
+286,2023,Sunrisers Hyderabad,Chennai Super Kings,Bhuvneshwar Kumar,5,14,0,0,0,35.71
+286,2023,Sunrisers Hyderabad,Chennai Super Kings,T Natarajan,72,83,11,4,1,86.75
+286,2023,Sunrisers Hyderabad,Chennai Super Kings,Washington Sundar,27,41,4,1,1,65.85
+286,2023,Sunrisers Hyderabad,Chennai Super Kings,Aiden Markram,3,8,0,0,1,37.5
+287,2023,Mumbai Indians,Delhi Capitals,Rohit Sharma,72,72,1,0,1,100.0
+287,2023,Mumbai Indians,Delhi Capitals,Hardik Pandya,41,41,6,2,0,100.0
+287,2023,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,13,26,0,1,1,50.0
+287,2023,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,0,5,0,0,1,0.0
+287,2023,Mumbai Indians,Delhi Capitals,Ishan Kishan,1,4,0,0,0,25.0
+288,2023,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,36,48,3,2,0,75.0
+288,2023,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,34,34,1,3,1,100.0
+288,2023,Rajasthan Royals,Kolkata Knight Riders,Yashasvi Jaiswal,5,20,1,0,1,25.0
+288,2023,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,6,12,1,0,1,50.0
+288,2023,Rajasthan Royals,Kolkata Knight Riders,Ravichandran Ashwin,58,59,8,1,1,98.31
+289,2023,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,43,53,2,4,1,81.13
+289,2023,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,80,93,5,2,1,86.02
+289,2023,Royal Challengers Bangalore,Rajasthan Royals,Glenn Maxwell,26,39,5,1,0,66.67
+289,2023,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,26,41,0,2,1,63.41
+289,2023,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,16,16,0,1,1,100.0
+290,2023,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,69,74,1,6,0,93.24
+290,2023,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,2,2,0,0,0,100.0
+290,2023,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,9,9,1,0,1,100.0
+290,2023,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,54,54,10,3,0,100.0
+290,2023,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,19,19,2,1,1,100.0
+291,2023,Rajasthan Royals,Mumbai Indians,Sanju Samson,11,11,0,0,1,100.0
+291,2023,Rajasthan Royals,Mumbai Indians,Jos Buttler,43,43,7,0,1,100.0
+291,2023,Rajasthan Royals,Mumbai Indians,Yashasvi Jaiswal,70,84,11,7,0,83.33
+291,2023,Rajasthan Royals,Mumbai Indians,Trent Boult,13,13,0,0,1,100.0
+291,2023,Rajasthan Royals,Mumbai Indians,Ravichandran Ashwin,0,15,0,0,1,0.0
+292,2023,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,5,11,0,0,1,45.45
+292,2023,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,74,74,3,7,1,100.0
+292,2023,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,14,14,0,0,0,100.0
+292,2023,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,77,77,0,7,1,100.0
+292,2023,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,6,6,1,0,1,100.0
+293,2023,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,52,52,8,0,0,100.0
+293,2023,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,18,18,1,1,0,100.0
+293,2023,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,7,19,0,0,1,36.84
+293,2023,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,34,34,2,1,1,100.0
+293,2023,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,31,45,6,1,0,68.89
+294,2023,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,50,50,3,5,1,100.0
+294,2023,Kolkata Knight Riders,Punjab Kings,Andre Russell,47,48,7,4,1,97.92
+294,2023,Kolkata Knight Riders,Punjab Kings,Sunil Narine,28,37,1,1,1,75.68
+294,2023,Kolkata Knight Riders,Punjab Kings,Pat Cummins,50,57,6,5,1,87.72
+294,2023,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,10,10,0,1,1,100.0
+295,2023,Delhi Capitals,Punjab Kings,David Warner,77,77,4,7,1,100.0
+295,2023,Delhi Capitals,Punjab Kings,Rishabh Pant,62,62,8,4,1,100.0
+295,2023,Delhi Capitals,Punjab Kings,Axar Patel,8,12,1,0,1,66.67
+295,2023,Delhi Capitals,Punjab Kings,Anrich Nortje,65,65,5,2,1,100.0
+295,2023,Delhi Capitals,Punjab Kings,Mitchell Marsh,4,8,0,0,0,50.0
+296,2023,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,23,31,3,1,0,74.19
+296,2023,Chennai Super Kings,Sunrisers Hyderabad,Ruturaj Gaikwad,61,75,4,4,1,81.33
+296,2023,Chennai Super Kings,Sunrisers Hyderabad,Devon Conway,43,43,4,4,0,100.0
+296,2023,Chennai Super Kings,Sunrisers Hyderabad,Ravindra Jadeja,15,19,3,0,0,78.95
+296,2023,Chennai Super Kings,Sunrisers Hyderabad,Deepak Chahar,32,47,3,2,1,68.09
+297,2024,Delhi Capitals,Chennai Super Kings,David Warner,1,4,0,0,0,25.0
+297,2024,Delhi Capitals,Chennai Super Kings,Rishabh Pant,30,30,1,2,1,100.0
+297,2024,Delhi Capitals,Chennai Super Kings,Axar Patel,45,45,2,0,1,100.0
+297,2024,Delhi Capitals,Chennai Super Kings,Anrich Nortje,20,34,1,0,1,58.82
+297,2024,Delhi Capitals,Chennai Super Kings,Mitchell Marsh,24,24,4,2,0,100.0
+298,2024,Rajasthan Royals,Chennai Super Kings,Sanju Samson,19,32,3,1,0,59.38
+298,2024,Rajasthan Royals,Chennai Super Kings,Jos Buttler,34,34,5,3,1,100.0
+298,2024,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,67,67,5,0,1,100.0
+298,2024,Rajasthan Royals,Chennai Super Kings,Trent Boult,39,43,7,1,1,90.7
+298,2024,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,22,22,4,2,1,100.0
+299,2024,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,54,54,6,2,1,100.0
+299,2024,Mumbai Indians,Kolkata Knight Riders,Hardik Pandya,34,40,2,3,0,85.0
+299,2024,Mumbai Indians,Kolkata Knight Riders,Suryakumar Yadav,14,25,2,0,1,56.0
+299,2024,Mumbai Indians,Kolkata Knight Riders,Jasprit Bumrah,12,17,0,0,0,70.59
+299,2024,Mumbai Indians,Kolkata Knight Riders,Ishan Kishan,5,5,0,0,0,100.0
+300,2024,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,22,28,0,1,1,78.57
+300,2024,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,47,47,2,4,1,100.0
+300,2024,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,31,31,2,1,1,100.0
+300,2024,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,32,32,4,0,1,100.0
+300,2024,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,1,2,0,0,1,50.0
+301,2024,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,64,64,2,6,0,100.0
+301,2024,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,9,23,1,0,0,39.13
+301,2024,Rajasthan Royals,Sunrisers Hyderabad,Yashasvi Jaiswal,52,52,6,2,1,100.0
+301,2024,Rajasthan Royals,Sunrisers Hyderabad,Trent Boult,20,25,1,0,0,80.0
+301,2024,Rajasthan Royals,Sunrisers Hyderabad,Ravichandran Ashwin,4,16,0,0,1,25.0
+302,2024,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,5,17,0,0,1,29.41
+302,2024,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,39,51,2,0,1,76.47
+302,2024,Rajasthan Royals,Kolkata Knight Riders,Yashasvi Jaiswal,18,32,2,0,0,56.25
+302,2024,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,27,33,4,1,0,81.82
+302,2024,Rajasthan Royals,Kolkata Knight Riders,Ravichandran Ashwin,51,51,9,3,1,100.0
+303,2024,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,5,11,0,0,0,45.45
+303,2024,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,72,72,6,2,1,100.0
+303,2024,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,72,72,14,3,0,100.0
+303,2024,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,2,6,0,0,1,33.33
+303,2024,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,12,12,0,1,1,100.0
+304,2024,Kolkata Knight Riders,Chennai Super Kings,Shreyas Iyer,38,50,6,0,1,76.0
+304,2024,Kolkata Knight Riders,Chennai Super Kings,Andre Russell,38,38,1,1,1,100.0
+304,2024,Kolkata Knight Riders,Chennai Super Kings,Sunil Narine,28,42,1,1,1,66.67
+304,2024,Kolkata Knight Riders,Chennai Super Kings,Pat Cummins,59,59,11,4,1,100.0
+304,2024,Kolkata Knight Riders,Chennai Super Kings,Venkatesh Iyer,1,13,0,0,0,7.69
+305,2024,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,20,29,2,2,1,68.97
+305,2024,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,10,10,0,0,1,100.0
+305,2024,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,1,5,0,0,1,20.0
+305,2024,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,19,19,0,1,0,100.0
+305,2024,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,17,17,2,1,1,100.0
+306,2024,Chennai Super Kings,Punjab Kings,MS Dhoni,65,65,7,4,0,100.0
+306,2024,Chennai Super Kings,Punjab Kings,Ruturaj Gaikwad,36,36,6,2,1,100.0
+306,2024,Chennai Super Kings,Punjab Kings,Devon Conway,60,60,5,4,1,100.0
+306,2024,Chennai Super Kings,Punjab Kings,Ravindra Jadeja,20,32,3,1,1,62.5
+306,2024,Chennai Super Kings,Punjab Kings,Deepak Chahar,3,10,0,0,0,30.0
+307,2024,Punjab Kings,Mumbai Indians,Shikhar Dhawan,20,22,1,1,0,90.91
+307,2024,Punjab Kings,Mumbai Indians,Liam Livingstone,4,10,0,0,1,40.0
+307,2024,Punjab Kings,Mumbai Indians,Arshdeep Singh,59,71,6,5,1,83.1
+307,2024,Punjab Kings,Mumbai Indians,Sam Curran,57,57,5,5,1,100.0
+307,2024,Punjab Kings,Mumbai Indians,Matthew Short,27,34,2,2,1,79.41
+308,2024,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,27,27,2,2,1,100.0
+308,2024,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,64,64,8,3,1,100.0
+308,2024,Sunrisers Hyderabad,Punjab Kings,T Natarajan,37,37,6,0,1,100.0
+308,2024,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,9,21,1,0,0,42.86
+308,2024,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,0,7,0,0,1,0.0
+309,2024,Punjab Kings,Mumbai Indians,Shikhar Dhawan,2,17,0,0,1,11.76
+309,2024,Punjab Kings,Mumbai Indians,Liam Livingstone,74,74,8,4,1,100.0
+309,2024,Punjab Kings,Mumbai Indians,Arshdeep Singh,30,44,3,2,0,68.18
+309,2024,Punjab Kings,Mumbai Indians,Sam Curran,41,41,0,3,0,100.0
+309,2024,Punjab Kings,Mumbai Indians,Matthew Short,7,18,0,0,0,38.89
+310,2024,Mumbai Indians,Chennai Super Kings,Rohit Sharma,64,66,7,4,0,96.97
+310,2024,Mumbai Indians,Chennai Super Kings,Hardik Pandya,78,78,2,5,1,100.0
+310,2024,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,1,6,0,0,1,16.67
+310,2024,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,1,1,0,0,0,100.0
+311,2024,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,5,5,1,0,0,100.0
+311,2024,Kolkata Knight Riders,Punjab Kings,Andre Russell,45,45,5,2,1,100.0
+311,2024,Kolkata Knight Riders,Punjab Kings,Sunil Narine,0,6,0,0,0,0.0
+311,2024,Kolkata Knight Riders,Punjab Kings,Pat Cummins,12,25,2,0,1,48.0
+311,2024,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,60,61,8,4,1,98.36
+312,2024,Punjab Kings,Mumbai Indians,Shikhar Dhawan,52,52,0,2,1,100.0
+312,2024,Punjab Kings,Mumbai Indians,Liam Livingstone,11,11,2,0,1,100.0
+312,2024,Punjab Kings,Mumbai Indians,Arshdeep Singh,12,14,1,1,1,85.71
+312,2024,Punjab Kings,Mumbai Indians,Sam Curran,23,29,1,2,1,79.31
+312,2024,Punjab Kings,Mumbai Indians,Matthew Short,29,29,2,1,1,100.0
+313,2024,Rajasthan Royals,Punjab Kings,Sanju Samson,71,85,3,1,1,83.53
+313,2024,Rajasthan Royals,Punjab Kings,Jos Buttler,23,31,4,2,1,74.19
+313,2024,Rajasthan Royals,Punjab Kings,Yashasvi Jaiswal,2,16,0,0,0,12.5
+313,2024,Rajasthan Royals,Punjab Kings,Trent Boult,65,65,6,0,1,100.0
+313,2024,Rajasthan Royals,Punjab Kings,Ravichandran Ashwin,1,7,0,0,0,14.29
+314,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Shreyas Iyer,31,31,5,0,0,100.0
+314,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,31,31,5,0,1,100.0
+314,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Sunil Narine,17,17,2,0,1,100.0
+314,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,26,35,0,2,0,74.29
+314,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,13,16,0,1,0,81.25
+315,2024,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,58,62,4,1,1,93.55
+315,2024,Mumbai Indians,Royal Challengers Bangalore,Hardik Pandya,36,36,4,2,0,100.0
+315,2024,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,49,49,7,4,0,100.0
+315,2024,Mumbai Indians,Royal Challengers Bangalore,Jasprit Bumrah,7,14,1,0,1,50.0
+316,2024,Punjab Kings,Mumbai Indians,Shikhar Dhawan,71,74,9,2,1,95.95
+316,2024,Punjab Kings,Mumbai Indians,Liam Livingstone,67,67,2,0,1,100.0
+316,2024,Punjab Kings,Mumbai Indians,Arshdeep Singh,22,35,4,1,1,62.86
+316,2024,Punjab Kings,Mumbai Indians,Sam Curran,0,8,0,0,0,0.0
+316,2024,Punjab Kings,Mumbai Indians,Matthew Short,2,14,0,0,1,14.29
+317,2024,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,70,70,11,2,0,100.0
+317,2024,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,27,27,2,0,0,100.0
+317,2024,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,1,14,0,0,1,7.14
+317,2024,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,57,57,1,2,1,100.0
+317,2024,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,19,19,0,1,1,100.0
+318,2024,Rajasthan Royals,Delhi Capitals,Sanju Samson,35,35,2,1,0,100.0
+318,2024,Rajasthan Royals,Delhi Capitals,Jos Buttler,5,7,0,0,0,71.43
+318,2024,Rajasthan Royals,Delhi Capitals,Yashasvi Jaiswal,37,47,0,3,0,78.72
+318,2024,Rajasthan Royals,Delhi Capitals,Trent Boult,17,17,0,0,1,100.0
+318,2024,Rajasthan Royals,Delhi Capitals,Ravichandran Ashwin,38,46,2,0,1,82.61
+319,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,56,56,5,2,1,100.0
+319,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,2,7,0,0,1,28.57
+319,2024,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,68,68,1,6,1,100.0
+319,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,50,50,0,1,1,100.0
+319,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,8,8,1,0,1,100.0
+320,2024,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,18,28,3,0,1,64.29
+320,2024,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,69,69,11,6,1,100.0
+320,2024,Royal Challengers Bangalore,Mumbai Indians,Glenn Maxwell,10,13,1,0,0,76.92
+320,2024,Royal Challengers Bangalore,Mumbai Indians,Mohammed Siraj,0,13,0,0,1,0.0
+320,2024,Royal Challengers Bangalore,Mumbai Indians,Dinesh Karthik,46,46,1,2,0,100.0
+321,2024,Delhi Capitals,Royal Challengers Bangalore,David Warner,69,69,4,3,1,100.0
+321,2024,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,9,9,0,0,1,100.0
+321,2024,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,5,12,1,0,0,41.67
+321,2024,Delhi Capitals,Royal Challengers Bangalore,Anrich Nortje,55,56,0,0,1,98.21
+321,2024,Delhi Capitals,Royal Challengers Bangalore,Mitchell Marsh,0,11,0,0,1,0.0
+322,2024,Mumbai Indians,Delhi Capitals,Rohit Sharma,52,64,9,4,1,81.25
+322,2024,Mumbai Indians,Delhi Capitals,Hardik Pandya,45,45,9,4,0,100.0
+322,2024,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,8,8,1,0,1,100.0
+322,2024,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,50,50,8,0,1,100.0
+322,2024,Mumbai Indians,Delhi Capitals,Ishan Kishan,16,31,0,1,1,51.61
+323,2024,Delhi Capitals,Kolkata Knight Riders,David Warner,67,67,3,0,1,100.0
+323,2024,Delhi Capitals,Kolkata Knight Riders,Rishabh Pant,32,32,3,0,1,100.0
+323,2024,Delhi Capitals,Kolkata Knight Riders,Axar Patel,18,29,3,0,1,62.07
+323,2024,Delhi Capitals,Kolkata Knight Riders,Anrich Nortje,23,35,2,0,0,65.71
+323,2024,Delhi Capitals,Kolkata Knight Riders,Mitchell Marsh,7,14,1,0,0,50.0
+324,2024,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,30,30,1,1,1,100.0
+324,2024,Royal Challengers Bangalore,Kolkata Knight Riders,Faf du Plessis,45,45,8,2,1,100.0
+324,2024,Royal Challengers Bangalore,Kolkata Knight Riders,Glenn Maxwell,15,19,1,0,1,78.95
+324,2024,Royal Challengers Bangalore,Kolkata Knight Riders,Mohammed Siraj,11,11,2,1,1,100.0
+324,2024,Royal Challengers Bangalore,Kolkata Knight Riders,Dinesh Karthik,15,24,0,0,0,62.5
+325,2024,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,3,4,0,0,0,75.0
+325,2024,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,16,27,0,0,1,59.26
+325,2024,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,42,51,7,2,1,82.35
+325,2024,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,15,30,3,0,1,50.0
+325,2024,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,43,43,6,2,1,100.0
+326,2024,Royal Challengers Bangalore,Punjab Kings,Virat Kohli,42,42,6,0,0,100.0
+326,2024,Royal Challengers Bangalore,Punjab Kings,Faf du Plessis,4,11,0,0,1,36.36
+326,2024,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,5,13,0,0,0,38.46
+326,2024,Royal Challengers Bangalore,Punjab Kings,Mohammed Siraj,50,52,6,5,0,96.15
+326,2024,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,6,6,0,0,1,100.0
+327,2024,Delhi Capitals,Royal Challengers Bangalore,David Warner,55,63,1,3,1,87.3
+327,2024,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,62,62,12,4,1,100.0
+327,2024,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,18,28,1,1,0,64.29
+327,2024,Delhi Capitals,Royal Challengers Bangalore,Anrich Nortje,2,4,0,0,1,50.0
+327,2024,Delhi Capitals,Royal Challengers Bangalore,Mitchell Marsh,0,13,0,0,1,0.0
+328,2024,Delhi Capitals,Royal Challengers Bangalore,David Warner,76,83,13,6,1,91.57
+328,2024,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,37,47,1,2,0,78.72
+328,2024,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,23,29,3,2,1,79.31
+328,2024,Delhi Capitals,Royal Challengers Bangalore,Anrich Nortje,7,7,1,0,0,100.0
+328,2024,Delhi Capitals,Royal Challengers Bangalore,Mitchell Marsh,16,17,1,0,1,94.12
+329,2024,Rajasthan Royals,Chennai Super Kings,Sanju Samson,77,77,7,2,1,100.0
+329,2024,Rajasthan Royals,Chennai Super Kings,Jos Buttler,71,83,0,4,1,85.54
+329,2024,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,22,24,0,0,1,91.67
+329,2024,Rajasthan Royals,Chennai Super Kings,Trent Boult,18,28,3,1,0,64.29
+329,2024,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,2,13,0,0,1,15.38
+330,2024,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,30,33,6,2,1,90.91
+330,2024,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,34,34,6,0,1,100.0
+330,2024,Sunrisers Hyderabad,Punjab Kings,T Natarajan,21,25,1,0,0,84.0
+330,2024,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,65,65,9,3,1,100.0
+330,2024,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,6,6,0,0,1,100.0
+331,2024,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6,14,0,0,0,42.86
+331,2024,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,63,63,7,4,0,100.0
+331,2024,Rajasthan Royals,Kolkata Knight Riders,Yashasvi Jaiswal,20,20,3,0,1,100.0
+331,2024,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,52,52,9,1,1,100.0
+331,2024,Rajasthan Royals,Kolkata Knight Riders,Ravichandran Ashwin,71,86,1,7,1,82.56
+332,2024,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,69,69,7,0,0,100.0
+332,2024,Sunrisers Hyderabad,Rajasthan Royals,Bhuvneshwar Kumar,21,31,0,0,1,67.74
+332,2024,Sunrisers Hyderabad,Rajasthan Royals,T Natarajan,0,7,0,0,1,0.0
+332,2024,Sunrisers Hyderabad,Rajasthan Royals,Washington Sundar,30,41,4,2,0,73.17
+332,2024,Sunrisers Hyderabad,Rajasthan Royals,Aiden Markram,31,37,3,0,0,83.78
+333,2024,Rajasthan Royals,Chennai Super Kings,Sanju Samson,18,23,3,0,1,78.26
+333,2024,Rajasthan Royals,Chennai Super Kings,Jos Buttler,9,9,0,0,1,100.0
+333,2024,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,75,75,5,1,1,100.0
+333,2024,Rajasthan Royals,Chennai Super Kings,Trent Boult,33,42,1,2,1,78.57
+333,2024,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,31,43,1,3,1,72.09
+334,2024,Rajasthan Royals,Chennai Super Kings,Sanju Samson,69,69,1,5,1,100.0
+334,2024,Rajasthan Royals,Chennai Super Kings,Jos Buttler,23,23,2,1,1,100.0
+334,2024,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,11,17,2,1,0,64.71
+334,2024,Rajasthan Royals,Chennai Super Kings,Trent Boult,42,55,7,0,1,76.36
+334,2024,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,25,30,1,2,0,83.33
+335,2024,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,37,37,4,2,1,100.0
+335,2024,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,78,78,2,1,0,100.0
+335,2024,Sunrisers Hyderabad,Punjab Kings,T Natarajan,57,68,8,4,1,83.82
+335,2024,Sunrisers Hyderabad,Punjab Kings,Washington Sundar,2,15,0,0,1,13.33
+335,2024,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,15,24,3,1,1,62.5
+336,2024,Sunrisers Hyderabad,Delhi Capitals,Kane Williamson,67,67,6,5,0,100.0
+336,2024,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,80,90,7,5,0,88.89
+336,2024,Sunrisers Hyderabad,Delhi Capitals,T Natarajan,34,34,5,2,1,100.0
+336,2024,Sunrisers Hyderabad,Delhi Capitals,Washington Sundar,24,24,4,1,1,100.0
+336,2024,Sunrisers Hyderabad,Delhi Capitals,Aiden Markram,0,1,0,0,0,0.0
+337,2024,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,33,33,5,2,0,100.0
+337,2024,Punjab Kings,Rajasthan Royals,Liam Livingstone,43,51,2,2,1,84.31
+337,2024,Punjab Kings,Rajasthan Royals,Arshdeep Singh,73,73,6,3,1,100.0
+337,2024,Punjab Kings,Rajasthan Royals,Sam Curran,7,13,1,0,0,53.85
+337,2024,Punjab Kings,Rajasthan Royals,Matthew Short,16,16,3,1,1,100.0
+338,2024,Rajasthan Royals,Chennai Super Kings,Sanju Samson,4,4,0,0,1,100.0
+338,2024,Rajasthan Royals,Chennai Super Kings,Jos Buttler,11,15,1,1,0,73.33
+338,2024,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,41,41,1,1,1,100.0
+338,2024,Rajasthan Royals,Chennai Super Kings,Trent Boult,46,46,6,3,1,100.0
+338,2024,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,67,67,3,6,1,100.0
+339,2024,Mumbai Indians,Delhi Capitals,Rohit Sharma,65,65,8,6,1,100.0
+339,2024,Mumbai Indians,Delhi Capitals,Hardik Pandya,51,51,2,2,1,100.0
+339,2024,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,27,27,0,1,1,100.0
+339,2024,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,18,25,3,1,1,72.0
+339,2024,Mumbai Indians,Delhi Capitals,Ishan Kishan,2,10,0,0,1,20.0
+340,2024,Sunrisers Hyderabad,Mumbai Indians,Kane Williamson,29,32,5,0,0,90.62
+340,2024,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,30,30,5,0,1,100.0
+340,2024,Sunrisers Hyderabad,Mumbai Indians,T Natarajan,40,40,3,0,1,100.0
+340,2024,Sunrisers Hyderabad,Mumbai Indians,Washington Sundar,30,30,4,1,1,100.0
+340,2024,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,3,18,0,0,0,16.67
+341,2024,Sunrisers Hyderabad,Royal Challengers Bangalore,Kane Williamson,17,17,0,0,0,100.0
+341,2024,Sunrisers Hyderabad,Royal Challengers Bangalore,Bhuvneshwar Kumar,18,29,0,1,1,62.07
+341,2024,Sunrisers Hyderabad,Royal Challengers Bangalore,T Natarajan,7,15,0,0,1,46.67
+341,2024,Sunrisers Hyderabad,Royal Challengers Bangalore,Washington Sundar,53,53,7,1,0,100.0
+341,2024,Sunrisers Hyderabad,Royal Challengers Bangalore,Aiden Markram,35,46,5,0,1,76.09
+342,2024,Sunrisers Hyderabad,Chennai Super Kings,Kane Williamson,13,18,0,0,1,72.22
+342,2024,Sunrisers Hyderabad,Chennai Super Kings,Bhuvneshwar Kumar,15,27,3,0,0,55.56
+342,2024,Sunrisers Hyderabad,Chennai Super Kings,T Natarajan,27,27,3,2,1,100.0
+342,2024,Sunrisers Hyderabad,Chennai Super Kings,Washington Sundar,72,77,9,2,1,93.51
+342,2024,Sunrisers Hyderabad,Chennai Super Kings,Aiden Markram,3,11,0,0,0,27.27
+343,2024,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,59,60,3,1,1,98.33
+343,2024,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,37,37,0,2,0,100.0
+343,2024,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,32,47,4,0,0,68.09
+343,2024,Kolkata Knight Riders,Royal Challengers Bangalore,Pat Cummins,28,33,4,1,0,84.85
+343,2024,Kolkata Knight Riders,Royal Challengers Bangalore,Venkatesh Iyer,18,18,3,0,0,100.0
+344,2024,Mumbai Indians,Delhi Capitals,Rohit Sharma,77,89,14,7,1,86.52
+344,2024,Mumbai Indians,Delhi Capitals,Hardik Pandya,13,28,2,1,1,46.43
+344,2024,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,22,22,1,2,1,100.0
+344,2024,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,1,2,0,0,0,50.0
+344,2024,Mumbai Indians,Delhi Capitals,Ishan Kishan,9,11,1,0,1,81.82
+345,2024,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,73,73,7,1,0,100.0
+345,2024,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,75,75,2,1,0,100.0
+345,2024,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,3,5,0,0,0,60.0
+345,2024,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,7,17,1,0,1,41.18
+345,2024,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,8,8,0,0,0,100.0
+346,2024,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,36,36,1,0,0,100.0
+346,2024,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,71,78,6,2,1,91.03
+346,2024,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,1,11,0,0,1,9.09
+346,2024,Mumbai Indians,Sunrisers Hyderabad,Jasprit Bumrah,48,48,0,4,0,100.0
+346,2024,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,23,23,3,0,1,100.0
+347,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,3,5,0,0,1,60.0
+347,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,46,46,7,1,1,100.0
+347,2024,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,35,35,2,0,1,100.0
+347,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,46,46,6,3,1,100.0
+347,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,0,7,0,0,0,0.0
+348,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Kane Williamson,36,45,2,1,0,80.0
+348,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,13,13,1,1,1,100.0
+348,2024,Sunrisers Hyderabad,Kolkata Knight Riders,T Natarajan,14,14,2,0,1,100.0
+348,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Washington Sundar,65,65,0,1,0,100.0
+348,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,58,58,8,1,0,100.0
+349,2024,Kolkata Knight Riders,Delhi Capitals,Shreyas Iyer,29,29,0,0,1,100.0
+349,2024,Kolkata Knight Riders,Delhi Capitals,Andre Russell,36,41,4,3,1,87.8
+349,2024,Kolkata Knight Riders,Delhi Capitals,Sunil Narine,51,51,1,5,0,100.0
+349,2024,Kolkata Knight Riders,Delhi Capitals,Pat Cummins,0,10,0,0,1,0.0
+349,2024,Kolkata Knight Riders,Delhi Capitals,Venkatesh Iyer,27,29,5,1,1,93.1
+350,2024,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,4,4,0,0,1,100.0
+350,2024,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,12,15,1,0,1,80.0
+350,2024,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,14,14,1,1,1,100.0
+350,2024,Chennai Super Kings,Royal Challengers Bangalore,Ravindra Jadeja,15,15,0,0,1,100.0
+350,2024,Chennai Super Kings,Royal Challengers Bangalore,Deepak Chahar,33,33,4,0,1,100.0
+351,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Shreyas Iyer,53,53,9,4,1,100.0
+351,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,13,19,1,0,0,68.42
+351,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Sunil Narine,62,62,0,3,1,100.0
+351,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,34,34,1,1,1,100.0
+351,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,27,27,1,2,1,100.0
+352,2024,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,47,62,9,4,1,75.81
+352,2024,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,74,74,14,2,1,100.0
+352,2024,Royal Challengers Bangalore,Sunrisers Hyderabad,Glenn Maxwell,10,19,0,1,1,52.63
+352,2024,Royal Challengers Bangalore,Sunrisers Hyderabad,Mohammed Siraj,65,65,13,6,1,100.0
+352,2024,Royal Challengers Bangalore,Sunrisers Hyderabad,Dinesh Karthik,3,9,0,0,0,33.33
+353,2024,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,65,65,10,6,1,100.0
+353,2024,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,21,29,3,2,1,72.41
+353,2024,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,9,18,1,0,1,50.0
+353,2024,Kolkata Knight Riders,Rajasthan Royals,Pat Cummins,3,9,0,0,0,33.33
+353,2024,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,7,11,0,0,0,63.64
+354,2024,Delhi Capitals,Punjab Kings,David Warner,34,45,4,2,0,75.56
+354,2024,Delhi Capitals,Punjab Kings,Rishabh Pant,56,56,2,4,1,100.0
+354,2024,Delhi Capitals,Punjab Kings,Axar Patel,49,49,2,2,1,100.0
+354,2024,Delhi Capitals,Punjab Kings,Anrich Nortje,7,16,1,0,0,43.75
+354,2024,Delhi Capitals,Punjab Kings,Mitchell Marsh,7,11,1,0,1,63.64
+355,2024,Royal Challengers Bangalore,Punjab Kings,Virat Kohli,52,52,5,1,1,100.0
+355,2024,Royal Challengers Bangalore,Punjab Kings,Faf du Plessis,5,10,1,0,1,50.0
+355,2024,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,2,6,0,0,1,33.33
+355,2024,Royal Challengers Bangalore,Punjab Kings,Mohammed Siraj,63,63,4,0,1,100.0
+355,2024,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,27,27,5,0,1,100.0
+356,2024,Rajasthan Royals,Punjab Kings,Sanju Samson,34,43,4,0,1,79.07
+356,2024,Rajasthan Royals,Punjab Kings,Jos Buttler,41,41,6,3,1,100.0
+356,2024,Rajasthan Royals,Punjab Kings,Yashasvi Jaiswal,69,69,9,5,1,100.0
+356,2024,Rajasthan Royals,Punjab Kings,Trent Boult,7,21,1,0,1,33.33
+356,2024,Rajasthan Royals,Punjab Kings,Ravichandran Ashwin,8,16,1,0,1,50.0
