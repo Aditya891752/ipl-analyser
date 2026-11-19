@@ -1,14 +1,6 @@
 # IPL Cricket Performance Dashboard
 Multi-Season Sports Performance & Match Intelligence Analysis built in Power BI with a multi-table Star Schema.
 
-# PROJECT 2: IPL Cricket Performance Dashboard
-
-**Resume Title:** `IPL Cricket Analytics Dashboard | Multi-Season Sports Performance Analysis`
-**Tools:** Power BI Desktop, DAX, Multi-table Data Model
-**Dataset:** 3 related tables | 3,896 total rows | 6 seasons (2019–2024)
-
----
-
 ## STEP 1 — Load All 3 Tables
 
 **Get Data → Text/CSV** → Load each file:
